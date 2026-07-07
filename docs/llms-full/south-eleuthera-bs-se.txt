@@ -1,0 +1,79 @@
+# South Eleuthera — Bahamas Administrative Divisions
+
+> 14 localitys
+> Code: BS.SE
+> Coordinates: 24.779, -76.21
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Bannerman Town
+
+Code: BSSEL011, Coordinates: 24.661, -76.184
+
+
+### Davis Harbor
+
+Code: BSSEL010, Coordinates: 24.731, -76.22
+
+
+### Deep Creek
+
+Code: BSSEL007, Coordinates: 24.773, -76.27
+
+
+### Delancey Town
+
+Code: BSSEL008, Coordinates: 24.767, -76.267
+
+
+### Freetown
+
+Code: BSSEL003, Coordinates: 24.779, -76.277
+
+
+### Green Castle
+
+Code: BSSEL014, Coordinates: 24.798, -76.274
+
+
+### John Millars
+
+Code: BSSEL002, Coordinates: 24.69, -76.203
+
+
+### Kemps Point
+
+Code: BSSEL004, Coordinates: 24.907, -76.182
+
+
+### Millars
+
+Code: BSSEL006, Coordinates: 24.674, -76.192
+
+
+### Rock Sound
+
+Code: BSSEL001, Coordinates: 24.9, -76.2
+
+
+### Tarpum Bay
+
+Code: BSSEL012, Coordinates: 24.97, -76.182
+
+
+### Waterford
+
+Code: BSSEL013, Coordinates: 24.75, -76.233
+
+
+### Wemyss Bight
+
+Code: BSSEL005, Coordinates: 24.709, -76.213
+
+
+### Wemyss Bight
+
+Code: BSSEL009, Coordinates: 24.75, -76.25
+
+

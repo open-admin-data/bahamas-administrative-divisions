@@ -1,0 +1,114 @@
+# Bahamas Administrative Divisions
+
+> Open dataset of Bahamas's administrative hierarchy:
+> 32 districts, 349 localitys.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total districts: 32
+- Total localitys: 349
+- Coordinates: included (all levels)
+- Last updated: 2026-07-07
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/data/all-district.json)
+- [All localitys (JSON)](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/data/all-locality.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/data/schema.json)
+
+## Browse by District
+
+- [Acklins](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/acklins-bs-ak/) — 17 localitys
+- [Berry Islands](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/berry-islands-bs-br/) — 2 localitys
+- [Biminis](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/biminis-bs-bi/) — 7 localitys
+- [Black Point](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/black-point-bs-bp/) — 2 localitys
+- [Cat Island](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/cat-island-bs-ci/) — 33 localitys
+- [Central Abaco](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/central-abaco-bs-cb/) — 6 localitys
+- [Central Andros](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/central-andros-bs-cn/) — 6 localitys
+- [Central Eleuthera](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/central-eleuthera-bs-ce/) — 9 localitys
+- [City of Freeport](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/city-of-freeport-bs-fp/) — 14 localitys
+- [Crooked Island](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/crooked-island-bs-ck/) — 13 localitys
+- [East Grand Bahama](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/east-grand-bahama-bs-eb/) — 5 localitys
+- [Exuma](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/exuma-bs-em/) — 27 localitys
+- [Grand Cay](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/grand-cay-bs-gc/) — 0 localitys
+- [Harbour Island](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/harbour-island-bs-hb/) — 1 localitys
+- [Hope Town](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/hope-town-bs-ht/) — 6 localitys
+- [Inagua](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/inagua-bs-in/) — 1 localitys
+- [Long Island](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/long-island-bs-li/) — 46 localitys
+- [Mangrove Cay](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/mangrove-cay-bs-mc/) — 5 localitys
+- [Mayaguana](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/mayaguana-bs-mg/) — 3 localitys
+- [Moore&#39;s Island](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/moore-s-island-bs-mi/) — 2 localitys
+- [New Providence](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/new-providence-bs-nw/) — 31 localitys
+- [North Abaco](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/north-abaco-bs-nb/) — 12 localitys
+- [North Andros](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/north-andros-bs-nn/) — 22 localitys
+- [North Eleuthera](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/north-eleuthera-bs-ne/) — 9 localitys
+- [Ragged Island](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/ragged-island-bs-ri/) — 1 localitys
+- [Rum Cay](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/rum-cay-bs-rc/) — 4 localitys
+- [San Salvador](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/san-salvador-bs-ss/) — 24 localitys
+- [South Abaco](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/south-abaco-bs-sb/) — 4 localitys
+- [South Andros](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/south-andros-bs-sn/) — 10 localitys
+- [South Eleuthera](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/south-eleuthera-bs-se/) — 14 localitys
+- [Spanish Wells](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/spanish-wells-bs-sw/) — 1 localitys
+- [West Grand Bahama](https://github.com/open-admin-data/bahamas-administrative-divisions/tree/main/divisions/west-grand-bahama-bs-wb/) — 12 localitys
+
+## Per-District Full Data
+
+- [Acklins](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/acklins-bs-ak.txt)
+- [Berry Islands](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/berry-islands-bs-br.txt)
+- [Biminis](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/biminis-bs-bi.txt)
+- [Black Point](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/black-point-bs-bp.txt)
+- [Cat Island](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/cat-island-bs-ci.txt)
+- [Central Abaco](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/central-abaco-bs-cb.txt)
+- [Central Andros](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/central-andros-bs-cn.txt)
+- [Central Eleuthera](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/central-eleuthera-bs-ce.txt)
+- [City of Freeport](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/city-of-freeport-bs-fp.txt)
+- [Crooked Island](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/crooked-island-bs-ck.txt)
+- [East Grand Bahama](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/east-grand-bahama-bs-eb.txt)
+- [Exuma](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/exuma-bs-em.txt)
+- [Grand Cay](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/grand-cay-bs-gc.txt)
+- [Harbour Island](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/harbour-island-bs-hb.txt)
+- [Hope Town](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/hope-town-bs-ht.txt)
+- [Inagua](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/inagua-bs-in.txt)
+- [Long Island](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/long-island-bs-li.txt)
+- [Mangrove Cay](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/mangrove-cay-bs-mc.txt)
+- [Mayaguana](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/mayaguana-bs-mg.txt)
+- [Moore&#39;s Island](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/moore-s-island-bs-mi.txt)
+- [New Providence](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/new-providence-bs-nw.txt)
+- [North Abaco](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/north-abaco-bs-nb.txt)
+- [North Andros](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/north-andros-bs-nn.txt)
+- [North Eleuthera](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/north-eleuthera-bs-ne.txt)
+- [Ragged Island](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/ragged-island-bs-ri.txt)
+- [Rum Cay](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/rum-cay-bs-rc.txt)
+- [San Salvador](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/san-salvador-bs-ss.txt)
+- [South Abaco](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/south-abaco-bs-sb.txt)
+- [South Andros](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/south-andros-bs-sn.txt)
+- [South Eleuthera](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/south-eleuthera-bs-se.txt)
+- [Spanish Wells](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/spanish-wells-bs-sw.txt)
+- [West Grand Bahama](https://raw.githubusercontent.com/open-admin-data/bahamas-administrative-divisions/main/docs/llms-full/west-grand-bahama-bs-wb.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (district), 2 (locality)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Bahamas Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/bahamas-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

@@ -1,0 +1,45 @@
+{
+  "id": "BSBIL005",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Louis Town",
+    "en": "Louis Town",
+    "slug": "louis-town-bsbil005"
+  },
+  "code": {
+    "id": "BSBIL005",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.BI",
+    "level": 1,
+    "name": {
+      "local": "Biminis",
+      "en": "Biminis",
+      "slug": "biminis-bs-bi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.BI",
+      "level": 1,
+      "name": {
+        "local": "Biminis",
+        "en": "Biminis",
+        "slug": "biminis-bs-bi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.553",
+    "lon": "-79.279"
+  },
+  "metadata": {},
+  "source": {}
+}

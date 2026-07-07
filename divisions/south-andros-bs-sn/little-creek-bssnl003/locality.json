@@ -1,0 +1,45 @@
+{
+  "id": "BSSNL003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Little Creek",
+    "en": "Little Creek",
+    "slug": "little-creek-bssnl003"
+  },
+  "code": {
+    "id": "BSSNL003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.SN",
+    "level": 1,
+    "name": {
+      "local": "South Andros",
+      "en": "South Andros",
+      "slug": "south-andros-bs-sn"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.SN",
+      "level": 1,
+      "name": {
+        "local": "South Andros",
+        "en": "South Andros",
+        "slug": "south-andros-bs-sn"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.947",
+    "lon": "-77.522"
+  },
+  "metadata": {},
+  "source": {}
+}

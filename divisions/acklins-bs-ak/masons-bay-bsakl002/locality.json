@@ -1,0 +1,45 @@
+{
+  "id": "BSAKL002",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Masons Bay",
+    "en": "Masons Bay",
+    "slug": "masons-bay-bsakl002"
+  },
+  "code": {
+    "id": "BSAKL002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.AK",
+    "level": 1,
+    "name": {
+      "local": "Acklins",
+      "en": "Acklins",
+      "slug": "acklins-bs-ak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.544",
+    "lon": "-73.878"
+  },
+  "metadata": {},
+  "source": {}
+}

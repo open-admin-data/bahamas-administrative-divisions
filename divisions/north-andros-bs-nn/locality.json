@@ -1,0 +1,992 @@
+[
+  {
+    "id": "BSNNL003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Andros Town",
+      "en": "Andros Town",
+      "slug": "andros-town-bsnnl003"
+    },
+    "code": {
+      "id": "BSNNL003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NN",
+        "level": 1,
+        "name": {
+          "local": "North Andros",
+          "en": "North Andros",
+          "slug": "north-andros-bs-nn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.7",
+      "lon": "-77.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNNL013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "August Town",
+      "en": "August Town",
+      "slug": "august-town-bsnnl013"
+    },
+    "code": {
+      "id": "BSNNL013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NN",
+        "level": 1,
+        "name": {
+          "local": "North Andros",
+          "en": "North Andros",
+          "slug": "north-andros-bs-nn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.033",
+      "lon": "-77.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNNL022",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Blanket Sound",
+      "en": "Blanket Sound",
+      "slug": "blanket-sound-bsnnl022"
+    },
+    "code": {
+      "id": "BSNNL022",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NN",
+        "level": 1,
+        "name": {
+          "local": "North Andros",
+          "en": "North Andros",
+          "slug": "north-andros-bs-nn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.85",
+      "lon": "-77.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNNL017",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Calabash Bay",
+      "en": "Calabash Bay",
+      "slug": "calabash-bay-bsnnl017"
+    },
+    "code": {
+      "id": "BSNNL017",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NN",
+        "level": 1,
+        "name": {
+          "local": "North Andros",
+          "en": "North Andros",
+          "slug": "north-andros-bs-nn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.733",
+      "lon": "-77.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNNL016",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Coakley Town",
+      "en": "Coakley Town",
+      "slug": "coakley-town-bsnnl016"
+    },
+    "code": {
+      "id": "BSNNL016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NN",
+        "level": 1,
+        "name": {
+          "local": "North Andros",
+          "en": "North Andros",
+          "slug": "north-andros-bs-nn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.726",
+      "lon": "-77.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNNL008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Conch Sound Settlement",
+      "en": "Conch Sound Settlement",
+      "slug": "conch-sound-settlement-bsnnl008"
+    },
+    "code": {
+      "id": "BSNNL008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NN",
+        "level": 1,
+        "name": {
+          "local": "North Andros",
+          "en": "North Andros",
+          "slug": "north-andros-bs-nn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.122",
+      "lon": "-77.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNNL001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fresh Creek",
+      "en": "Fresh Creek",
+      "slug": "fresh-creek-bsnnl001"
+    },
+    "code": {
+      "id": "BSNNL001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NN",
+        "level": 1,
+        "name": {
+          "local": "North Andros",
+          "en": "North Andros",
+          "slug": "north-andros-bs-nn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.69",
+      "lon": "-77.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNNL005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hard Bargain",
+      "en": "Hard Bargain",
+      "slug": "hard-bargain-bsnnl005"
+    },
+    "code": {
+      "id": "BSNNL005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NN",
+        "level": 1,
+        "name": {
+          "local": "North Andros",
+          "en": "North Andros",
+          "slug": "north-andros-bs-nn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.755",
+      "lon": "-77.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNNL019",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Love Hill",
+      "en": "Love Hill",
+      "slug": "love-hill-bsnnl019"
+    },
+    "code": {
+      "id": "BSNNL019",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NN",
+        "level": 1,
+        "name": {
+          "local": "North Andros",
+          "en": "North Andros",
+          "slug": "north-andros-bs-nn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.75",
+      "lon": "-77.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNNL004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lowe Sound Settlement",
+      "en": "Lowe Sound Settlement",
+      "slug": "lowe-sound-settlement-bsnnl004"
+    },
+    "code": {
+      "id": "BSNNL004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NN",
+        "level": 1,
+        "name": {
+          "local": "North Andros",
+          "en": "North Andros",
+          "slug": "north-andros-bs-nn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.149",
+      "lon": "-78.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNNL012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mastic Point",
+      "en": "Mastic Point",
+      "slug": "mastic-point-bsnnl012"
+    },
+    "code": {
+      "id": "BSNNL012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NN",
+        "level": 1,
+        "name": {
+          "local": "North Andros",
+          "en": "North Andros",
+          "slug": "north-andros-bs-nn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.067",
+      "lon": "-77.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNNL009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Millers Hill",
+      "en": "Millers Hill",
+      "slug": "millers-hill-bsnnl009"
+    },
+    "code": {
+      "id": "BSNNL009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NN",
+        "level": 1,
+        "name": {
+          "local": "North Andros",
+          "en": "North Andros",
+          "slug": "north-andros-bs-nn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.117",
+      "lon": "-77.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNNL007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Morgan's Bluff",
+      "en": "Morgan's Bluff",
+      "slug": "morgan-s-bluff-bsnnl007"
+    },
+    "code": {
+      "id": "BSNNL007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NN",
+        "level": 1,
+        "name": {
+          "local": "North Andros",
+          "en": "North Andros",
+          "slug": "north-andros-bs-nn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.167",
+      "lon": "-78.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNNL021",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "New Town",
+      "en": "New Town",
+      "slug": "new-town-bsnnl021"
+    },
+    "code": {
+      "id": "BSNNL021",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NN",
+        "level": 1,
+        "name": {
+          "local": "North Andros",
+          "en": "North Andros",
+          "slug": "north-andros-bs-nn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.053",
+      "lon": "-77.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNNL002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nicholls Town",
+      "en": "Nicholls Town",
+      "slug": "nicholls-town-bsnnl002"
+    },
+    "code": {
+      "id": "BSNNL002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NN",
+        "level": 1,
+        "name": {
+          "local": "North Andros",
+          "en": "North Andros",
+          "slug": "north-andros-bs-nn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.128",
+      "lon": "-77.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNNL010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Owens Town",
+      "en": "Owens Town",
+      "slug": "owens-town-bsnnl010"
+    },
+    "code": {
+      "id": "BSNNL010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NN",
+        "level": 1,
+        "name": {
+          "local": "North Andros",
+          "en": "North Andros",
+          "slug": "north-andros-bs-nn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.878",
+      "lon": "-78.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNNL015",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Red Bay Settlement",
+      "en": "Red Bay Settlement",
+      "slug": "red-bay-settlement-bsnnl015"
+    },
+    "code": {
+      "id": "BSNNL015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NN",
+        "level": 1,
+        "name": {
+          "local": "North Andros",
+          "en": "North Andros",
+          "slug": "north-andros-bs-nn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.138",
+      "lon": "-78.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNNL006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "San Andros",
+      "en": "San Andros",
+      "slug": "san-andros-bsnnl006"
+    },
+    "code": {
+      "id": "BSNNL006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NN",
+        "level": 1,
+        "name": {
+          "local": "North Andros",
+          "en": "North Andros",
+          "slug": "north-andros-bs-nn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.067",
+      "lon": "-78.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNNL018",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Seminets",
+      "en": "Seminets",
+      "slug": "seminets-bsnnl018"
+    },
+    "code": {
+      "id": "BSNNL018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NN",
+        "level": 1,
+        "name": {
+          "local": "North Andros",
+          "en": "North Andros",
+          "slug": "north-andros-bs-nn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.867",
+      "lon": "-77.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNNL020",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Stafford Creek",
+      "en": "Stafford Creek",
+      "slug": "stafford-creek-bsnnl020"
+    },
+    "code": {
+      "id": "BSNNL020",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NN",
+        "level": 1,
+        "name": {
+          "local": "North Andros",
+          "en": "North Andros",
+          "slug": "north-andros-bs-nn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.906",
+      "lon": "-77.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNNL014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Staniard Creek",
+      "en": "Staniard Creek",
+      "slug": "staniard-creek-bsnnl014"
+    },
+    "code": {
+      "id": "BSNNL014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NN",
+        "level": 1,
+        "name": {
+          "local": "North Andros",
+          "en": "North Andros",
+          "slug": "north-andros-bs-nn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.831",
+      "lon": "-77.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNNL011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Twin Lakes",
+      "en": "Twin Lakes",
+      "slug": "twin-lakes-bsnnl011"
+    },
+    "code": {
+      "id": "BSNNL011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NN",
+        "level": 1,
+        "name": {
+          "local": "North Andros",
+          "en": "North Andros",
+          "slug": "north-andros-bs-nn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.726",
+      "lon": "-77.998"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "BSLIL019",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Bowers",
+    "en": "Bowers",
+    "slug": "bowers-bslil019"
+  },
+  "code": {
+    "id": "BSLIL019",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.LI",
+    "level": 1,
+    "name": {
+      "local": "Long Island",
+      "en": "Long Island",
+      "slug": "long-island-bs-li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.25",
+    "lon": "-75.083"
+  },
+  "metadata": {},
+  "source": {}
+}

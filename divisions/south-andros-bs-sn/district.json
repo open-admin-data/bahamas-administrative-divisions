@@ -1,0 +1,33 @@
+{
+  "id": "BS.SN",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "South Andros",
+    "en": "South Andros",
+    "slug": "south-andros-bs-sn"
+  },
+  "code": {
+    "id": "BS.SN",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.968",
+    "lon": "-77.667"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/south-andros-bs-sn/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

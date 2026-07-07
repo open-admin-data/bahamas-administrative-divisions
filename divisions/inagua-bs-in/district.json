@@ -1,0 +1,33 @@
+{
+  "id": "BS.IN",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Inagua",
+    "en": "Inagua",
+    "slug": "inagua-bs-in"
+  },
+  "code": {
+    "id": "BS.IN",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.066",
+    "lon": "-73.431"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/inagua-bs-in/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

@@ -1,0 +1,79 @@
+# City of Freeport — Bahamas Administrative Divisions
+
+> 14 localitys
+> Code: BS.FP
+> Coordinates: 26.531, -78.63
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Bain Town
+
+Code: BSFPL007, Coordinates: 26.517, -78.783
+
+
+### Eight Mile Rock
+
+Code: BSFPL009, Coordinates: 26.517, -78.783
+
+
+### Hawksbill
+
+Code: BSFPL003, Coordinates: 26.5, -78.733
+
+
+### Holmes Rock
+
+Code: BSFPL005, Coordinates: 26.533, -78.8
+
+
+### Holmes Rock
+
+Code: BSFPL014, Coordinates: 26.55, -78.833
+
+
+### Hunters
+
+Code: BSFPL012, Coordinates: 26.483, -78.717
+
+
+### Martin Town
+
+Code: BSFPL011, Coordinates: 26.533, -78.8
+
+
+### Pinders Point
+
+Code: BSFPL002, Coordinates: 26.483, -78.683
+
+
+### Sea Grape
+
+Code: BSFPL010, Coordinates: 26.533, -78.817
+
+
+### Smith Point
+
+Code: BSFPL008, Coordinates: 26.5, -78.617
+
+
+### Southwest Point
+
+Code: BSFPL004, Coordinates: 26.491, -78.75
+
+
+### Thomas Town
+
+Code: BSFPL006, Coordinates: 26.65, -78.967
+
+
+### West End
+
+Code: BSFPL001, Coordinates: 26.671, -78.975
+
+
+### Williams Town
+
+Code: BSFPL013, Coordinates: 26.483, -78.667
+
+

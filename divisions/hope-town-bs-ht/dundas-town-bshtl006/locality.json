@@ -1,0 +1,45 @@
+{
+  "id": "BSHTL006",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Dundas Town",
+    "en": "Dundas Town",
+    "slug": "dundas-town-bshtl006"
+  },
+  "code": {
+    "id": "BSHTL006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.HT",
+    "level": 1,
+    "name": {
+      "local": "Hope Town",
+      "en": "Hope Town",
+      "slug": "hope-town-bs-ht"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.HT",
+      "level": 1,
+      "name": {
+        "local": "Hope Town",
+        "en": "Hope Town",
+        "slug": "hope-town-bs-ht"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.546",
+    "lon": "-77.08"
+  },
+  "metadata": {},
+  "source": {}
+}

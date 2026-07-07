@@ -1,0 +1,45 @@
+{
+  "id": "BSNBL009",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Cornishtown",
+    "en": "Cornishtown",
+    "slug": "cornishtown-bsnbl009"
+  },
+  "code": {
+    "id": "BSNBL009",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NB",
+    "level": 1,
+    "name": {
+      "local": "North Abaco",
+      "en": "North Abaco",
+      "slug": "north-abaco-bs-nb"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NB",
+      "level": 1,
+      "name": {
+        "local": "North Abaco",
+        "en": "North Abaco",
+        "slug": "north-abaco-bs-nb"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.863",
+    "lon": "-77.527"
+  },
+  "metadata": {},
+  "source": {}
+}

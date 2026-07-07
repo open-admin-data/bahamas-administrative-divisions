@@ -1,0 +1,45 @@
+{
+  "id": "BSCIL021",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Bain Town",
+    "en": "Bain Town",
+    "slug": "bain-town-bscil021"
+  },
+  "code": {
+    "id": "BSCIL021",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.CI",
+    "level": 1,
+    "name": {
+      "local": "Cat Island",
+      "en": "Cat Island",
+      "slug": "cat-island-bs-ci"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.15",
+    "lon": "-75.384"
+  },
+  "metadata": {},
+  "source": {}
+}

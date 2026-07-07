@@ -1,0 +1,33 @@
+{
+  "id": "BS.CB",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Central Abaco",
+    "en": "Central Abaco",
+    "slug": "central-abaco-bs-cb"
+  },
+  "code": {
+    "id": "BS.CB",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.407",
+    "lon": "-77.141"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/central-abaco-bs-cb/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

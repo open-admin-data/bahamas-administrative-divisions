@@ -1,0 +1,33 @@
+{
+  "id": "BS.WB",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "West Grand Bahama",
+    "en": "West Grand Bahama",
+    "slug": "west-grand-bahama-bs-wb"
+  },
+  "code": {
+    "id": "BS.WB",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.635",
+    "lon": "-78.511"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/west-grand-bahama-bs-wb/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

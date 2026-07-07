@@ -1,0 +1,92 @@
+[
+  {
+    "id": "BSBPL001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Black Point",
+      "en": "Black Point",
+      "slug": "black-point-bsbpl001"
+    },
+    "code": {
+      "id": "BSBPL001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.BP",
+      "level": 1,
+      "name": {
+        "local": "Black Point",
+        "en": "Black Point",
+        "slug": "black-point-bs-bp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.BP",
+        "level": 1,
+        "name": {
+          "local": "Black Point",
+          "en": "Black Point",
+          "slug": "black-point-bs-bp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.1",
+      "lon": "-76.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSBPL002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Little Farmers Cay",
+      "en": "Little Farmers Cay",
+      "slug": "little-farmers-cay-bsbpl002"
+    },
+    "code": {
+      "id": "BSBPL002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.BP",
+      "level": 1,
+      "name": {
+        "local": "Black Point",
+        "en": "Black Point",
+        "slug": "black-point-bs-bp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.BP",
+        "level": 1,
+        "name": {
+          "local": "Black Point",
+          "en": "Black Point",
+          "slug": "black-point-bs-bp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.95",
+      "lon": "-76.317"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,29 @@
+# Rum Cay — Bahamas Administrative Divisions
+
+> 4 localitys
+> Code: BS.RC
+> Coordinates: 23.687, -74.846
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Glintons
+
+Code: BSRCL002, Coordinates: 23.633, -75.3
+
+
+### Port Boyd
+
+Code: BSRCL004, Coordinates: 23.704, -74.821
+
+
+### Port Nelson
+
+Code: BSRCL001, Coordinates: 23.633, -74.833
+
+
+### Sugar Loaf
+
+Code: BSRCL003, Coordinates: 23.65, -74.517
+
+

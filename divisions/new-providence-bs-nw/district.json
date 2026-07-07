@@ -1,0 +1,33 @@
+{
+  "id": "BS.NW",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "New Providence",
+    "en": "New Providence",
+    "slug": "new-providence-bs-nw"
+  },
+  "code": {
+    "id": "BS.NW",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 31
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.04",
+    "lon": "-77.395"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/new-providence-bs-nw/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

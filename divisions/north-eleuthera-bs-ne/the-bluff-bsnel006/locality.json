@@ -1,0 +1,45 @@
+{
+  "id": "BSNEL006",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "The Bluff",
+    "en": "The Bluff",
+    "slug": "the-bluff-bsnel006"
+  },
+  "code": {
+    "id": "BSNEL006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NE",
+    "level": 1,
+    "name": {
+      "local": "North Eleuthera",
+      "en": "North Eleuthera",
+      "slug": "north-eleuthera-bs-ne"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NE",
+      "level": 1,
+      "name": {
+        "local": "North Eleuthera",
+        "en": "North Eleuthera",
+        "slug": "north-eleuthera-bs-ne"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.499",
+    "lon": "-76.723"
+  },
+  "metadata": {},
+  "source": {}
+}

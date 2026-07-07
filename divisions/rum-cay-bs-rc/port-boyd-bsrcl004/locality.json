@@ -1,0 +1,45 @@
+{
+  "id": "BSRCL004",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Port Boyd",
+    "en": "Port Boyd",
+    "slug": "port-boyd-bsrcl004"
+  },
+  "code": {
+    "id": "BSRCL004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.RC",
+    "level": 1,
+    "name": {
+      "local": "Rum Cay",
+      "en": "Rum Cay",
+      "slug": "rum-cay-bs-rc"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.RC",
+      "level": 1,
+      "name": {
+        "local": "Rum Cay",
+        "en": "Rum Cay",
+        "slug": "rum-cay-bs-rc"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.704",
+    "lon": "-74.821"
+  },
+  "metadata": {},
+  "source": {}
+}

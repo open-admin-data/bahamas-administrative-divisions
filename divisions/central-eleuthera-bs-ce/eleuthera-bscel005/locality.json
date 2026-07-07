@@ -1,0 +1,45 @@
+{
+  "id": "BSCEL005",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Eleuthera",
+    "en": "Eleuthera",
+    "slug": "eleuthera-bscel005"
+  },
+  "code": {
+    "id": "BSCEL005",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.CE",
+    "level": 1,
+    "name": {
+      "local": "Central Eleuthera",
+      "en": "Central Eleuthera",
+      "slug": "central-eleuthera-bs-ce"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.CE",
+      "level": 1,
+      "name": {
+        "local": "Central Eleuthera",
+        "en": "Central Eleuthera",
+        "slug": "central-eleuthera-bs-ce"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.136",
+    "lon": "-76.15"
+  },
+  "metadata": {},
+  "source": {}
+}

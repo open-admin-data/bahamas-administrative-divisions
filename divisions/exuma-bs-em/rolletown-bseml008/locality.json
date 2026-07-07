@@ -1,0 +1,45 @@
+{
+  "id": "BSEML008",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Rolletown",
+    "en": "Rolletown",
+    "slug": "rolletown-bseml008"
+  },
+  "code": {
+    "id": "BSEML008",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.EM",
+    "level": 1,
+    "name": {
+      "local": "Exuma",
+      "en": "Exuma",
+      "slug": "exuma-bs-em"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.463",
+    "lon": "-75.704"
+  },
+  "metadata": {},
+  "source": {}
+}

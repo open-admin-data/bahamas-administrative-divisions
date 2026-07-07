@@ -1,0 +1,317 @@
+[
+  {
+    "id": "BSBIL001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Alice Town",
+      "en": "Alice Town",
+      "slug": "alice-town-bsbil001"
+    },
+    "code": {
+      "id": "BSBIL001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.BI",
+      "level": 1,
+      "name": {
+        "local": "Biminis",
+        "en": "Biminis",
+        "slug": "biminis-bs-bi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.BI",
+        "level": 1,
+        "name": {
+          "local": "Biminis",
+          "en": "Biminis",
+          "slug": "biminis-bs-bi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.717",
+      "lon": "-79.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSBIL006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bailey Town",
+      "en": "Bailey Town",
+      "slug": "bailey-town-bsbil006"
+    },
+    "code": {
+      "id": "BSBIL006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.BI",
+      "level": 1,
+      "name": {
+        "local": "Biminis",
+        "en": "Biminis",
+        "slug": "biminis-bs-bi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.BI",
+        "level": 1,
+        "name": {
+          "local": "Biminis",
+          "en": "Biminis",
+          "slug": "biminis-bs-bi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.744",
+      "lon": "-79.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSBIL002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bluff",
+      "en": "Bluff",
+      "slug": "bluff-bsbil002"
+    },
+    "code": {
+      "id": "BSBIL002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.BI",
+      "level": 1,
+      "name": {
+        "local": "Biminis",
+        "en": "Biminis",
+        "slug": "biminis-bs-bi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.BI",
+        "level": 1,
+        "name": {
+          "local": "Biminis",
+          "en": "Biminis",
+          "slug": "biminis-bs-bi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.783",
+      "lon": "-79.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSBIL007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gun Cay",
+      "en": "Gun Cay",
+      "slug": "gun-cay-bsbil007"
+    },
+    "code": {
+      "id": "BSBIL007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.BI",
+      "level": 1,
+      "name": {
+        "local": "Biminis",
+        "en": "Biminis",
+        "slug": "biminis-bs-bi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.BI",
+        "level": 1,
+        "name": {
+          "local": "Biminis",
+          "en": "Biminis",
+          "slug": "biminis-bs-bi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.582",
+      "lon": "-79.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSBIL005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Louis Town",
+      "en": "Louis Town",
+      "slug": "louis-town-bsbil005"
+    },
+    "code": {
+      "id": "BSBIL005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.BI",
+      "level": 1,
+      "name": {
+        "local": "Biminis",
+        "en": "Biminis",
+        "slug": "biminis-bs-bi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.BI",
+        "level": 1,
+        "name": {
+          "local": "Biminis",
+          "en": "Biminis",
+          "slug": "biminis-bs-bi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.553",
+      "lon": "-79.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSBIL003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "North Cat Cay",
+      "en": "North Cat Cay",
+      "slug": "north-cat-cay-bsbil003"
+    },
+    "code": {
+      "id": "BSBIL003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.BI",
+      "level": 1,
+      "name": {
+        "local": "Biminis",
+        "en": "Biminis",
+        "slug": "biminis-bs-bi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.BI",
+        "level": 1,
+        "name": {
+          "local": "Biminis",
+          "en": "Biminis",
+          "slug": "biminis-bs-bi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.555",
+      "lon": "-79.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSBIL004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Port Royal",
+      "en": "Port Royal",
+      "slug": "port-royal-bsbil004"
+    },
+    "code": {
+      "id": "BSBIL004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.BI",
+      "level": 1,
+      "name": {
+        "local": "Biminis",
+        "en": "Biminis",
+        "slug": "biminis-bs-bi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.BI",
+        "level": 1,
+        "name": {
+          "local": "Biminis",
+          "en": "Biminis",
+          "slug": "biminis-bs-bi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.701",
+      "lon": "-79.303"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

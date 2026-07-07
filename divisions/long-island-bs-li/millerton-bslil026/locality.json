@@ -1,0 +1,45 @@
+{
+  "id": "BSLIL026",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Millerton",
+    "en": "Millerton",
+    "slug": "millerton-bslil026"
+  },
+  "code": {
+    "id": "BSLIL026",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.LI",
+    "level": 1,
+    "name": {
+      "local": "Long Island",
+      "en": "Long Island",
+      "slug": "long-island-bs-li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.55",
+    "lon": "-75.25"
+  },
+  "metadata": {},
+  "source": {}
+}

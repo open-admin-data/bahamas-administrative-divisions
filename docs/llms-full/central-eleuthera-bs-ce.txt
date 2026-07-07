@@ -1,0 +1,54 @@
+# Central Eleuthera — Bahamas Administrative Divisions
+
+> 9 localitys
+> Code: BS.CE
+> Coordinates: 25.187, -76.223
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Colebrooke Dale
+
+Code: BSCEL008, Coordinates: 25.2, -76.25
+
+
+### Eleuthera
+
+Code: BSCEL005, Coordinates: 25.136, -76.15
+
+
+### Governor&#39;s Harbour
+
+Code: BSCEL004, Coordinates: 25.167, -76.233
+
+
+### North Palmetto Point
+
+Code: BSCEL009, Coordinates: 25.167, -76.183
+
+
+### Palmetto Point
+
+Code: BSCEL007, Coordinates: 25.167, -76.167
+
+
+### Rainbow Bay
+
+Code: BSCEL002, Coordinates: 25.333, -76.428
+
+
+### Savannah Sound
+
+Code: BSCEL001, Coordinates: 25.1, -76.15
+
+
+### South Palmetto Point
+
+Code: BSCEL003, Coordinates: 25.15, -76.183
+
+
+### South Palmetto Point
+
+Code: BSCEL006, Coordinates: 25.15, -76.172
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "BSFPL007",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Bain Town",
+    "en": "Bain Town",
+    "slug": "bain-town-bsfpl007"
+  },
+  "code": {
+    "id": "BSFPL007",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.FP",
+    "level": 1,
+    "name": {
+      "local": "City of Freeport",
+      "en": "City of Freeport",
+      "slug": "city-of-freeport-bs-fp"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.FP",
+      "level": 1,
+      "name": {
+        "local": "City of Freeport",
+        "en": "City of Freeport",
+        "slug": "city-of-freeport-bs-fp"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.517",
+    "lon": "-78.783"
+  },
+  "metadata": {},
+  "source": {}
+}

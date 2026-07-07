@@ -1,0 +1,45 @@
+{
+  "id": "BSAKL005",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Golden Grove",
+    "en": "Golden Grove",
+    "slug": "golden-grove-bsakl005"
+  },
+  "code": {
+    "id": "BSAKL005",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.AK",
+    "level": 1,
+    "name": {
+      "local": "Acklins",
+      "en": "Acklins",
+      "slug": "acklins-bs-ak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.467",
+    "lon": "-73.9"
+  },
+  "metadata": {},
+  "source": {}
+}

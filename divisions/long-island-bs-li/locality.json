@@ -1,0 +1,2072 @@
+[
+  {
+    "id": "BSLIL016",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Adderly",
+      "en": "Adderly",
+      "slug": "adderly-bslil016"
+    },
+    "code": {
+      "id": "BSLIL016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.581",
+      "lon": "-75.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL032",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Alligator Bay Settlement",
+      "en": "Alligator Bay Settlement",
+      "slug": "alligator-bay-settlement-bslil032"
+    },
+    "code": {
+      "id": "BSLIL032",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.45",
+      "lon": "-75.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL025",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Anderson",
+      "en": "Anderson",
+      "slug": "anderson-bslil025"
+    },
+    "code": {
+      "id": "BSLIL025",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.533",
+      "lon": "-75.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Andersons",
+      "en": "Andersons",
+      "slug": "andersons-bslil007"
+    },
+    "code": {
+      "id": "BSLIL007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.217",
+      "lon": "-75.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL046",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bains",
+      "en": "Bains",
+      "slug": "bains-bslil046"
+    },
+    "code": {
+      "id": "BSLIL046",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.45",
+      "lon": "-75.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Berrys",
+      "en": "Berrys",
+      "slug": "berrys-bslil011"
+    },
+    "code": {
+      "id": "BSLIL011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.954",
+      "lon": "-74.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL019",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bowers",
+      "en": "Bowers",
+      "slug": "bowers-bslil019"
+    },
+    "code": {
+      "id": "BSLIL019",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.25",
+      "lon": "-75.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL045",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Buckleys",
+      "en": "Buckleys",
+      "slug": "buckleys-bslil045"
+    },
+    "code": {
+      "id": "BSLIL045",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.15",
+      "lon": "-75.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL022",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Burnt Ground",
+      "en": "Burnt Ground",
+      "slug": "burnt-ground-bslil022"
+    },
+    "code": {
+      "id": "BSLIL022",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.611",
+      "lon": "-75.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL037",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cabbage Point",
+      "en": "Cabbage Point",
+      "slug": "cabbage-point-bslil037"
+    },
+    "code": {
+      "id": "BSLIL037",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.933",
+      "lon": "-74.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL035",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cartwright",
+      "en": "Cartwright",
+      "slug": "cartwright-bslil035"
+    },
+    "code": {
+      "id": "BSLIL035",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.133",
+      "lon": "-75.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Clarence Town",
+      "en": "Clarence Town",
+      "slug": "clarence-town-bslil001"
+    },
+    "code": {
+      "id": "BSLIL001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.1",
+      "lon": "-74.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Deadman's Cay",
+      "en": "Deadman's Cay",
+      "slug": "deadman-s-cay-bslil004"
+    },
+    "code": {
+      "id": "BSLIL004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.179",
+      "lon": "-75.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL029",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Doctor's Creek",
+      "en": "Doctor's Creek",
+      "slug": "doctor-s-creek-bslil029"
+    },
+    "code": {
+      "id": "BSLIL029",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.467",
+      "lon": "-75.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL027",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dunmore",
+      "en": "Dunmore",
+      "slug": "dunmore-bslil027"
+    },
+    "code": {
+      "id": "BSLIL027",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.048",
+      "lon": "-74.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ford",
+      "en": "Ford",
+      "slug": "ford-bslil013"
+    },
+    "code": {
+      "id": "BSLIL013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.917",
+      "lon": "-74.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL030",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Galloway Landing",
+      "en": "Galloway Landing",
+      "slug": "galloway-landing-bslil030"
+    },
+    "code": {
+      "id": "BSLIL030",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.062",
+      "lon": "-74.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL020",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gordon's",
+      "en": "Gordon's",
+      "slug": "gordon-s-bslil020"
+    },
+    "code": {
+      "id": "BSLIL020",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.867",
+      "lon": "-74.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Grays",
+      "en": "Grays",
+      "slug": "grays-bslil012"
+    },
+    "code": {
+      "id": "BSLIL012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.253",
+      "lon": "-75.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL036",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hard Bargain",
+      "en": "Hard Bargain",
+      "slug": "hard-bargain-bslil036"
+    },
+    "code": {
+      "id": "BSLIL036",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.018",
+      "lon": "-74.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lower Deadman's Cay",
+      "en": "Lower Deadman's Cay",
+      "slug": "lower-deadman-s-cay-bslil008"
+    },
+    "code": {
+      "id": "BSLIL008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.166",
+      "lon": "-75.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL039",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mangrove Bush",
+      "en": "Mangrove Bush",
+      "slug": "mangrove-bush-bslil039"
+    },
+    "code": {
+      "id": "BSLIL039",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.133",
+      "lon": "-75.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL018",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "McKanns",
+      "en": "McKanns",
+      "slug": "mckanns-bslil018"
+    },
+    "code": {
+      "id": "BSLIL018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.367",
+      "lon": "-75.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL021",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "McKenzie",
+      "en": "McKenzie",
+      "slug": "mckenzie-bslil021"
+    },
+    "code": {
+      "id": "BSLIL021",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.133",
+      "lon": "-75.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL044",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "McKenzie",
+      "en": "McKenzie",
+      "slug": "mckenzie-bslil044"
+    },
+    "code": {
+      "id": "BSLIL044",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.017",
+      "lon": "-74.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Millers",
+      "en": "Millers",
+      "slug": "millers-bslil003"
+    },
+    "code": {
+      "id": "BSLIL003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.4",
+      "lon": "-75.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL026",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Millerton",
+      "en": "Millerton",
+      "slug": "millerton-bslil026"
+    },
+    "code": {
+      "id": "BSLIL026",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.55",
+      "lon": "-75.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL034",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mortimers",
+      "en": "Mortimers",
+      "slug": "mortimers-bslil034"
+    },
+    "code": {
+      "id": "BSLIL034",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.906",
+      "lon": "-74.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL031",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "O'Neils",
+      "en": "O'Neils",
+      "slug": "o-neils-bslil031"
+    },
+    "code": {
+      "id": "BSLIL031",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.5",
+      "lon": "-75.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL023",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Old Grays",
+      "en": "Old Grays",
+      "slug": "old-grays-bslil023"
+    },
+    "code": {
+      "id": "BSLIL023",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.217",
+      "lon": "-75.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL042",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pinders",
+      "en": "Pinders",
+      "slug": "pinders-bslil042"
+    },
+    "code": {
+      "id": "BSLIL042",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.283",
+      "lon": "-75.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Roses",
+      "en": "Roses",
+      "slug": "roses-bslil009"
+    },
+    "code": {
+      "id": "BSLIL009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.983",
+      "lon": "-74.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Salt Pond",
+      "en": "Salt Pond",
+      "slug": "salt-pond-bslil002"
+    },
+    "code": {
+      "id": "BSLIL002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.346",
+      "lon": "-75.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL038",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sam McKinnons",
+      "en": "Sam McKinnons",
+      "slug": "sam-mckinnons-bslil038"
+    },
+    "code": {
+      "id": "BSLIL038",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.4",
+      "lon": "-75.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Scrub Hill",
+      "en": "Scrub Hill",
+      "slug": "scrub-hill-bslil010"
+    },
+    "code": {
+      "id": "BSLIL010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.1",
+      "lon": "-75.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL024",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Scrub Hill",
+      "en": "Scrub Hill",
+      "slug": "scrub-hill-bslil024"
+    },
+    "code": {
+      "id": "BSLIL024",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.483",
+      "lon": "-75.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL041",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Seymour's",
+      "en": "Seymour's",
+      "slug": "seymour-s-bslil041"
+    },
+    "code": {
+      "id": "BSLIL041",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.656",
+      "lon": "-75.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Simms",
+      "en": "Simms",
+      "slug": "simms-bslil014"
+    },
+    "code": {
+      "id": "BSLIL014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.479",
+      "lon": "-75.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL028",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Stella Maris",
+      "en": "Stella Maris",
+      "slug": "stella-maris-bslil028"
+    },
+    "code": {
+      "id": "BSLIL028",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.592",
+      "lon": "-75.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Stevens",
+      "en": "Stevens",
+      "slug": "stevens-bslil005"
+    },
+    "code": {
+      "id": "BSLIL005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.083",
+      "lon": "-75.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL033",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taits",
+      "en": "Taits",
+      "slug": "taits-bslil033"
+    },
+    "code": {
+      "id": "BSLIL033",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.983",
+      "lon": "-74.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL043",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tatnall",
+      "en": "Tatnall",
+      "slug": "tatnall-bslil043"
+    },
+    "code": {
+      "id": "BSLIL043",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.483",
+      "lon": "-75.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL017",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Turnbull",
+      "en": "Turnbull",
+      "slug": "turnbull-bslil017"
+    },
+    "code": {
+      "id": "BSLIL017",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.083",
+      "lon": "-75.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Victoria Village",
+      "en": "Victoria Village",
+      "slug": "victoria-village-bslil006"
+    },
+    "code": {
+      "id": "BSLIL006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.083",
+      "lon": "-74.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL015",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Wemyss",
+      "en": "Wemyss",
+      "slug": "wemyss-bslil015"
+    },
+    "code": {
+      "id": "BSLIL015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.417",
+      "lon": "-75.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSLIL040",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Whitehouse",
+      "en": "Whitehouse",
+      "slug": "whitehouse-bslil040"
+    },
+    "code": {
+      "id": "BSLIL040",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.LI",
+        "level": 1,
+        "name": {
+          "local": "Long Island",
+          "en": "Long Island",
+          "slug": "long-island-bs-li"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.4",
+      "lon": "-75.167"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

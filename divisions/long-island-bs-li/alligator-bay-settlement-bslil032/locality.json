@@ -1,0 +1,45 @@
+{
+  "id": "BSLIL032",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Alligator Bay Settlement",
+    "en": "Alligator Bay Settlement",
+    "slug": "alligator-bay-settlement-bslil032"
+  },
+  "code": {
+    "id": "BSLIL032",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.LI",
+    "level": 1,
+    "name": {
+      "local": "Long Island",
+      "en": "Long Island",
+      "slug": "long-island-bs-li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.45",
+    "lon": "-75.217"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BSCIL006",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Freetown",
+    "en": "Freetown",
+    "slug": "freetown-bscil006"
+  },
+  "code": {
+    "id": "BSCIL006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.CI",
+    "level": 1,
+    "name": {
+      "local": "Cat Island",
+      "en": "Cat Island",
+      "slug": "cat-island-bs-ci"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.303",
+    "lon": "-75.431"
+  },
+  "metadata": {},
+  "source": {}
+}

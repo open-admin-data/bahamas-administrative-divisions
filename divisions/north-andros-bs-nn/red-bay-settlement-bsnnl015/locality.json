@@ -1,0 +1,45 @@
+{
+  "id": "BSNNL015",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Red Bay Settlement",
+    "en": "Red Bay Settlement",
+    "slug": "red-bay-settlement-bsnnl015"
+  },
+  "code": {
+    "id": "BSNNL015",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NN",
+    "level": 1,
+    "name": {
+      "local": "North Andros",
+      "en": "North Andros",
+      "slug": "north-andros-bs-nn"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.138",
+    "lon": "-78.195"
+  },
+  "metadata": {},
+  "source": {}
+}

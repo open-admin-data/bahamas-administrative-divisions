@@ -1,0 +1,45 @@
+{
+  "id": "BSNEL002",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "James Cistern",
+    "en": "James Cistern",
+    "slug": "james-cistern-bsnel002"
+  },
+  "code": {
+    "id": "BSNEL002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NE",
+    "level": 1,
+    "name": {
+      "local": "North Eleuthera",
+      "en": "North Eleuthera",
+      "slug": "north-eleuthera-bs-ne"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NE",
+      "level": 1,
+      "name": {
+        "local": "North Eleuthera",
+        "en": "North Eleuthera",
+        "slug": "north-eleuthera-bs-ne"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.326",
+    "lon": "-76.362"
+  },
+  "metadata": {},
+  "source": {}
+}

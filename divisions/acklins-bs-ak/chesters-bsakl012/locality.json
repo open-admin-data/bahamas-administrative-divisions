@@ -1,0 +1,45 @@
+{
+  "id": "BSAKL012",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Chesters",
+    "en": "Chesters",
+    "slug": "chesters-bsakl012"
+  },
+  "code": {
+    "id": "BSAKL012",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.AK",
+    "level": 1,
+    "name": {
+      "local": "Acklins",
+      "en": "Acklins",
+      "slug": "acklins-bs-ak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.707",
+    "lon": "-73.918"
+  },
+  "metadata": {},
+  "source": {}
+}

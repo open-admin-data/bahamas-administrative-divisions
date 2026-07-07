@@ -1,0 +1,45 @@
+{
+  "id": "BSWBL003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Water Cay",
+    "en": "Water Cay",
+    "slug": "water-cay-bswbl003"
+  },
+  "code": {
+    "id": "BSWBL003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.WB",
+    "level": 1,
+    "name": {
+      "local": "West Grand Bahama",
+      "en": "West Grand Bahama",
+      "slug": "west-grand-bahama-bs-wb"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.WB",
+      "level": 1,
+      "name": {
+        "local": "West Grand Bahama",
+        "en": "West Grand Bahama",
+        "slug": "west-grand-bahama-bs-wb"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.75",
+    "lon": "-78.5"
+  },
+  "metadata": {},
+  "source": {}
+}

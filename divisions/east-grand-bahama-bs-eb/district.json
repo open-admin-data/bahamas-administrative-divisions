@@ -1,0 +1,33 @@
+{
+  "id": "BS.EB",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "East Grand Bahama",
+    "en": "East Grand Bahama",
+    "slug": "east-grand-bahama-bs-eb"
+  },
+  "code": {
+    "id": "BS.EB",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.672",
+    "lon": "-78.162"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/east-grand-bahama-bs-eb/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

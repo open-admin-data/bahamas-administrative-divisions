@@ -1,0 +1,45 @@
+{
+  "id": "BSHTL003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Great Guana Cay",
+    "en": "Great Guana Cay",
+    "slug": "great-guana-cay-bshtl003"
+  },
+  "code": {
+    "id": "BSHTL003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.HT",
+    "level": 1,
+    "name": {
+      "local": "Hope Town",
+      "en": "Hope Town",
+      "slug": "hope-town-bs-ht"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.HT",
+      "level": 1,
+      "name": {
+        "local": "Hope Town",
+        "en": "Hope Town",
+        "slug": "hope-town-bs-ht"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.667",
+    "lon": "-77.108"
+  },
+  "metadata": {},
+  "source": {}
+}

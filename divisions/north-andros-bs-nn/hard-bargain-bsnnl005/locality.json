@@ -1,0 +1,45 @@
+{
+  "id": "BSNNL005",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Hard Bargain",
+    "en": "Hard Bargain",
+    "slug": "hard-bargain-bsnnl005"
+  },
+  "code": {
+    "id": "BSNNL005",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NN",
+    "level": 1,
+    "name": {
+      "local": "North Andros",
+      "en": "North Andros",
+      "slug": "north-andros-bs-nn"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.755",
+    "lon": "-77.798"
+  },
+  "metadata": {},
+  "source": {}
+}

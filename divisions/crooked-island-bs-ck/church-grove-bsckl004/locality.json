@@ -1,0 +1,45 @@
+{
+  "id": "BSCKL004",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Church Grove",
+    "en": "Church Grove",
+    "slug": "church-grove-bsckl004"
+  },
+  "code": {
+    "id": "BSCKL004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.CK",
+    "level": 1,
+    "name": {
+      "local": "Crooked Island",
+      "en": "Crooked Island",
+      "slug": "crooked-island-bs-ck"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.CK",
+      "level": 1,
+      "name": {
+        "local": "Crooked Island",
+        "en": "Crooked Island",
+        "slug": "crooked-island-bs-ck"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.75",
+    "lon": "-74.217"
+  },
+  "metadata": {},
+  "source": {}
+}

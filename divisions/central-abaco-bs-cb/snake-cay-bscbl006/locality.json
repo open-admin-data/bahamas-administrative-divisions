@@ -1,0 +1,45 @@
+{
+  "id": "BSCBL006",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Snake Cay",
+    "en": "Snake Cay",
+    "slug": "snake-cay-bscbl006"
+  },
+  "code": {
+    "id": "BSCBL006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.CB",
+    "level": 1,
+    "name": {
+      "local": "Central Abaco",
+      "en": "Central Abaco",
+      "slug": "central-abaco-bs-cb"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.CB",
+      "level": 1,
+      "name": {
+        "local": "Central Abaco",
+        "en": "Central Abaco",
+        "slug": "central-abaco-bs-cb"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.457",
+    "lon": "-77.048"
+  },
+  "metadata": {},
+  "source": {}
+}

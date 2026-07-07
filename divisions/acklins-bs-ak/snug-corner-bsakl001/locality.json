@@ -1,0 +1,45 @@
+{
+  "id": "BSAKL001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Snug Corner",
+    "en": "Snug Corner",
+    "slug": "snug-corner-bsakl001"
+  },
+  "code": {
+    "id": "BSAKL001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.AK",
+    "level": 1,
+    "name": {
+      "local": "Acklins",
+      "en": "Acklins",
+      "slug": "acklins-bs-ak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.533",
+    "lon": "-73.883"
+  },
+  "metadata": {},
+  "source": {}
+}

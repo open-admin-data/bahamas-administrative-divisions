@@ -1,0 +1,45 @@
+{
+  "id": "BSSEL002",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "John Millars",
+    "en": "John Millars",
+    "slug": "john-millars-bssel002"
+  },
+  "code": {
+    "id": "BSSEL002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.SE",
+    "level": 1,
+    "name": {
+      "local": "South Eleuthera",
+      "en": "South Eleuthera",
+      "slug": "south-eleuthera-bs-se"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.SE",
+      "level": 1,
+      "name": {
+        "local": "South Eleuthera",
+        "en": "South Eleuthera",
+        "slug": "south-eleuthera-bs-se"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.69",
+    "lon": "-76.203"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BSAKL017",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Abercorn",
+    "en": "Abercorn",
+    "slug": "abercorn-bsakl017"
+  },
+  "code": {
+    "id": "BSAKL017",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.AK",
+    "level": 1,
+    "name": {
+      "local": "Acklins",
+      "en": "Acklins",
+      "slug": "acklins-bs-ak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.367",
+    "lon": "-73.95"
+  },
+  "metadata": {},
+  "source": {}
+}

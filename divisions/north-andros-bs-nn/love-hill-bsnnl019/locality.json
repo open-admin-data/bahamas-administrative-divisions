@@ -1,0 +1,45 @@
+{
+  "id": "BSNNL019",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Love Hill",
+    "en": "Love Hill",
+    "slug": "love-hill-bsnnl019"
+  },
+  "code": {
+    "id": "BSNNL019",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NN",
+    "level": 1,
+    "name": {
+      "local": "North Andros",
+      "en": "North Andros",
+      "slug": "north-andros-bs-nn"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.75",
+    "lon": "-77.85"
+  },
+  "metadata": {},
+  "source": {}
+}

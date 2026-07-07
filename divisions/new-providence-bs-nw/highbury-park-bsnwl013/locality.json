@@ -1,0 +1,45 @@
+{
+  "id": "BSNWL013",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Highbury Park",
+    "en": "Highbury Park",
+    "slug": "highbury-park-bsnwl013"
+  },
+  "code": {
+    "id": "BSNWL013",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NW",
+    "level": 1,
+    "name": {
+      "local": "New Providence",
+      "en": "New Providence",
+      "slug": "new-providence-bs-nw"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.033",
+    "lon": "-77.317"
+  },
+  "metadata": {},
+  "source": {}
+}

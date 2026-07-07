@@ -1,0 +1,45 @@
+{
+  "id": "BSLIL028",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Stella Maris",
+    "en": "Stella Maris",
+    "slug": "stella-maris-bslil028"
+  },
+  "code": {
+    "id": "BSLIL028",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.LI",
+    "level": 1,
+    "name": {
+      "local": "Long Island",
+      "en": "Long Island",
+      "slug": "long-island-bs-li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.592",
+    "lon": "-75.265"
+  },
+  "metadata": {},
+  "source": {}
+}

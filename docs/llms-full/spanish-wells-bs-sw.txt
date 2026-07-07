@@ -1,0 +1,14 @@
+# Spanish Wells — Bahamas Administrative Divisions
+
+> 1 localitys
+> Code: BS.SW
+> Coordinates: 25.524, -76.83
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Little Bay Settlement
+
+Code: BSSWL001, Coordinates: 25.333, -76.833
+
+

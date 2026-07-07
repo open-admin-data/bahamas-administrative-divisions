@@ -1,0 +1,45 @@
+{
+  "id": "BSLIL017",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Turnbull",
+    "en": "Turnbull",
+    "slug": "turnbull-bslil017"
+  },
+  "code": {
+    "id": "BSLIL017",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.LI",
+    "level": 1,
+    "name": {
+      "local": "Long Island",
+      "en": "Long Island",
+      "slug": "long-island-bs-li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.083",
+    "lon": "-75.017"
+  },
+  "metadata": {},
+  "source": {}
+}

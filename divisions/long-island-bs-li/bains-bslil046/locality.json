@@ -1,0 +1,45 @@
+{
+  "id": "BSLIL046",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Bains",
+    "en": "Bains",
+    "slug": "bains-bslil046"
+  },
+  "code": {
+    "id": "BSLIL046",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.LI",
+    "level": 1,
+    "name": {
+      "local": "Long Island",
+      "en": "Long Island",
+      "slug": "long-island-bs-li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.45",
+    "lon": "-75.217"
+  },
+  "metadata": {},
+  "source": {}
+}

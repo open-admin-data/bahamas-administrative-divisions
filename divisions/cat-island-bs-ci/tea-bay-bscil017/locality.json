@@ -1,0 +1,45 @@
+{
+  "id": "BSCIL017",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Tea Bay",
+    "en": "Tea Bay",
+    "slug": "tea-bay-bscil017"
+  },
+  "code": {
+    "id": "BSCIL017",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.CI",
+    "level": 1,
+    "name": {
+      "local": "Cat Island",
+      "en": "Cat Island",
+      "slug": "cat-island-bs-ci"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.4",
+    "lon": "-75.517"
+  },
+  "metadata": {},
+  "source": {}
+}

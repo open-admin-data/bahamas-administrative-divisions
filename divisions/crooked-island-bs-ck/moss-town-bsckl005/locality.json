@@ -1,0 +1,45 @@
+{
+  "id": "BSCKL005",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Moss Town",
+    "en": "Moss Town",
+    "slug": "moss-town-bsckl005"
+  },
+  "code": {
+    "id": "BSCKL005",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.CK",
+    "level": 1,
+    "name": {
+      "local": "Crooked Island",
+      "en": "Crooked Island",
+      "slug": "crooked-island-bs-ck"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.CK",
+      "level": 1,
+      "name": {
+        "local": "Crooked Island",
+        "en": "Crooked Island",
+        "slug": "crooked-island-bs-ck"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.8",
+    "lon": "-74.25"
+  },
+  "metadata": {},
+  "source": {}
+}

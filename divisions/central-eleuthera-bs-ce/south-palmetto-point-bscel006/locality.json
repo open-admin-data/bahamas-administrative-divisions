@@ -1,0 +1,45 @@
+{
+  "id": "BSCEL006",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "South Palmetto Point",
+    "en": "South Palmetto Point",
+    "slug": "south-palmetto-point-bscel006"
+  },
+  "code": {
+    "id": "BSCEL006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.CE",
+    "level": 1,
+    "name": {
+      "local": "Central Eleuthera",
+      "en": "Central Eleuthera",
+      "slug": "central-eleuthera-bs-ce"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.CE",
+      "level": 1,
+      "name": {
+        "local": "Central Eleuthera",
+        "en": "Central Eleuthera",
+        "slug": "central-eleuthera-bs-ce"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.15",
+    "lon": "-76.172"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "BSNBL003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Blackwood Village",
+      "en": "Blackwood Village",
+      "slug": "blackwood-village-bsnbl003"
+    },
+    "code": {
+      "id": "BSNBL003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NB",
+      "level": 1,
+      "name": {
+        "local": "North Abaco",
+        "en": "North Abaco",
+        "slug": "north-abaco-bs-nb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NB",
+        "level": 1,
+        "name": {
+          "local": "North Abaco",
+          "en": "North Abaco",
+          "slug": "north-abaco-bs-nb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.814",
+      "lon": "-77.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNBL005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cedar Harbour",
+      "en": "Cedar Harbour",
+      "slug": "cedar-harbour-bsnbl005"
+    },
+    "code": {
+      "id": "BSNBL005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NB",
+      "level": 1,
+      "name": {
+        "local": "North Abaco",
+        "en": "North Abaco",
+        "slug": "north-abaco-bs-nb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NB",
+        "level": 1,
+        "name": {
+          "local": "North Abaco",
+          "en": "North Abaco",
+          "slug": "north-abaco-bs-nb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.895",
+      "lon": "-77.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNBL002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cooperâ€™s Town",
+      "en": "Cooperâ€™s Town",
+      "slug": "cooper-s-town-bsnbl002"
+    },
+    "code": {
+      "id": "BSNBL002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NB",
+      "level": 1,
+      "name": {
+        "local": "North Abaco",
+        "en": "North Abaco",
+        "slug": "north-abaco-bs-nb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NB",
+        "level": 1,
+        "name": {
+          "local": "North Abaco",
+          "en": "North Abaco",
+          "slug": "north-abaco-bs-nb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.867",
+      "lon": "-77.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNBL009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cornishtown",
+      "en": "Cornishtown",
+      "slug": "cornishtown-bsnbl009"
+    },
+    "code": {
+      "id": "BSNBL009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NB",
+      "level": 1,
+      "name": {
+        "local": "North Abaco",
+        "en": "North Abaco",
+        "slug": "north-abaco-bs-nb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NB",
+        "level": 1,
+        "name": {
+          "local": "North Abaco",
+          "en": "North Abaco",
+          "slug": "north-abaco-bs-nb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.863",
+      "lon": "-77.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNBL010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Crown Haven",
+      "en": "Crown Haven",
+      "slug": "crown-haven-bsnbl010"
+    },
+    "code": {
+      "id": "BSNBL010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NB",
+      "level": 1,
+      "name": {
+        "local": "North Abaco",
+        "en": "North Abaco",
+        "slug": "north-abaco-bs-nb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NB",
+        "level": 1,
+        "name": {
+          "local": "North Abaco",
+          "en": "North Abaco",
+          "slug": "north-abaco-bs-nb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.9",
+      "lon": "-77.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNBL007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fire Road Village",
+      "en": "Fire Road Village",
+      "slug": "fire-road-village-bsnbl007"
+    },
+    "code": {
+      "id": "BSNBL007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NB",
+      "level": 1,
+      "name": {
+        "local": "North Abaco",
+        "en": "North Abaco",
+        "slug": "north-abaco-bs-nb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NB",
+        "level": 1,
+        "name": {
+          "local": "North Abaco",
+          "en": "North Abaco",
+          "slug": "north-abaco-bs-nb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.862",
+      "lon": "-77.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNBL008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fox Town",
+      "en": "Fox Town",
+      "slug": "fox-town-bsnbl008"
+    },
+    "code": {
+      "id": "BSNBL008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NB",
+      "level": 1,
+      "name": {
+        "local": "North Abaco",
+        "en": "North Abaco",
+        "slug": "north-abaco-bs-nb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NB",
+        "level": 1,
+        "name": {
+          "local": "North Abaco",
+          "en": "North Abaco",
+          "slug": "north-abaco-bs-nb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.918",
+      "lon": "-77.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNBL001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Green Turtle Cay",
+      "en": "Green Turtle Cay",
+      "slug": "green-turtle-cay-bsnbl001"
+    },
+    "code": {
+      "id": "BSNBL001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NB",
+      "level": 1,
+      "name": {
+        "local": "North Abaco",
+        "en": "North Abaco",
+        "slug": "north-abaco-bs-nb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NB",
+        "level": 1,
+        "name": {
+          "local": "North Abaco",
+          "en": "North Abaco",
+          "slug": "north-abaco-bs-nb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.752",
+      "lon": "-77.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNBL004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Green Turtle Village",
+      "en": "Green Turtle Village",
+      "slug": "green-turtle-village-bsnbl004"
+    },
+    "code": {
+      "id": "BSNBL004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NB",
+      "level": 1,
+      "name": {
+        "local": "North Abaco",
+        "en": "North Abaco",
+        "slug": "north-abaco-bs-nb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NB",
+        "level": 1,
+        "name": {
+          "local": "North Abaco",
+          "en": "North Abaco",
+          "slug": "north-abaco-bs-nb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.817",
+      "lon": "-77.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNBL006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount Hope",
+      "en": "Mount Hope",
+      "slug": "mount-hope-bsnbl006"
+    },
+    "code": {
+      "id": "BSNBL006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NB",
+      "level": 1,
+      "name": {
+        "local": "North Abaco",
+        "en": "North Abaco",
+        "slug": "north-abaco-bs-nb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NB",
+        "level": 1,
+        "name": {
+          "local": "North Abaco",
+          "en": "North Abaco",
+          "slug": "north-abaco-bs-nb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.9",
+      "lon": "-77.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNBL011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Normans Castle",
+      "en": "Normans Castle",
+      "slug": "normans-castle-bsnbl011"
+    },
+    "code": {
+      "id": "BSNBL011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NB",
+      "level": 1,
+      "name": {
+        "local": "North Abaco",
+        "en": "North Abaco",
+        "slug": "north-abaco-bs-nb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NB",
+        "level": 1,
+        "name": {
+          "local": "North Abaco",
+          "en": "North Abaco",
+          "slug": "north-abaco-bs-nb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.719",
+      "lon": "-77.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNBL012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Wood Cay",
+      "en": "Wood Cay",
+      "slug": "wood-cay-bsnbl012"
+    },
+    "code": {
+      "id": "BSNBL012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NB",
+      "level": 1,
+      "name": {
+        "local": "North Abaco",
+        "en": "North Abaco",
+        "slug": "north-abaco-bs-nb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NB",
+        "level": 1,
+        "name": {
+          "local": "North Abaco",
+          "en": "North Abaco",
+          "slug": "north-abaco-bs-nb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.9",
+      "lon": "-77.733"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

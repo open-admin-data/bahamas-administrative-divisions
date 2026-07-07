@@ -1,0 +1,45 @@
+{
+  "id": "BSCEL001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Savannah Sound",
+    "en": "Savannah Sound",
+    "slug": "savannah-sound-bscel001"
+  },
+  "code": {
+    "id": "BSCEL001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.CE",
+    "level": 1,
+    "name": {
+      "local": "Central Eleuthera",
+      "en": "Central Eleuthera",
+      "slug": "central-eleuthera-bs-ce"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.CE",
+      "level": 1,
+      "name": {
+        "local": "Central Eleuthera",
+        "en": "Central Eleuthera",
+        "slug": "central-eleuthera-bs-ce"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.1",
+    "lon": "-76.15"
+  },
+  "metadata": {},
+  "source": {}
+}

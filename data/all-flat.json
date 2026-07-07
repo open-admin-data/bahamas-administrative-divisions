@@ -1,0 +1,1061 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/bs/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/bahamas-administrative-divisions",
+  "data": [
+    {
+      "id": "BS.AK",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      },
+      "code": {
+        "id": "BS.AK",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 17
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "22.637",
+        "lon": "-73.915"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/acklins-bs-ak/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.BI",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Biminis",
+        "en": "Biminis",
+        "slug": "biminis-bs-bi"
+      },
+      "code": {
+        "id": "BS.BI",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 7
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "25.744",
+        "lon": "-79.258"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/biminis-bs-bi/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.BP",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Black Point",
+        "en": "Black Point",
+        "slug": "black-point-bs-bp"
+      },
+      "code": {
+        "id": "BS.BP",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "24.052",
+        "lon": "-76.365"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/black-point-bs-bp/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.BR",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Berry Islands",
+        "en": "Berry Islands",
+        "slug": "berry-islands-bs-br"
+      },
+      "code": {
+        "id": "BS.BR",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "25.772",
+        "lon": "-77.868"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/berry-islands-bs-br/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.CB",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Central Abaco",
+        "en": "Central Abaco",
+        "slug": "central-abaco-bs-cb"
+      },
+      "code": {
+        "id": "BS.CB",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 6
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "26.407",
+        "lon": "-77.141"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/central-abaco-bs-cb/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.CE",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Central Eleuthera",
+        "en": "Central Eleuthera",
+        "slug": "central-eleuthera-bs-ce"
+      },
+      "code": {
+        "id": "BS.CE",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 9
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "25.187",
+        "lon": "-76.223"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/central-eleuthera-bs-ce/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.CI",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      },
+      "code": {
+        "id": "BS.CI",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 33
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "24.325",
+        "lon": "-75.457"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/cat-island-bs-ci/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.CK",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Crooked Island",
+        "en": "Crooked Island",
+        "slug": "crooked-island-bs-ck"
+      },
+      "code": {
+        "id": "BS.CK",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 13
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "22.768",
+        "lon": "-74.246"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/crooked-island-bs-ck/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.CN",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Central Andros",
+        "en": "Central Andros",
+        "slug": "central-andros-bs-cn"
+      },
+      "code": {
+        "id": "BS.CN",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 6
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "24.496",
+        "lon": "-77.971"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/central-andros-bs-cn/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.EB",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "East Grand Bahama",
+        "en": "East Grand Bahama",
+        "slug": "east-grand-bahama-bs-eb"
+      },
+      "code": {
+        "id": "BS.EB",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "26.672",
+        "lon": "-78.162"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/east-grand-bahama-bs-eb/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.EM",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      },
+      "code": {
+        "id": "BS.EM",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 27
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "23.62",
+        "lon": "-75.949"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/exuma-bs-em/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.FP",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "City of Freeport",
+        "en": "City of Freeport",
+        "slug": "city-of-freeport-bs-fp"
+      },
+      "code": {
+        "id": "BS.FP",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 14
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "26.531",
+        "lon": "-78.63"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/city-of-freeport-bs-fp/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.GC",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Grand Cay",
+        "en": "Grand Cay",
+        "slug": "grand-cay-bs-gc"
+      },
+      "code": {
+        "id": "BS.GC",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "27.231",
+        "lon": "-78.332"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/grand-cay-bs-gc/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.HB",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Harbour Island",
+        "en": "Harbour Island",
+        "slug": "harbour-island-bs-hb"
+      },
+      "code": {
+        "id": "BS.HB",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "25.546",
+        "lon": "-76.767"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/harbour-island-bs-hb/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.HT",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Hope Town",
+        "en": "Hope Town",
+        "slug": "hope-town-bs-ht"
+      },
+      "code": {
+        "id": "BS.HT",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 6
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "26.529",
+        "lon": "-76.97"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/hope-town-bs-ht/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.IN",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Inagua",
+        "en": "Inagua",
+        "slug": "inagua-bs-in"
+      },
+      "code": {
+        "id": "BS.IN",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "21.066",
+        "lon": "-73.431"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/inagua-bs-in/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.LI",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      },
+      "code": {
+        "id": "BS.LI",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 46
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "23.191",
+        "lon": "-75.103"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/long-island-bs-li/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.MC",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Mangrove Cay",
+        "en": "Mangrove Cay",
+        "slug": "mangrove-cay-bs-mc"
+      },
+      "code": {
+        "id": "BS.MC",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "24.106",
+        "lon": "-77.811"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/mangrove-cay-bs-mc/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.MG",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Mayaguana",
+        "en": "Mayaguana",
+        "slug": "mayaguana-bs-mg"
+      },
+      "code": {
+        "id": "BS.MG",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "22.394",
+        "lon": "-73.06"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/mayaguana-bs-mg/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.MI",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Moore's Island",
+        "en": "Moore's Island",
+        "slug": "moore-s-island-bs-mi"
+      },
+      "code": {
+        "id": "BS.MI",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "26.306",
+        "lon": "-77.558"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/moore-s-island-bs-mi/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.NB",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "North Abaco",
+        "en": "North Abaco",
+        "slug": "north-abaco-bs-nb"
+      },
+      "code": {
+        "id": "BS.NB",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 12
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "26.887",
+        "lon": "-77.612"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/north-abaco-bs-nb/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.NE",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "North Eleuthera",
+        "en": "North Eleuthera",
+        "slug": "north-eleuthera-bs-ne"
+      },
+      "code": {
+        "id": "BS.NE",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 9
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "25.484",
+        "lon": "-76.716"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/north-eleuthera-bs-ne/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.NN",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      },
+      "code": {
+        "id": "BS.NN",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 22
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "24.798",
+        "lon": "-78.049"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/north-andros-bs-nn/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.NW",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      },
+      "code": {
+        "id": "BS.NW",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 31
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "25.04",
+        "lon": "-77.395"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/new-providence-bs-nw/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.RC",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Rum Cay",
+        "en": "Rum Cay",
+        "slug": "rum-cay-bs-rc"
+      },
+      "code": {
+        "id": "BS.RC",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "23.687",
+        "lon": "-74.846"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/rum-cay-bs-rc/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.RI",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Ragged Island",
+        "en": "Ragged Island",
+        "slug": "ragged-island-bs-ri"
+      },
+      "code": {
+        "id": "BS.RI",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "22.188",
+        "lon": "-75.729"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/ragged-island-bs-ri/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.SB",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "South Abaco",
+        "en": "South Abaco",
+        "slug": "south-abaco-bs-sb"
+      },
+      "code": {
+        "id": "BS.SB",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "26.034",
+        "lon": "-77.258"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/south-abaco-bs-sb/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.SE",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "South Eleuthera",
+        "en": "South Eleuthera",
+        "slug": "south-eleuthera-bs-se"
+      },
+      "code": {
+        "id": "BS.SE",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 14
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "24.779",
+        "lon": "-76.21"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/south-eleuthera-bs-se/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.SN",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "South Andros",
+        "en": "South Andros",
+        "slug": "south-andros-bs-sn"
+      },
+      "code": {
+        "id": "BS.SN",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 10
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "23.968",
+        "lon": "-77.667"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/south-andros-bs-sn/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.SS",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "San Salvador",
+        "en": "San Salvador",
+        "slug": "san-salvador-bs-ss"
+      },
+      "code": {
+        "id": "BS.SS",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 24
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "24.067",
+        "lon": "-74.482"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/san-salvador-bs-ss/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.SW",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "Spanish Wells",
+        "en": "Spanish Wells",
+        "slug": "spanish-wells-bs-sw"
+      },
+      "code": {
+        "id": "BS.SW",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "25.524",
+        "lon": "-76.83"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/spanish-wells-bs-sw/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    },
+    {
+      "id": "BS.WB",
+      "level": 1,
+      "level_name": {
+        "local": "District",
+        "en": "District"
+      },
+      "name": {
+        "local": "West Grand Bahama",
+        "en": "West Grand Bahama",
+        "slug": "west-grand-bahama-bs-wb"
+      },
+      "code": {
+        "id": "BS.WB",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 12
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "26.635",
+        "lon": "-78.511"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/bs/districts/west-grand-bahama-bs-wb/",
+        "api": "https://openadmindata.org/api/bs/"
+      }
+    }
+  ]
+}

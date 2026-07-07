@@ -1,0 +1,45 @@
+{
+  "id": "BSSSL018",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Victoria Hill",
+    "en": "Victoria Hill",
+    "slug": "victoria-hill-bsssl018"
+  },
+  "code": {
+    "id": "BSSSL018",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.SS",
+    "level": 1,
+    "name": {
+      "local": "San Salvador",
+      "en": "San Salvador",
+      "slug": "san-salvador-bs-ss"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.SS",
+      "level": 1,
+      "name": {
+        "local": "San Salvador",
+        "en": "San Salvador",
+        "slug": "san-salvador-bs-ss"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.033",
+    "lon": "-74.467"
+  },
+  "metadata": {},
+  "source": {}
+}

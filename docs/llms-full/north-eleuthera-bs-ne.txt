@@ -1,0 +1,54 @@
+# North Eleuthera — Bahamas Administrative Divisions
+
+> 9 localitys
+> Code: BS.NE
+> Coordinates: 25.484, -76.716
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Alice Town
+
+Code: BSNEL003, Coordinates: 25.346, -76.485
+
+
+### Current
+
+Code: BSNEL004, Coordinates: 25.408, -76.784
+
+
+### Current Island Settlement
+
+Code: BSNEL005, Coordinates: 25.345, -76.816
+
+
+### Dunmore Town
+
+Code: BSNEL001, Coordinates: 25.502, -76.636
+
+
+### Gregory Town
+
+Code: BSNEL008, Coordinates: 25.391, -76.557
+
+
+### James Cistern
+
+Code: BSNEL002, Coordinates: 25.326, -76.362
+
+
+### Lower Bogue
+
+Code: BSNEL007, Coordinates: 25.467, -76.717
+
+
+### The Bluff
+
+Code: BSNEL006, Coordinates: 25.499, -76.723
+
+
+### Upper Bogue
+
+Code: BSNEL009, Coordinates: 25.45, -76.667
+
+

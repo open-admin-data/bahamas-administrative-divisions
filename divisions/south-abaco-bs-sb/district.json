@@ -1,0 +1,33 @@
+{
+  "id": "BS.SB",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "South Abaco",
+    "en": "South Abaco",
+    "slug": "south-abaco-bs-sb"
+  },
+  "code": {
+    "id": "BS.SB",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.034",
+    "lon": "-77.258"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/south-abaco-bs-sb/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

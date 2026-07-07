@@ -1,0 +1,45 @@
+{
+  "id": "BSAKL004",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Delectable Point",
+    "en": "Delectable Point",
+    "slug": "delectable-point-bsakl004"
+  },
+  "code": {
+    "id": "BSAKL004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.AK",
+    "level": 1,
+    "name": {
+      "local": "Acklins",
+      "en": "Acklins",
+      "slug": "acklins-bs-ak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.42",
+    "lon": "-73.992"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BSNNL006",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "San Andros",
+    "en": "San Andros",
+    "slug": "san-andros-bsnnl006"
+  },
+  "code": {
+    "id": "BSNNL006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NN",
+    "level": 1,
+    "name": {
+      "local": "North Andros",
+      "en": "North Andros",
+      "slug": "north-andros-bs-nn"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.067",
+    "lon": "-78.05"
+  },
+  "metadata": {},
+  "source": {}
+}

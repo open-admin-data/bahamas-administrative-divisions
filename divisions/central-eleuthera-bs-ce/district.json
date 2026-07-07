@@ -1,0 +1,33 @@
+{
+  "id": "BS.CE",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Central Eleuthera",
+    "en": "Central Eleuthera",
+    "slug": "central-eleuthera-bs-ce"
+  },
+  "code": {
+    "id": "BS.CE",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.187",
+    "lon": "-76.223"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/central-eleuthera-bs-ce/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

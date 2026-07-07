@@ -1,0 +1,632 @@
+[
+  {
+    "id": "BSFPL007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bain Town",
+      "en": "Bain Town",
+      "slug": "bain-town-bsfpl007"
+    },
+    "code": {
+      "id": "BSFPL007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.FP",
+      "level": 1,
+      "name": {
+        "local": "City of Freeport",
+        "en": "City of Freeport",
+        "slug": "city-of-freeport-bs-fp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.FP",
+        "level": 1,
+        "name": {
+          "local": "City of Freeport",
+          "en": "City of Freeport",
+          "slug": "city-of-freeport-bs-fp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.517",
+      "lon": "-78.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSFPL009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Eight Mile Rock",
+      "en": "Eight Mile Rock",
+      "slug": "eight-mile-rock-bsfpl009"
+    },
+    "code": {
+      "id": "BSFPL009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.FP",
+      "level": 1,
+      "name": {
+        "local": "City of Freeport",
+        "en": "City of Freeport",
+        "slug": "city-of-freeport-bs-fp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.FP",
+        "level": 1,
+        "name": {
+          "local": "City of Freeport",
+          "en": "City of Freeport",
+          "slug": "city-of-freeport-bs-fp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.517",
+      "lon": "-78.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSFPL003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hawksbill",
+      "en": "Hawksbill",
+      "slug": "hawksbill-bsfpl003"
+    },
+    "code": {
+      "id": "BSFPL003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.FP",
+      "level": 1,
+      "name": {
+        "local": "City of Freeport",
+        "en": "City of Freeport",
+        "slug": "city-of-freeport-bs-fp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.FP",
+        "level": 1,
+        "name": {
+          "local": "City of Freeport",
+          "en": "City of Freeport",
+          "slug": "city-of-freeport-bs-fp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.5",
+      "lon": "-78.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSFPL005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Holmes Rock",
+      "en": "Holmes Rock",
+      "slug": "holmes-rock-bsfpl005"
+    },
+    "code": {
+      "id": "BSFPL005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.FP",
+      "level": 1,
+      "name": {
+        "local": "City of Freeport",
+        "en": "City of Freeport",
+        "slug": "city-of-freeport-bs-fp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.FP",
+        "level": 1,
+        "name": {
+          "local": "City of Freeport",
+          "en": "City of Freeport",
+          "slug": "city-of-freeport-bs-fp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.533",
+      "lon": "-78.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSFPL014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Holmes Rock",
+      "en": "Holmes Rock",
+      "slug": "holmes-rock-bsfpl014"
+    },
+    "code": {
+      "id": "BSFPL014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.FP",
+      "level": 1,
+      "name": {
+        "local": "City of Freeport",
+        "en": "City of Freeport",
+        "slug": "city-of-freeport-bs-fp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.FP",
+        "level": 1,
+        "name": {
+          "local": "City of Freeport",
+          "en": "City of Freeport",
+          "slug": "city-of-freeport-bs-fp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.55",
+      "lon": "-78.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSFPL012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hunters",
+      "en": "Hunters",
+      "slug": "hunters-bsfpl012"
+    },
+    "code": {
+      "id": "BSFPL012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.FP",
+      "level": 1,
+      "name": {
+        "local": "City of Freeport",
+        "en": "City of Freeport",
+        "slug": "city-of-freeport-bs-fp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.FP",
+        "level": 1,
+        "name": {
+          "local": "City of Freeport",
+          "en": "City of Freeport",
+          "slug": "city-of-freeport-bs-fp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.483",
+      "lon": "-78.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSFPL011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Martin Town",
+      "en": "Martin Town",
+      "slug": "martin-town-bsfpl011"
+    },
+    "code": {
+      "id": "BSFPL011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.FP",
+      "level": 1,
+      "name": {
+        "local": "City of Freeport",
+        "en": "City of Freeport",
+        "slug": "city-of-freeport-bs-fp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.FP",
+        "level": 1,
+        "name": {
+          "local": "City of Freeport",
+          "en": "City of Freeport",
+          "slug": "city-of-freeport-bs-fp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.533",
+      "lon": "-78.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSFPL002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pinders Point",
+      "en": "Pinders Point",
+      "slug": "pinders-point-bsfpl002"
+    },
+    "code": {
+      "id": "BSFPL002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.FP",
+      "level": 1,
+      "name": {
+        "local": "City of Freeport",
+        "en": "City of Freeport",
+        "slug": "city-of-freeport-bs-fp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.FP",
+        "level": 1,
+        "name": {
+          "local": "City of Freeport",
+          "en": "City of Freeport",
+          "slug": "city-of-freeport-bs-fp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.483",
+      "lon": "-78.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSFPL010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sea Grape",
+      "en": "Sea Grape",
+      "slug": "sea-grape-bsfpl010"
+    },
+    "code": {
+      "id": "BSFPL010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.FP",
+      "level": 1,
+      "name": {
+        "local": "City of Freeport",
+        "en": "City of Freeport",
+        "slug": "city-of-freeport-bs-fp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.FP",
+        "level": 1,
+        "name": {
+          "local": "City of Freeport",
+          "en": "City of Freeport",
+          "slug": "city-of-freeport-bs-fp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.533",
+      "lon": "-78.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSFPL008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Smith Point",
+      "en": "Smith Point",
+      "slug": "smith-point-bsfpl008"
+    },
+    "code": {
+      "id": "BSFPL008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.FP",
+      "level": 1,
+      "name": {
+        "local": "City of Freeport",
+        "en": "City of Freeport",
+        "slug": "city-of-freeport-bs-fp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.FP",
+        "level": 1,
+        "name": {
+          "local": "City of Freeport",
+          "en": "City of Freeport",
+          "slug": "city-of-freeport-bs-fp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.5",
+      "lon": "-78.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSFPL004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Southwest Point",
+      "en": "Southwest Point",
+      "slug": "southwest-point-bsfpl004"
+    },
+    "code": {
+      "id": "BSFPL004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.FP",
+      "level": 1,
+      "name": {
+        "local": "City of Freeport",
+        "en": "City of Freeport",
+        "slug": "city-of-freeport-bs-fp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.FP",
+        "level": 1,
+        "name": {
+          "local": "City of Freeport",
+          "en": "City of Freeport",
+          "slug": "city-of-freeport-bs-fp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.491",
+      "lon": "-78.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSFPL006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Thomas Town",
+      "en": "Thomas Town",
+      "slug": "thomas-town-bsfpl006"
+    },
+    "code": {
+      "id": "BSFPL006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.FP",
+      "level": 1,
+      "name": {
+        "local": "City of Freeport",
+        "en": "City of Freeport",
+        "slug": "city-of-freeport-bs-fp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.FP",
+        "level": 1,
+        "name": {
+          "local": "City of Freeport",
+          "en": "City of Freeport",
+          "slug": "city-of-freeport-bs-fp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.65",
+      "lon": "-78.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSFPL001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "West End",
+      "en": "West End",
+      "slug": "west-end-bsfpl001"
+    },
+    "code": {
+      "id": "BSFPL001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.FP",
+      "level": 1,
+      "name": {
+        "local": "City of Freeport",
+        "en": "City of Freeport",
+        "slug": "city-of-freeport-bs-fp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.FP",
+        "level": 1,
+        "name": {
+          "local": "City of Freeport",
+          "en": "City of Freeport",
+          "slug": "city-of-freeport-bs-fp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.671",
+      "lon": "-78.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSFPL013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Williams Town",
+      "en": "Williams Town",
+      "slug": "williams-town-bsfpl013"
+    },
+    "code": {
+      "id": "BSFPL013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.FP",
+      "level": 1,
+      "name": {
+        "local": "City of Freeport",
+        "en": "City of Freeport",
+        "slug": "city-of-freeport-bs-fp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.FP",
+        "level": 1,
+        "name": {
+          "local": "City of Freeport",
+          "en": "City of Freeport",
+          "slug": "city-of-freeport-bs-fp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.483",
+      "lon": "-78.667"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

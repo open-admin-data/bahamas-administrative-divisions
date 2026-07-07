@@ -1,0 +1,45 @@
+{
+  "id": "BSNWL021",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Carmichael Village",
+    "en": "Carmichael Village",
+    "slug": "carmichael-village-bsnwl021"
+  },
+  "code": {
+    "id": "BSNWL021",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NW",
+    "level": 1,
+    "name": {
+      "local": "New Providence",
+      "en": "New Providence",
+      "slug": "new-providence-bs-nw"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.017",
+    "lon": "-77.433"
+  },
+  "metadata": {},
+  "source": {}
+}

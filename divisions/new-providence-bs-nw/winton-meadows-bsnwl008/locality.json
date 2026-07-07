@@ -1,0 +1,45 @@
+{
+  "id": "BSNWL008",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Winton Meadows",
+    "en": "Winton Meadows",
+    "slug": "winton-meadows-bsnwl008"
+  },
+  "code": {
+    "id": "BSNWL008",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NW",
+    "level": 1,
+    "name": {
+      "local": "New Providence",
+      "en": "New Providence",
+      "slug": "new-providence-bs-nw"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.033",
+    "lon": "-77.267"
+  },
+  "metadata": {},
+  "source": {}
+}

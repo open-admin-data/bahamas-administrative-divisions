@@ -1,0 +1,69 @@
+# West Grand Bahama — Bahamas Administrative Divisions
+
+> 12 localitys
+> Code: BS.WB
+> Coordinates: 26.635, -78.511
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Braudies Point
+
+Code: BSWBL004, Coordinates: 26.533, -78.733
+
+
+### Freeport
+
+Code: BSWBL002, Coordinates: 26.533, -78.7
+
+
+### Freetown
+
+Code: BSWBL005, Coordinates: 26.567, -78.45
+
+
+### Golden Grove
+
+Code: BSWBL010, Coordinates: 26.6, -78.333
+
+
+### Hope Estate
+
+Code: BSWBL012, Coordinates: 26.667, -78.933
+
+
+### Lucaya
+
+Code: BSWBL001, Coordinates: 26.533, -78.667
+
+
+### Mather Town
+
+Code: BSWBL008, Coordinates: 26.55, -78.583
+
+
+### Pine Ridge
+
+Code: BSWBL011, Coordinates: 26.55, -78.733
+
+
+### Roberts Town
+
+Code: BSWBL007, Coordinates: 26.667, -78.95
+
+
+### Russell Town
+
+Code: BSWBL006, Coordinates: 26.517, -78.7
+
+
+### Vincent Town
+
+Code: BSWBL009, Coordinates: 26.667, -78.95
+
+
+### Water Cay
+
+Code: BSWBL003, Coordinates: 26.75, -78.5
+
+

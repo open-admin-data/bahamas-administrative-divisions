@@ -1,0 +1,45 @@
+{
+  "id": "BSHTL005",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Murphy Town",
+    "en": "Murphy Town",
+    "slug": "murphy-town-bshtl005"
+  },
+  "code": {
+    "id": "BSHTL005",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.HT",
+    "level": 1,
+    "name": {
+      "local": "Hope Town",
+      "en": "Hope Town",
+      "slug": "hope-town-bs-ht"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.HT",
+      "level": 1,
+      "name": {
+        "local": "Hope Town",
+        "en": "Hope Town",
+        "slug": "hope-town-bs-ht"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.553",
+    "lon": "-77.096"
+  },
+  "metadata": {},
+  "source": {}
+}

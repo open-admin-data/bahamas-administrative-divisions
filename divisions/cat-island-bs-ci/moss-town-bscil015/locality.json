@@ -1,0 +1,45 @@
+{
+  "id": "BSCIL015",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Moss Town",
+    "en": "Moss Town",
+    "slug": "moss-town-bscil015"
+  },
+  "code": {
+    "id": "BSCIL015",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.CI",
+    "level": 1,
+    "name": {
+      "local": "Cat Island",
+      "en": "Cat Island",
+      "slug": "cat-island-bs-ci"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.246",
+    "lon": "-75.387"
+  },
+  "metadata": {},
+  "source": {}
+}

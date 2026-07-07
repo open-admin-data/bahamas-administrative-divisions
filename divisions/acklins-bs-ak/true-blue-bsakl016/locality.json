@@ -1,0 +1,45 @@
+{
+  "id": "BSAKL016",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "True Blue",
+    "en": "True Blue",
+    "slug": "true-blue-bsakl016"
+  },
+  "code": {
+    "id": "BSAKL016",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.AK",
+    "level": 1,
+    "name": {
+      "local": "Acklins",
+      "en": "Acklins",
+      "slug": "acklins-bs-ak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.067",
+    "lon": "-74.067"
+  },
+  "metadata": {},
+  "source": {}
+}

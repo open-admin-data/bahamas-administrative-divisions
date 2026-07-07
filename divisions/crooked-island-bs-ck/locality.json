@@ -1,0 +1,587 @@
+[
+  {
+    "id": "BSCKL002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Albert Town",
+      "en": "Albert Town",
+      "slug": "albert-town-bsckl002"
+    },
+    "code": {
+      "id": "BSCKL002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CK",
+      "level": 1,
+      "name": {
+        "local": "Crooked Island",
+        "en": "Crooked Island",
+        "slug": "crooked-island-bs-ck"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CK",
+        "level": 1,
+        "name": {
+          "local": "Crooked Island",
+          "en": "Crooked Island",
+          "slug": "crooked-island-bs-ck"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.6",
+      "lon": "-74.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCKL013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Browns",
+      "en": "Browns",
+      "slug": "browns-bsckl013"
+    },
+    "code": {
+      "id": "BSCKL013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CK",
+      "level": 1,
+      "name": {
+        "local": "Crooked Island",
+        "en": "Crooked Island",
+        "slug": "crooked-island-bs-ck"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CK",
+        "level": 1,
+        "name": {
+          "local": "Crooked Island",
+          "en": "Crooked Island",
+          "slug": "crooked-island-bs-ck"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.729",
+      "lon": "-74.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCKL003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cabbage Hill",
+      "en": "Cabbage Hill",
+      "slug": "cabbage-hill-bsckl003"
+    },
+    "code": {
+      "id": "BSCKL003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CK",
+      "level": 1,
+      "name": {
+        "local": "Crooked Island",
+        "en": "Crooked Island",
+        "slug": "crooked-island-bs-ck"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CK",
+        "level": 1,
+        "name": {
+          "local": "Crooked Island",
+          "en": "Crooked Island",
+          "slug": "crooked-island-bs-ck"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.764",
+      "lon": "-74.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCKL004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Church Grove",
+      "en": "Church Grove",
+      "slug": "church-grove-bsckl004"
+    },
+    "code": {
+      "id": "BSCKL004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CK",
+      "level": 1,
+      "name": {
+        "local": "Crooked Island",
+        "en": "Crooked Island",
+        "slug": "crooked-island-bs-ck"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CK",
+        "level": 1,
+        "name": {
+          "local": "Crooked Island",
+          "en": "Crooked Island",
+          "slug": "crooked-island-bs-ck"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.75",
+      "lon": "-74.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCKL001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Colonel Hill",
+      "en": "Colonel Hill",
+      "slug": "colonel-hill-bsckl001"
+    },
+    "code": {
+      "id": "BSCKL001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CK",
+      "level": 1,
+      "name": {
+        "local": "Crooked Island",
+        "en": "Crooked Island",
+        "slug": "crooked-island-bs-ck"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CK",
+        "level": 1,
+        "name": {
+          "local": "Crooked Island",
+          "en": "Crooked Island",
+          "slug": "crooked-island-bs-ck"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.767",
+      "lon": "-74.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCKL011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cripple Hill",
+      "en": "Cripple Hill",
+      "slug": "cripple-hill-bsckl011"
+    },
+    "code": {
+      "id": "BSCKL011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CK",
+      "level": 1,
+      "name": {
+        "local": "Crooked Island",
+        "en": "Crooked Island",
+        "slug": "crooked-island-bs-ck"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CK",
+        "level": 1,
+        "name": {
+          "local": "Crooked Island",
+          "en": "Crooked Island",
+          "slug": "crooked-island-bs-ck"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.783",
+      "lon": "-74.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCKL006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fairfield",
+      "en": "Fairfield",
+      "slug": "fairfield-bsckl006"
+    },
+    "code": {
+      "id": "BSCKL006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CK",
+      "level": 1,
+      "name": {
+        "local": "Crooked Island",
+        "en": "Crooked Island",
+        "slug": "crooked-island-bs-ck"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CK",
+        "level": 1,
+        "name": {
+          "local": "Crooked Island",
+          "en": "Crooked Island",
+          "slug": "crooked-island-bs-ck"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.783",
+      "lon": "-74.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCKL009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "French Wells",
+      "en": "French Wells",
+      "slug": "french-wells-bsckl009"
+    },
+    "code": {
+      "id": "BSCKL009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CK",
+      "level": 1,
+      "name": {
+        "local": "Crooked Island",
+        "en": "Crooked Island",
+        "slug": "crooked-island-bs-ck"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CK",
+        "level": 1,
+        "name": {
+          "local": "Crooked Island",
+          "en": "Crooked Island",
+          "slug": "crooked-island-bs-ck"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.683",
+      "lon": "-74.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCKL012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Landrail Point",
+      "en": "Landrail Point",
+      "slug": "landrail-point-bsckl012"
+    },
+    "code": {
+      "id": "BSCKL012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CK",
+      "level": 1,
+      "name": {
+        "local": "Crooked Island",
+        "en": "Crooked Island",
+        "slug": "crooked-island-bs-ck"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CK",
+        "level": 1,
+        "name": {
+          "local": "Crooked Island",
+          "en": "Crooked Island",
+          "slug": "crooked-island-bs-ck"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.804",
+      "lon": "-74.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCKL008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Majors",
+      "en": "Majors",
+      "slug": "majors-bsckl008"
+    },
+    "code": {
+      "id": "BSCKL008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CK",
+      "level": 1,
+      "name": {
+        "local": "Crooked Island",
+        "en": "Crooked Island",
+        "slug": "crooked-island-bs-ck"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CK",
+        "level": 1,
+        "name": {
+          "local": "Crooked Island",
+          "en": "Crooked Island",
+          "slug": "crooked-island-bs-ck"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.727",
+      "lon": "-74.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCKL005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moss Town",
+      "en": "Moss Town",
+      "slug": "moss-town-bsckl005"
+    },
+    "code": {
+      "id": "BSCKL005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CK",
+      "level": 1,
+      "name": {
+        "local": "Crooked Island",
+        "en": "Crooked Island",
+        "slug": "crooked-island-bs-ck"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CK",
+        "level": 1,
+        "name": {
+          "local": "Crooked Island",
+          "en": "Crooked Island",
+          "slug": "crooked-island-bs-ck"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.8",
+      "lon": "-74.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCKL007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Richmond",
+      "en": "Richmond",
+      "slug": "richmond-bsckl007"
+    },
+    "code": {
+      "id": "BSCKL007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CK",
+      "level": 1,
+      "name": {
+        "local": "Crooked Island",
+        "en": "Crooked Island",
+        "slug": "crooked-island-bs-ck"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CK",
+        "level": 1,
+        "name": {
+          "local": "Crooked Island",
+          "en": "Crooked Island",
+          "slug": "crooked-island-bs-ck"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.8",
+      "lon": "-74.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCKL010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Seaview Settlement",
+      "en": "Seaview Settlement",
+      "slug": "seaview-settlement-bsckl010"
+    },
+    "code": {
+      "id": "BSCKL010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CK",
+      "level": 1,
+      "name": {
+        "local": "Crooked Island",
+        "en": "Crooked Island",
+        "slug": "crooked-island-bs-ck"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CK",
+        "level": 1,
+        "name": {
+          "local": "Crooked Island",
+          "en": "Crooked Island",
+          "slug": "crooked-island-bs-ck"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.817",
+      "lon": "-74.283"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

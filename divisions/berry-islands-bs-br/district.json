@@ -1,0 +1,33 @@
+{
+  "id": "BS.BR",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Berry Islands",
+    "en": "Berry Islands",
+    "slug": "berry-islands-bs-br"
+  },
+  "code": {
+    "id": "BS.BR",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.772",
+    "lon": "-77.868"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/berry-islands-bs-br/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

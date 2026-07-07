@@ -1,0 +1,1487 @@
+[
+  {
+    "id": "BSCIL007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arthur's Town",
+      "en": "Arthur's Town",
+      "slug": "arthur-s-town-bscil007"
+    },
+    "code": {
+      "id": "BSCIL007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.622",
+      "lon": "-75.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bailey Town",
+      "en": "Bailey Town",
+      "slug": "bailey-town-bscil004"
+    },
+    "code": {
+      "id": "BSCIL004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.152",
+      "lon": "-75.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL021",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bain Town",
+      "en": "Bain Town",
+      "slug": "bain-town-bscil021"
+    },
+    "code": {
+      "id": "BSCIL021",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.15",
+      "lon": "-75.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL024",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bain Town",
+      "en": "Bain Town",
+      "slug": "bain-town-bscil024"
+    },
+    "code": {
+      "id": "BSCIL024",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.654",
+      "lon": "-75.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bennett's Harbour",
+      "en": "Bennett's Harbour",
+      "slug": "bennett-s-harbour-bscil013"
+    },
+    "code": {
+      "id": "BSCIL013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.563",
+      "lon": "-75.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL031",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bluff Settlement",
+      "en": "Bluff Settlement",
+      "slug": "bluff-settlement-bscil031"
+    },
+    "code": {
+      "id": "BSCIL031",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.523",
+      "lon": "-75.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL020",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cairey's",
+      "en": "Cairey's",
+      "slug": "cairey-s-bscil020"
+    },
+    "code": {
+      "id": "BSCIL020",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.483",
+      "lon": "-75.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cove",
+      "en": "Cove",
+      "slug": "cove-bscil012"
+    },
+    "code": {
+      "id": "BSCIL012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.417",
+      "lon": "-75.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL033",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Devil's Point",
+      "en": "Devil's Point",
+      "slug": "devil-s-point-bscil033"
+    },
+    "code": {
+      "id": "BSCIL033",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.117",
+      "lon": "-75.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Douds",
+      "en": "Douds",
+      "slug": "douds-bscil011"
+    },
+    "code": {
+      "id": "BSCIL011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.28",
+      "lon": "-75.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dumfries",
+      "en": "Dumfries",
+      "slug": "dumfries-bscil014"
+    },
+    "code": {
+      "id": "BSCIL014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.601",
+      "lon": "-75.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Freetown",
+      "en": "Freetown",
+      "slug": "freetown-bscil006"
+    },
+    "code": {
+      "id": "BSCIL006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.303",
+      "lon": "-75.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gaitor's",
+      "en": "Gaitor's",
+      "slug": "gaitor-s-bscil002"
+    },
+    "code": {
+      "id": "BSCIL002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.467",
+      "lon": "-75.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL018",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Harts Bay Hill",
+      "en": "Harts Bay Hill",
+      "slug": "harts-bay-hill-bscil018"
+    },
+    "code": {
+      "id": "BSCIL018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.417",
+      "lon": "-75.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hawks Nest",
+      "en": "Hawks Nest",
+      "slug": "hawks-nest-bscil010"
+    },
+    "code": {
+      "id": "BSCIL010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.159",
+      "lon": "-75.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL022",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Industrious Hill",
+      "en": "Industrious Hill",
+      "slug": "industrious-hill-bscil022"
+    },
+    "code": {
+      "id": "BSCIL022",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.45",
+      "lon": "-75.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL023",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Knowles Village",
+      "en": "Knowles Village",
+      "slug": "knowles-village-bscil023"
+    },
+    "code": {
+      "id": "BSCIL023",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.367",
+      "lon": "-75.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL019",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "McQueens",
+      "en": "McQueens",
+      "slug": "mcqueens-bscil019"
+    },
+    "code": {
+      "id": "BSCIL019",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.178",
+      "lon": "-75.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL015",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moss Town",
+      "en": "Moss Town",
+      "slug": "moss-town-bscil015"
+    },
+    "code": {
+      "id": "BSCIL015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.246",
+      "lon": "-75.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL026",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "New Bight",
+      "en": "New Bight",
+      "slug": "new-bight-bscil026"
+    },
+    "code": {
+      "id": "BSCIL026",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.321",
+      "lon": "-75.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Old Bight",
+      "en": "Old Bight",
+      "slug": "old-bight-bscil001"
+    },
+    "code": {
+      "id": "BSCIL001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.23",
+      "lon": "-75.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL027",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Orange Creek",
+      "en": "Orange Creek",
+      "slug": "orange-creek-bscil027"
+    },
+    "code": {
+      "id": "BSCIL027",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.65",
+      "lon": "-75.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL032",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Port Howe",
+      "en": "Port Howe",
+      "slug": "port-howe-bscil032"
+    },
+    "code": {
+      "id": "BSCIL032",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.158",
+      "lon": "-75.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Roakers",
+      "en": "Roakers",
+      "slug": "roakers-bscil008"
+    },
+    "code": {
+      "id": "BSCIL008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.519",
+      "lon": "-75.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL030",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Smith Bay",
+      "en": "Smith Bay",
+      "slug": "smith-bay-bscil030"
+    },
+    "code": {
+      "id": "BSCIL030",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.344",
+      "lon": "-75.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Stephenson",
+      "en": "Stephenson",
+      "slug": "stephenson-bscil003"
+    },
+    "code": {
+      "id": "BSCIL003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.444",
+      "lon": "-75.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL017",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tea Bay",
+      "en": "Tea Bay",
+      "slug": "tea-bay-bscil017"
+    },
+    "code": {
+      "id": "BSCIL017",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.4",
+      "lon": "-75.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL028",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "The Bight",
+      "en": "The Bight",
+      "slug": "the-bight-bscil028"
+    },
+    "code": {
+      "id": "BSCIL028",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.29",
+      "lon": "-75.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "The Lot",
+      "en": "The Lot",
+      "slug": "the-lot-bscil005"
+    },
+    "code": {
+      "id": "BSCIL005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.633",
+      "lon": "-75.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL016",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "The Village",
+      "en": "The Village",
+      "slug": "the-village-bscil016"
+    },
+    "code": {
+      "id": "BSCIL016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.25",
+      "lon": "-75.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Thurston Hill",
+      "en": "Thurston Hill",
+      "slug": "thurston-hill-bscil009"
+    },
+    "code": {
+      "id": "BSCIL009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.533",
+      "lon": "-75.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL029",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zion Hill",
+      "en": "Zion Hill",
+      "slug": "zion-hill-bscil029"
+    },
+    "code": {
+      "id": "BSCIL029",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.617",
+      "lon": "-75.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCIL025",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zonicles",
+      "en": "Zonicles",
+      "slug": "zonicles-bscil025"
+    },
+    "code": {
+      "id": "BSCIL025",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CI",
+        "level": 1,
+        "name": {
+          "local": "Cat Island",
+          "en": "Cat Island",
+          "slug": "cat-island-bs-ci"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.154",
+      "lon": "-75.362"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

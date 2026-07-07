@@ -1,0 +1,45 @@
+{
+  "id": "BSEML020",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Forest",
+    "en": "Forest",
+    "slug": "forest-bseml020"
+  },
+  "code": {
+    "id": "BSEML020",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.EM",
+    "level": 1,
+    "name": {
+      "local": "Exuma",
+      "en": "Exuma",
+      "slug": "exuma-bs-em"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.587",
+    "lon": "-75.914"
+  },
+  "metadata": {},
+  "source": {}
+}

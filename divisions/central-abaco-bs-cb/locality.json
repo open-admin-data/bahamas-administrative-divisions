@@ -1,0 +1,272 @@
+[
+  {
+    "id": "BSCBL001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cherokee Sound",
+      "en": "Cherokee Sound",
+      "slug": "cherokee-sound-bscbl001"
+    },
+    "code": {
+      "id": "BSCBL001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CB",
+      "level": 1,
+      "name": {
+        "local": "Central Abaco",
+        "en": "Central Abaco",
+        "slug": "central-abaco-bs-cb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CB",
+        "level": 1,
+        "name": {
+          "local": "Central Abaco",
+          "en": "Central Abaco",
+          "slug": "central-abaco-bs-cb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.283",
+      "lon": "-77.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCBL006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Snake Cay",
+      "en": "Snake Cay",
+      "slug": "snake-cay-bscbl006"
+    },
+    "code": {
+      "id": "BSCBL006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CB",
+      "level": 1,
+      "name": {
+        "local": "Central Abaco",
+        "en": "Central Abaco",
+        "slug": "central-abaco-bs-cb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CB",
+        "level": 1,
+        "name": {
+          "local": "Central Abaco",
+          "en": "Central Abaco",
+          "slug": "central-abaco-bs-cb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.457",
+      "lon": "-77.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCBL004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Spring City Settlement",
+      "en": "Spring City Settlement",
+      "slug": "spring-city-settlement-bscbl004"
+    },
+    "code": {
+      "id": "BSCBL004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CB",
+      "level": 1,
+      "name": {
+        "local": "Central Abaco",
+        "en": "Central Abaco",
+        "slug": "central-abaco-bs-cb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CB",
+        "level": 1,
+        "name": {
+          "local": "Central Abaco",
+          "en": "Central Abaco",
+          "slug": "central-abaco-bs-cb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.475",
+      "lon": "-77.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCBL005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "The Bluff Settlement",
+      "en": "The Bluff Settlement",
+      "slug": "the-bluff-settlement-bscbl005"
+    },
+    "code": {
+      "id": "BSCBL005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CB",
+      "level": 1,
+      "name": {
+        "local": "Central Abaco",
+        "en": "Central Abaco",
+        "slug": "central-abaco-bs-cb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CB",
+        "level": 1,
+        "name": {
+          "local": "Central Abaco",
+          "en": "Central Abaco",
+          "slug": "central-abaco-bs-cb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.633",
+      "lon": "-77.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCBL003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Treasure Cay",
+      "en": "Treasure Cay",
+      "slug": "treasure-cay-bscbl003"
+    },
+    "code": {
+      "id": "BSCBL003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CB",
+      "level": 1,
+      "name": {
+        "local": "Central Abaco",
+        "en": "Central Abaco",
+        "slug": "central-abaco-bs-cb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CB",
+        "level": 1,
+        "name": {
+          "local": "Central Abaco",
+          "en": "Central Abaco",
+          "slug": "central-abaco-bs-cb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.677",
+      "lon": "-77.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCBL002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Wilson City",
+      "en": "Wilson City",
+      "slug": "wilson-city-bscbl002"
+    },
+    "code": {
+      "id": "BSCBL002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CB",
+      "level": 1,
+      "name": {
+        "local": "Central Abaco",
+        "en": "Central Abaco",
+        "slug": "central-abaco-bs-cb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CB",
+        "level": 1,
+        "name": {
+          "local": "Central Abaco",
+          "en": "Central Abaco",
+          "slug": "central-abaco-bs-cb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.367",
+      "lon": "-77.033"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,19 @@
+# Black Point — Bahamas Administrative Divisions
+
+> 2 localitys
+> Code: BS.BP
+> Coordinates: 24.052, -76.365
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Black Point
+
+Code: BSBPL001, Coordinates: 24.1, -76.383
+
+
+### Little Farmers Cay
+
+Code: BSBPL002, Coordinates: 23.95, -76.317
+
+

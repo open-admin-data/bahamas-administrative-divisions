@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Bahamas Administrative Divisions Dataset"
+version: "2026.07"
+date-released: "2026-07-07"
+url: "https://github.com/open-admin-data/bahamas-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/bahamas-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - bahamas
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Bahamas's administrative hierarchy:
+  32 districts, 349 localitys.
+  Bilingual with coordinates and postal codes where available.

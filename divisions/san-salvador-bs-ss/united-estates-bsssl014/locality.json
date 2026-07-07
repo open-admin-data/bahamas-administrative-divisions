@@ -1,0 +1,45 @@
+{
+  "id": "BSSSL014",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "United Estates",
+    "en": "United Estates",
+    "slug": "united-estates-bsssl014"
+  },
+  "code": {
+    "id": "BSSSL014",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.SS",
+    "level": 1,
+    "name": {
+      "local": "San Salvador",
+      "en": "San Salvador",
+      "slug": "san-salvador-bs-ss"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.SS",
+      "level": 1,
+      "name": {
+        "local": "San Salvador",
+        "en": "San Salvador",
+        "slug": "san-salvador-bs-ss"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.1",
+    "lon": "-74.45"
+  },
+  "metadata": {},
+  "source": {}
+}

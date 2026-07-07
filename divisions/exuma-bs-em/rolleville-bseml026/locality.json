@@ -1,0 +1,45 @@
+{
+  "id": "BSEML026",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Rolleville",
+    "en": "Rolleville",
+    "slug": "rolleville-bseml026"
+  },
+  "code": {
+    "id": "BSEML026",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.EM",
+    "level": 1,
+    "name": {
+      "local": "Exuma",
+      "en": "Exuma",
+      "slug": "exuma-bs-em"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.673",
+    "lon": "-75.985"
+  },
+  "metadata": {},
+  "source": {}
+}

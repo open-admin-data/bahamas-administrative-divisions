@@ -1,0 +1,45 @@
+{
+  "id": "BSCBL004",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Spring City Settlement",
+    "en": "Spring City Settlement",
+    "slug": "spring-city-settlement-bscbl004"
+  },
+  "code": {
+    "id": "BSCBL004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.CB",
+    "level": 1,
+    "name": {
+      "local": "Central Abaco",
+      "en": "Central Abaco",
+      "slug": "central-abaco-bs-cb"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.CB",
+      "level": 1,
+      "name": {
+        "local": "Central Abaco",
+        "en": "Central Abaco",
+        "slug": "central-abaco-bs-cb"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.475",
+    "lon": "-77.089"
+  },
+  "metadata": {},
+  "source": {}
+}

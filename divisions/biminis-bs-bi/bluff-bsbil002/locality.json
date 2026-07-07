@@ -1,0 +1,45 @@
+{
+  "id": "BSBIL002",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Bluff",
+    "en": "Bluff",
+    "slug": "bluff-bsbil002"
+  },
+  "code": {
+    "id": "BSBIL002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.BI",
+    "level": 1,
+    "name": {
+      "local": "Biminis",
+      "en": "Biminis",
+      "slug": "biminis-bs-bi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.BI",
+      "level": 1,
+      "name": {
+        "local": "Biminis",
+        "en": "Biminis",
+        "slug": "biminis-bs-bi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.783",
+    "lon": "-79.317"
+  },
+  "metadata": {},
+  "source": {}
+}

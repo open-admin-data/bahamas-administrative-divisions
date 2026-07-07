@@ -1,0 +1,4640 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/bs/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/bahamas-administrative-divisions",
+  "data": [
+    {
+      "id": "BS.AK",
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      },
+      "code": {
+        "id": "BS.AK",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSAKL001",
+          "name": {
+            "local": "Snug Corner",
+            "en": "Snug Corner",
+            "slug": "snug-corner-bsakl001"
+          },
+          "code": {
+            "id": "BSAKL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSAKL002",
+          "name": {
+            "local": "Masons Bay",
+            "en": "Masons Bay",
+            "slug": "masons-bay-bsakl002"
+          },
+          "code": {
+            "id": "BSAKL002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSAKL003",
+          "name": {
+            "local": "Lovely Bay",
+            "en": "Lovely Bay",
+            "slug": "lovely-bay-bsakl003"
+          },
+          "code": {
+            "id": "BSAKL003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSAKL004",
+          "name": {
+            "local": "Delectable Point",
+            "en": "Delectable Point",
+            "slug": "delectable-point-bsakl004"
+          },
+          "code": {
+            "id": "BSAKL004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSAKL005",
+          "name": {
+            "local": "Golden Grove",
+            "en": "Golden Grove",
+            "slug": "golden-grove-bsakl005"
+          },
+          "code": {
+            "id": "BSAKL005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSAKL006",
+          "name": {
+            "local": "Binnacle Hill",
+            "en": "Binnacle Hill",
+            "slug": "binnacle-hill-bsakl006"
+          },
+          "code": {
+            "id": "BSAKL006",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSAKL007",
+          "name": {
+            "local": "Goodwill",
+            "en": "Goodwill",
+            "slug": "goodwill-bsakl007"
+          },
+          "code": {
+            "id": "BSAKL007",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSAKL008",
+          "name": {
+            "local": "Spring Point",
+            "en": "Spring Point",
+            "slug": "spring-point-bsakl008"
+          },
+          "code": {
+            "id": "BSAKL008",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSAKL009",
+          "name": {
+            "local": "Morant Bay",
+            "en": "Morant Bay",
+            "slug": "morant-bay-bsakl009"
+          },
+          "code": {
+            "id": "BSAKL009",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSAKL010",
+          "name": {
+            "local": "Salina Point",
+            "en": "Salina Point",
+            "slug": "salina-point-bsakl010"
+          },
+          "code": {
+            "id": "BSAKL010",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSAKL011",
+          "name": {
+            "local": "Hard Hill",
+            "en": "Hard Hill",
+            "slug": "hard-hill-bsakl011"
+          },
+          "code": {
+            "id": "BSAKL011",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSAKL012",
+          "name": {
+            "local": "Chesters",
+            "en": "Chesters",
+            "slug": "chesters-bsakl012"
+          },
+          "code": {
+            "id": "BSAKL012",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSAKL013",
+          "name": {
+            "local": "Pompey Bay",
+            "en": "Pompey Bay",
+            "slug": "pompey-bay-bsakl013"
+          },
+          "code": {
+            "id": "BSAKL013",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSAKL014",
+          "name": {
+            "local": "Pinefield",
+            "en": "Pinefield",
+            "slug": "pinefield-bsakl014"
+          },
+          "code": {
+            "id": "BSAKL014",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSAKL015",
+          "name": {
+            "local": "Anderson",
+            "en": "Anderson",
+            "slug": "anderson-bsakl015"
+          },
+          "code": {
+            "id": "BSAKL015",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSAKL016",
+          "name": {
+            "local": "True Blue",
+            "en": "True Blue",
+            "slug": "true-blue-bsakl016"
+          },
+          "code": {
+            "id": "BSAKL016",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSAKL017",
+          "name": {
+            "local": "Abercorn",
+            "en": "Abercorn",
+            "slug": "abercorn-bsakl017"
+          },
+          "code": {
+            "id": "BSAKL017",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.BR",
+      "name": {
+        "local": "Berry Islands",
+        "en": "Berry Islands",
+        "slug": "berry-islands-bs-br"
+      },
+      "code": {
+        "id": "BS.BR",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSBRL001",
+          "name": {
+            "local": "Bullocks Harbour",
+            "en": "Bullocks Harbour",
+            "slug": "bullocks-harbour-bsbrl001"
+          },
+          "code": {
+            "id": "BSBRL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSBRL002",
+          "name": {
+            "local": "Chub Cay",
+            "en": "Chub Cay",
+            "slug": "chub-cay-bsbrl002"
+          },
+          "code": {
+            "id": "BSBRL002",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.BI",
+      "name": {
+        "local": "Biminis",
+        "en": "Biminis",
+        "slug": "biminis-bs-bi"
+      },
+      "code": {
+        "id": "BS.BI",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSBIL001",
+          "name": {
+            "local": "Alice Town",
+            "en": "Alice Town",
+            "slug": "alice-town-bsbil001"
+          },
+          "code": {
+            "id": "BSBIL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSBIL002",
+          "name": {
+            "local": "Bluff",
+            "en": "Bluff",
+            "slug": "bluff-bsbil002"
+          },
+          "code": {
+            "id": "BSBIL002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSBIL003",
+          "name": {
+            "local": "North Cat Cay",
+            "en": "North Cat Cay",
+            "slug": "north-cat-cay-bsbil003"
+          },
+          "code": {
+            "id": "BSBIL003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSBIL004",
+          "name": {
+            "local": "Port Royal",
+            "en": "Port Royal",
+            "slug": "port-royal-bsbil004"
+          },
+          "code": {
+            "id": "BSBIL004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSBIL005",
+          "name": {
+            "local": "Louis Town",
+            "en": "Louis Town",
+            "slug": "louis-town-bsbil005"
+          },
+          "code": {
+            "id": "BSBIL005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSBIL006",
+          "name": {
+            "local": "Bailey Town",
+            "en": "Bailey Town",
+            "slug": "bailey-town-bsbil006"
+          },
+          "code": {
+            "id": "BSBIL006",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSBIL007",
+          "name": {
+            "local": "Gun Cay",
+            "en": "Gun Cay",
+            "slug": "gun-cay-bsbil007"
+          },
+          "code": {
+            "id": "BSBIL007",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.BP",
+      "name": {
+        "local": "Black Point",
+        "en": "Black Point",
+        "slug": "black-point-bs-bp"
+      },
+      "code": {
+        "id": "BS.BP",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSBPL001",
+          "name": {
+            "local": "Black Point",
+            "en": "Black Point",
+            "slug": "black-point-bsbpl001"
+          },
+          "code": {
+            "id": "BSBPL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSBPL002",
+          "name": {
+            "local": "Little Farmers Cay",
+            "en": "Little Farmers Cay",
+            "slug": "little-farmers-cay-bsbpl002"
+          },
+          "code": {
+            "id": "BSBPL002",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.CI",
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      },
+      "code": {
+        "id": "BS.CI",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSCIL001",
+          "name": {
+            "local": "Old Bight",
+            "en": "Old Bight",
+            "slug": "old-bight-bscil001"
+          },
+          "code": {
+            "id": "BSCIL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL002",
+          "name": {
+            "local": "Gaitor's",
+            "en": "Gaitor's",
+            "slug": "gaitor-s-bscil002"
+          },
+          "code": {
+            "id": "BSCIL002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL003",
+          "name": {
+            "local": "Stephenson",
+            "en": "Stephenson",
+            "slug": "stephenson-bscil003"
+          },
+          "code": {
+            "id": "BSCIL003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL004",
+          "name": {
+            "local": "Bailey Town",
+            "en": "Bailey Town",
+            "slug": "bailey-town-bscil004"
+          },
+          "code": {
+            "id": "BSCIL004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL005",
+          "name": {
+            "local": "The Lot",
+            "en": "The Lot",
+            "slug": "the-lot-bscil005"
+          },
+          "code": {
+            "id": "BSCIL005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL006",
+          "name": {
+            "local": "Freetown",
+            "en": "Freetown",
+            "slug": "freetown-bscil006"
+          },
+          "code": {
+            "id": "BSCIL006",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL007",
+          "name": {
+            "local": "Arthur's Town",
+            "en": "Arthur's Town",
+            "slug": "arthur-s-town-bscil007"
+          },
+          "code": {
+            "id": "BSCIL007",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL008",
+          "name": {
+            "local": "Roakers",
+            "en": "Roakers",
+            "slug": "roakers-bscil008"
+          },
+          "code": {
+            "id": "BSCIL008",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL009",
+          "name": {
+            "local": "Thurston Hill",
+            "en": "Thurston Hill",
+            "slug": "thurston-hill-bscil009"
+          },
+          "code": {
+            "id": "BSCIL009",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL010",
+          "name": {
+            "local": "Hawks Nest",
+            "en": "Hawks Nest",
+            "slug": "hawks-nest-bscil010"
+          },
+          "code": {
+            "id": "BSCIL010",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL011",
+          "name": {
+            "local": "Douds",
+            "en": "Douds",
+            "slug": "douds-bscil011"
+          },
+          "code": {
+            "id": "BSCIL011",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL012",
+          "name": {
+            "local": "Cove",
+            "en": "Cove",
+            "slug": "cove-bscil012"
+          },
+          "code": {
+            "id": "BSCIL012",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL013",
+          "name": {
+            "local": "Bennett's Harbour",
+            "en": "Bennett's Harbour",
+            "slug": "bennett-s-harbour-bscil013"
+          },
+          "code": {
+            "id": "BSCIL013",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL014",
+          "name": {
+            "local": "Dumfries",
+            "en": "Dumfries",
+            "slug": "dumfries-bscil014"
+          },
+          "code": {
+            "id": "BSCIL014",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL015",
+          "name": {
+            "local": "Moss Town",
+            "en": "Moss Town",
+            "slug": "moss-town-bscil015"
+          },
+          "code": {
+            "id": "BSCIL015",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL016",
+          "name": {
+            "local": "The Village",
+            "en": "The Village",
+            "slug": "the-village-bscil016"
+          },
+          "code": {
+            "id": "BSCIL016",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL017",
+          "name": {
+            "local": "Tea Bay",
+            "en": "Tea Bay",
+            "slug": "tea-bay-bscil017"
+          },
+          "code": {
+            "id": "BSCIL017",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL018",
+          "name": {
+            "local": "Harts Bay Hill",
+            "en": "Harts Bay Hill",
+            "slug": "harts-bay-hill-bscil018"
+          },
+          "code": {
+            "id": "BSCIL018",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL019",
+          "name": {
+            "local": "McQueens",
+            "en": "McQueens",
+            "slug": "mcqueens-bscil019"
+          },
+          "code": {
+            "id": "BSCIL019",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL020",
+          "name": {
+            "local": "Cairey's",
+            "en": "Cairey's",
+            "slug": "cairey-s-bscil020"
+          },
+          "code": {
+            "id": "BSCIL020",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL021",
+          "name": {
+            "local": "Bain Town",
+            "en": "Bain Town",
+            "slug": "bain-town-bscil021"
+          },
+          "code": {
+            "id": "BSCIL021",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL022",
+          "name": {
+            "local": "Industrious Hill",
+            "en": "Industrious Hill",
+            "slug": "industrious-hill-bscil022"
+          },
+          "code": {
+            "id": "BSCIL022",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL023",
+          "name": {
+            "local": "Knowles Village",
+            "en": "Knowles Village",
+            "slug": "knowles-village-bscil023"
+          },
+          "code": {
+            "id": "BSCIL023",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL024",
+          "name": {
+            "local": "Bain Town",
+            "en": "Bain Town",
+            "slug": "bain-town-bscil024"
+          },
+          "code": {
+            "id": "BSCIL024",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL025",
+          "name": {
+            "local": "Zonicles",
+            "en": "Zonicles",
+            "slug": "zonicles-bscil025"
+          },
+          "code": {
+            "id": "BSCIL025",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL026",
+          "name": {
+            "local": "New Bight",
+            "en": "New Bight",
+            "slug": "new-bight-bscil026"
+          },
+          "code": {
+            "id": "BSCIL026",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL027",
+          "name": {
+            "local": "Orange Creek",
+            "en": "Orange Creek",
+            "slug": "orange-creek-bscil027"
+          },
+          "code": {
+            "id": "BSCIL027",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL028",
+          "name": {
+            "local": "The Bight",
+            "en": "The Bight",
+            "slug": "the-bight-bscil028"
+          },
+          "code": {
+            "id": "BSCIL028",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL029",
+          "name": {
+            "local": "Zion Hill",
+            "en": "Zion Hill",
+            "slug": "zion-hill-bscil029"
+          },
+          "code": {
+            "id": "BSCIL029",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL030",
+          "name": {
+            "local": "Smith Bay",
+            "en": "Smith Bay",
+            "slug": "smith-bay-bscil030"
+          },
+          "code": {
+            "id": "BSCIL030",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL031",
+          "name": {
+            "local": "Bluff Settlement",
+            "en": "Bluff Settlement",
+            "slug": "bluff-settlement-bscil031"
+          },
+          "code": {
+            "id": "BSCIL031",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL032",
+          "name": {
+            "local": "Port Howe",
+            "en": "Port Howe",
+            "slug": "port-howe-bscil032"
+          },
+          "code": {
+            "id": "BSCIL032",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCIL033",
+          "name": {
+            "local": "Devil's Point",
+            "en": "Devil's Point",
+            "slug": "devil-s-point-bscil033"
+          },
+          "code": {
+            "id": "BSCIL033",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.CB",
+      "name": {
+        "local": "Central Abaco",
+        "en": "Central Abaco",
+        "slug": "central-abaco-bs-cb"
+      },
+      "code": {
+        "id": "BS.CB",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSCBL001",
+          "name": {
+            "local": "Cherokee Sound",
+            "en": "Cherokee Sound",
+            "slug": "cherokee-sound-bscbl001"
+          },
+          "code": {
+            "id": "BSCBL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCBL002",
+          "name": {
+            "local": "Wilson City",
+            "en": "Wilson City",
+            "slug": "wilson-city-bscbl002"
+          },
+          "code": {
+            "id": "BSCBL002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCBL003",
+          "name": {
+            "local": "Treasure Cay",
+            "en": "Treasure Cay",
+            "slug": "treasure-cay-bscbl003"
+          },
+          "code": {
+            "id": "BSCBL003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCBL004",
+          "name": {
+            "local": "Spring City Settlement",
+            "en": "Spring City Settlement",
+            "slug": "spring-city-settlement-bscbl004"
+          },
+          "code": {
+            "id": "BSCBL004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCBL005",
+          "name": {
+            "local": "The Bluff Settlement",
+            "en": "The Bluff Settlement",
+            "slug": "the-bluff-settlement-bscbl005"
+          },
+          "code": {
+            "id": "BSCBL005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCBL006",
+          "name": {
+            "local": "Snake Cay",
+            "en": "Snake Cay",
+            "slug": "snake-cay-bscbl006"
+          },
+          "code": {
+            "id": "BSCBL006",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.CN",
+      "name": {
+        "local": "Central Andros",
+        "en": "Central Andros",
+        "slug": "central-andros-bs-cn"
+      },
+      "code": {
+        "id": "BS.CN",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSCNL001",
+          "name": {
+            "local": "Behring Point",
+            "en": "Behring Point",
+            "slug": "behring-point-bscnl001"
+          },
+          "code": {
+            "id": "BSCNL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCNL002",
+          "name": {
+            "local": "Minns",
+            "en": "Minns",
+            "slug": "minns-bscnl002"
+          },
+          "code": {
+            "id": "BSCNL002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCNL003",
+          "name": {
+            "local": "Bowen Sound",
+            "en": "Bowen Sound",
+            "slug": "bowen-sound-bscnl003"
+          },
+          "code": {
+            "id": "BSCNL003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCNL004",
+          "name": {
+            "local": "Man of War Sound",
+            "en": "Man of War Sound",
+            "slug": "man-of-war-sound-bscnl004"
+          },
+          "code": {
+            "id": "BSCNL004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCNL005",
+          "name": {
+            "local": "Markey",
+            "en": "Markey",
+            "slug": "markey-bscnl005"
+          },
+          "code": {
+            "id": "BSCNL005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCNL006",
+          "name": {
+            "local": "Cargill Creek",
+            "en": "Cargill Creek",
+            "slug": "cargill-creek-bscnl006"
+          },
+          "code": {
+            "id": "BSCNL006",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.CE",
+      "name": {
+        "local": "Central Eleuthera",
+        "en": "Central Eleuthera",
+        "slug": "central-eleuthera-bs-ce"
+      },
+      "code": {
+        "id": "BS.CE",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSCEL001",
+          "name": {
+            "local": "Savannah Sound",
+            "en": "Savannah Sound",
+            "slug": "savannah-sound-bscel001"
+          },
+          "code": {
+            "id": "BSCEL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCEL002",
+          "name": {
+            "local": "Rainbow Bay",
+            "en": "Rainbow Bay",
+            "slug": "rainbow-bay-bscel002"
+          },
+          "code": {
+            "id": "BSCEL002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCEL003",
+          "name": {
+            "local": "South Palmetto Point",
+            "en": "South Palmetto Point",
+            "slug": "south-palmetto-point-bscel003"
+          },
+          "code": {
+            "id": "BSCEL003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCEL004",
+          "name": {
+            "local": "Governor's Harbour",
+            "en": "Governor's Harbour",
+            "slug": "governor-s-harbour-bscel004"
+          },
+          "code": {
+            "id": "BSCEL004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCEL005",
+          "name": {
+            "local": "Eleuthera",
+            "en": "Eleuthera",
+            "slug": "eleuthera-bscel005"
+          },
+          "code": {
+            "id": "BSCEL005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCEL006",
+          "name": {
+            "local": "South Palmetto Point",
+            "en": "South Palmetto Point",
+            "slug": "south-palmetto-point-bscel006"
+          },
+          "code": {
+            "id": "BSCEL006",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCEL007",
+          "name": {
+            "local": "Palmetto Point",
+            "en": "Palmetto Point",
+            "slug": "palmetto-point-bscel007"
+          },
+          "code": {
+            "id": "BSCEL007",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCEL008",
+          "name": {
+            "local": "Colebrooke Dale",
+            "en": "Colebrooke Dale",
+            "slug": "colebrooke-dale-bscel008"
+          },
+          "code": {
+            "id": "BSCEL008",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCEL009",
+          "name": {
+            "local": "North Palmetto Point",
+            "en": "North Palmetto Point",
+            "slug": "north-palmetto-point-bscel009"
+          },
+          "code": {
+            "id": "BSCEL009",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.FP",
+      "name": {
+        "local": "City of Freeport",
+        "en": "City of Freeport",
+        "slug": "city-of-freeport-bs-fp"
+      },
+      "code": {
+        "id": "BS.FP",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSFPL001",
+          "name": {
+            "local": "West End",
+            "en": "West End",
+            "slug": "west-end-bsfpl001"
+          },
+          "code": {
+            "id": "BSFPL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSFPL002",
+          "name": {
+            "local": "Pinders Point",
+            "en": "Pinders Point",
+            "slug": "pinders-point-bsfpl002"
+          },
+          "code": {
+            "id": "BSFPL002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSFPL003",
+          "name": {
+            "local": "Hawksbill",
+            "en": "Hawksbill",
+            "slug": "hawksbill-bsfpl003"
+          },
+          "code": {
+            "id": "BSFPL003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSFPL004",
+          "name": {
+            "local": "Southwest Point",
+            "en": "Southwest Point",
+            "slug": "southwest-point-bsfpl004"
+          },
+          "code": {
+            "id": "BSFPL004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSFPL005",
+          "name": {
+            "local": "Holmes Rock",
+            "en": "Holmes Rock",
+            "slug": "holmes-rock-bsfpl005"
+          },
+          "code": {
+            "id": "BSFPL005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSFPL006",
+          "name": {
+            "local": "Thomas Town",
+            "en": "Thomas Town",
+            "slug": "thomas-town-bsfpl006"
+          },
+          "code": {
+            "id": "BSFPL006",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSFPL007",
+          "name": {
+            "local": "Bain Town",
+            "en": "Bain Town",
+            "slug": "bain-town-bsfpl007"
+          },
+          "code": {
+            "id": "BSFPL007",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSFPL008",
+          "name": {
+            "local": "Smith Point",
+            "en": "Smith Point",
+            "slug": "smith-point-bsfpl008"
+          },
+          "code": {
+            "id": "BSFPL008",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSFPL009",
+          "name": {
+            "local": "Eight Mile Rock",
+            "en": "Eight Mile Rock",
+            "slug": "eight-mile-rock-bsfpl009"
+          },
+          "code": {
+            "id": "BSFPL009",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSFPL010",
+          "name": {
+            "local": "Sea Grape",
+            "en": "Sea Grape",
+            "slug": "sea-grape-bsfpl010"
+          },
+          "code": {
+            "id": "BSFPL010",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSFPL011",
+          "name": {
+            "local": "Martin Town",
+            "en": "Martin Town",
+            "slug": "martin-town-bsfpl011"
+          },
+          "code": {
+            "id": "BSFPL011",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSFPL012",
+          "name": {
+            "local": "Hunters",
+            "en": "Hunters",
+            "slug": "hunters-bsfpl012"
+          },
+          "code": {
+            "id": "BSFPL012",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSFPL013",
+          "name": {
+            "local": "Williams Town",
+            "en": "Williams Town",
+            "slug": "williams-town-bsfpl013"
+          },
+          "code": {
+            "id": "BSFPL013",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSFPL014",
+          "name": {
+            "local": "Holmes Rock",
+            "en": "Holmes Rock",
+            "slug": "holmes-rock-bsfpl014"
+          },
+          "code": {
+            "id": "BSFPL014",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.CK",
+      "name": {
+        "local": "Crooked Island",
+        "en": "Crooked Island",
+        "slug": "crooked-island-bs-ck"
+      },
+      "code": {
+        "id": "BS.CK",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSCKL001",
+          "name": {
+            "local": "Colonel Hill",
+            "en": "Colonel Hill",
+            "slug": "colonel-hill-bsckl001"
+          },
+          "code": {
+            "id": "BSCKL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCKL002",
+          "name": {
+            "local": "Albert Town",
+            "en": "Albert Town",
+            "slug": "albert-town-bsckl002"
+          },
+          "code": {
+            "id": "BSCKL002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCKL003",
+          "name": {
+            "local": "Cabbage Hill",
+            "en": "Cabbage Hill",
+            "slug": "cabbage-hill-bsckl003"
+          },
+          "code": {
+            "id": "BSCKL003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCKL004",
+          "name": {
+            "local": "Church Grove",
+            "en": "Church Grove",
+            "slug": "church-grove-bsckl004"
+          },
+          "code": {
+            "id": "BSCKL004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCKL005",
+          "name": {
+            "local": "Moss Town",
+            "en": "Moss Town",
+            "slug": "moss-town-bsckl005"
+          },
+          "code": {
+            "id": "BSCKL005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCKL006",
+          "name": {
+            "local": "Fairfield",
+            "en": "Fairfield",
+            "slug": "fairfield-bsckl006"
+          },
+          "code": {
+            "id": "BSCKL006",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCKL007",
+          "name": {
+            "local": "Richmond",
+            "en": "Richmond",
+            "slug": "richmond-bsckl007"
+          },
+          "code": {
+            "id": "BSCKL007",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCKL008",
+          "name": {
+            "local": "Majors",
+            "en": "Majors",
+            "slug": "majors-bsckl008"
+          },
+          "code": {
+            "id": "BSCKL008",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCKL009",
+          "name": {
+            "local": "French Wells",
+            "en": "French Wells",
+            "slug": "french-wells-bsckl009"
+          },
+          "code": {
+            "id": "BSCKL009",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCKL010",
+          "name": {
+            "local": "Seaview Settlement",
+            "en": "Seaview Settlement",
+            "slug": "seaview-settlement-bsckl010"
+          },
+          "code": {
+            "id": "BSCKL010",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCKL011",
+          "name": {
+            "local": "Cripple Hill",
+            "en": "Cripple Hill",
+            "slug": "cripple-hill-bsckl011"
+          },
+          "code": {
+            "id": "BSCKL011",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCKL012",
+          "name": {
+            "local": "Landrail Point",
+            "en": "Landrail Point",
+            "slug": "landrail-point-bsckl012"
+          },
+          "code": {
+            "id": "BSCKL012",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSCKL013",
+          "name": {
+            "local": "Browns",
+            "en": "Browns",
+            "slug": "browns-bsckl013"
+          },
+          "code": {
+            "id": "BSCKL013",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.EB",
+      "name": {
+        "local": "East Grand Bahama",
+        "en": "East Grand Bahama",
+        "slug": "east-grand-bahama-bs-eb"
+      },
+      "code": {
+        "id": "BS.EB",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSEBL001",
+          "name": {
+            "local": "Sweeting Cay",
+            "en": "Sweeting Cay",
+            "slug": "sweeting-cay-bsebl001"
+          },
+          "code": {
+            "id": "BSEBL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEBL002",
+          "name": {
+            "local": "High Rock",
+            "en": "High Rock",
+            "slug": "high-rock-bsebl002"
+          },
+          "code": {
+            "id": "BSEBL002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEBL003",
+          "name": {
+            "local": "McLeans Town",
+            "en": "McLeans Town",
+            "slug": "mcleans-town-bsebl003"
+          },
+          "code": {
+            "id": "BSEBL003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEBL004",
+          "name": {
+            "local": "Pelican Point",
+            "en": "Pelican Point",
+            "slug": "pelican-point-bsebl004"
+          },
+          "code": {
+            "id": "BSEBL004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEBL005",
+          "name": {
+            "local": "Bevans Town",
+            "en": "Bevans Town",
+            "slug": "bevans-town-bsebl005"
+          },
+          "code": {
+            "id": "BSEBL005",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.EM",
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      },
+      "code": {
+        "id": "BS.EM",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSEML001",
+          "name": {
+            "local": "Calvin Hill",
+            "en": "Calvin Hill",
+            "slug": "calvin-hill-bseml001"
+          },
+          "code": {
+            "id": "BSEML001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML002",
+          "name": {
+            "local": "Baraterre",
+            "en": "Baraterre",
+            "slug": "baraterre-bseml002"
+          },
+          "code": {
+            "id": "BSEML002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML003",
+          "name": {
+            "local": "George Town",
+            "en": "George Town",
+            "slug": "george-town-bseml003"
+          },
+          "code": {
+            "id": "BSEML003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML004",
+          "name": {
+            "local": "William's Town",
+            "en": "William's Town",
+            "slug": "william-s-town-bseml004"
+          },
+          "code": {
+            "id": "BSEML004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML005",
+          "name": {
+            "local": "Forbes Hill",
+            "en": "Forbes Hill",
+            "slug": "forbes-hill-bseml005"
+          },
+          "code": {
+            "id": "BSEML005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML006",
+          "name": {
+            "local": "Baraterre",
+            "en": "Baraterre",
+            "slug": "baraterre-bseml006"
+          },
+          "code": {
+            "id": "BSEML006",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML007",
+          "name": {
+            "local": "Stuart Manor",
+            "en": "Stuart Manor",
+            "slug": "stuart-manor-bseml007"
+          },
+          "code": {
+            "id": "BSEML007",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML008",
+          "name": {
+            "local": "Rolletown",
+            "en": "Rolletown",
+            "slug": "rolletown-bseml008"
+          },
+          "code": {
+            "id": "BSEML008",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML009",
+          "name": {
+            "local": "Mount Thompson",
+            "en": "Mount Thompson",
+            "slug": "mount-thompson-bseml009"
+          },
+          "code": {
+            "id": "BSEML009",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML010",
+          "name": {
+            "local": "The Ferry Settlement",
+            "en": "The Ferry Settlement",
+            "slug": "the-ferry-settlement-bseml010"
+          },
+          "code": {
+            "id": "BSEML010",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML011",
+          "name": {
+            "local": "Michelson",
+            "en": "Michelson",
+            "slug": "michelson-bseml011"
+          },
+          "code": {
+            "id": "BSEML011",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML012",
+          "name": {
+            "local": "Anne's Tract Settlement",
+            "en": "Anne's Tract Settlement",
+            "slug": "anne-s-tract-settlement-bseml012"
+          },
+          "code": {
+            "id": "BSEML012",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML013",
+          "name": {
+            "local": "Curtis",
+            "en": "Curtis",
+            "slug": "curtis-bseml013"
+          },
+          "code": {
+            "id": "BSEML013",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML014",
+          "name": {
+            "local": "Alexander",
+            "en": "Alexander",
+            "slug": "alexander-bseml014"
+          },
+          "code": {
+            "id": "BSEML014",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML015",
+          "name": {
+            "local": "Hartswell",
+            "en": "Hartswell",
+            "slug": "hartswell-bseml015"
+          },
+          "code": {
+            "id": "BSEML015",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML016",
+          "name": {
+            "local": "Steventon",
+            "en": "Steventon",
+            "slug": "steventon-bseml016"
+          },
+          "code": {
+            "id": "BSEML016",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML017",
+          "name": {
+            "local": "Ramsey",
+            "en": "Ramsey",
+            "slug": "ramsey-bseml017"
+          },
+          "code": {
+            "id": "BSEML017",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML018",
+          "name": {
+            "local": "Richmond Hill",
+            "en": "Richmond Hill",
+            "slug": "richmond-hill-bseml018"
+          },
+          "code": {
+            "id": "BSEML018",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML019",
+          "name": {
+            "local": "Gilbert Grant",
+            "en": "Gilbert Grant",
+            "slug": "gilbert-grant-bseml019"
+          },
+          "code": {
+            "id": "BSEML019",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML020",
+          "name": {
+            "local": "Forest",
+            "en": "Forest",
+            "slug": "forest-bseml020"
+          },
+          "code": {
+            "id": "BSEML020",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML021",
+          "name": {
+            "local": "Hermitage",
+            "en": "Hermitage",
+            "slug": "hermitage-bseml021"
+          },
+          "code": {
+            "id": "BSEML021",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML022",
+          "name": {
+            "local": "Pigeon Cay",
+            "en": "Pigeon Cay",
+            "slug": "pigeon-cay-bseml022"
+          },
+          "code": {
+            "id": "BSEML022",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML023",
+          "name": {
+            "local": "Rokers Point Settlement",
+            "en": "Rokers Point Settlement",
+            "slug": "rokers-point-settlement-bseml023"
+          },
+          "code": {
+            "id": "BSEML023",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML024",
+          "name": {
+            "local": "Farmer's Hill",
+            "en": "Farmer's Hill",
+            "slug": "farmer-s-hill-bseml024"
+          },
+          "code": {
+            "id": "BSEML024",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML025",
+          "name": {
+            "local": "Jimmy Hill",
+            "en": "Jimmy Hill",
+            "slug": "jimmy-hill-bseml025"
+          },
+          "code": {
+            "id": "BSEML025",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML026",
+          "name": {
+            "local": "Rolleville",
+            "en": "Rolleville",
+            "slug": "rolleville-bseml026"
+          },
+          "code": {
+            "id": "BSEML026",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSEML027",
+          "name": {
+            "local": "Moss Town",
+            "en": "Moss Town",
+            "slug": "moss-town-bseml027"
+          },
+          "code": {
+            "id": "BSEML027",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.GC",
+      "name": {
+        "local": "Grand Cay",
+        "en": "Grand Cay",
+        "slug": "grand-cay-bs-gc"
+      },
+      "code": {
+        "id": "BS.GC",
+        "iso": null
+      },
+      "locality": []
+    },
+    {
+      "id": "BS.HB",
+      "name": {
+        "local": "Harbour Island",
+        "en": "Harbour Island",
+        "slug": "harbour-island-bs-hb"
+      },
+      "code": {
+        "id": "BS.HB",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSHBL001",
+          "name": {
+            "local": "Spanish Wells",
+            "en": "Spanish Wells",
+            "slug": "spanish-wells-bshbl001"
+          },
+          "code": {
+            "id": "BSHBL001",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.HT",
+      "name": {
+        "local": "Hope Town",
+        "en": "Hope Town",
+        "slug": "hope-town-bs-ht"
+      },
+      "code": {
+        "id": "BS.HT",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSHTL001",
+          "name": {
+            "local": "Marsh Harbour",
+            "en": "Marsh Harbour",
+            "slug": "marsh-harbour-bshtl001"
+          },
+          "code": {
+            "id": "BSHTL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSHTL002",
+          "name": {
+            "local": "Hope Town",
+            "en": "Hope Town",
+            "slug": "hope-town-bshtl002"
+          },
+          "code": {
+            "id": "BSHTL002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSHTL003",
+          "name": {
+            "local": "Great Guana Cay",
+            "en": "Great Guana Cay",
+            "slug": "great-guana-cay-bshtl003"
+          },
+          "code": {
+            "id": "BSHTL003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSHTL004",
+          "name": {
+            "local": "Man of War Cay Settlement",
+            "en": "Man of War Cay Settlement",
+            "slug": "man-of-war-cay-settlement-bshtl004"
+          },
+          "code": {
+            "id": "BSHTL004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSHTL005",
+          "name": {
+            "local": "Murphy Town",
+            "en": "Murphy Town",
+            "slug": "murphy-town-bshtl005"
+          },
+          "code": {
+            "id": "BSHTL005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSHTL006",
+          "name": {
+            "local": "Dundas Town",
+            "en": "Dundas Town",
+            "slug": "dundas-town-bshtl006"
+          },
+          "code": {
+            "id": "BSHTL006",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.IN",
+      "name": {
+        "local": "Inagua",
+        "en": "Inagua",
+        "slug": "inagua-bs-in"
+      },
+      "code": {
+        "id": "BS.IN",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSINL001",
+          "name": {
+            "local": "Matthew Town",
+            "en": "Matthew Town",
+            "slug": "matthew-town-bsinl001"
+          },
+          "code": {
+            "id": "BSINL001",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.LI",
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      },
+      "code": {
+        "id": "BS.LI",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSLIL001",
+          "name": {
+            "local": "Clarence Town",
+            "en": "Clarence Town",
+            "slug": "clarence-town-bslil001"
+          },
+          "code": {
+            "id": "BSLIL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL002",
+          "name": {
+            "local": "Salt Pond",
+            "en": "Salt Pond",
+            "slug": "salt-pond-bslil002"
+          },
+          "code": {
+            "id": "BSLIL002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL003",
+          "name": {
+            "local": "Millers",
+            "en": "Millers",
+            "slug": "millers-bslil003"
+          },
+          "code": {
+            "id": "BSLIL003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL004",
+          "name": {
+            "local": "Deadman's Cay",
+            "en": "Deadman's Cay",
+            "slug": "deadman-s-cay-bslil004"
+          },
+          "code": {
+            "id": "BSLIL004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL005",
+          "name": {
+            "local": "Stevens",
+            "en": "Stevens",
+            "slug": "stevens-bslil005"
+          },
+          "code": {
+            "id": "BSLIL005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL006",
+          "name": {
+            "local": "Victoria Village",
+            "en": "Victoria Village",
+            "slug": "victoria-village-bslil006"
+          },
+          "code": {
+            "id": "BSLIL006",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL007",
+          "name": {
+            "local": "Andersons",
+            "en": "Andersons",
+            "slug": "andersons-bslil007"
+          },
+          "code": {
+            "id": "BSLIL007",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL008",
+          "name": {
+            "local": "Lower Deadman's Cay",
+            "en": "Lower Deadman's Cay",
+            "slug": "lower-deadman-s-cay-bslil008"
+          },
+          "code": {
+            "id": "BSLIL008",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL009",
+          "name": {
+            "local": "Roses",
+            "en": "Roses",
+            "slug": "roses-bslil009"
+          },
+          "code": {
+            "id": "BSLIL009",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL010",
+          "name": {
+            "local": "Scrub Hill",
+            "en": "Scrub Hill",
+            "slug": "scrub-hill-bslil010"
+          },
+          "code": {
+            "id": "BSLIL010",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL011",
+          "name": {
+            "local": "Berrys",
+            "en": "Berrys",
+            "slug": "berrys-bslil011"
+          },
+          "code": {
+            "id": "BSLIL011",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL012",
+          "name": {
+            "local": "Grays",
+            "en": "Grays",
+            "slug": "grays-bslil012"
+          },
+          "code": {
+            "id": "BSLIL012",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL013",
+          "name": {
+            "local": "Ford",
+            "en": "Ford",
+            "slug": "ford-bslil013"
+          },
+          "code": {
+            "id": "BSLIL013",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL014",
+          "name": {
+            "local": "Simms",
+            "en": "Simms",
+            "slug": "simms-bslil014"
+          },
+          "code": {
+            "id": "BSLIL014",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL015",
+          "name": {
+            "local": "Wemyss",
+            "en": "Wemyss",
+            "slug": "wemyss-bslil015"
+          },
+          "code": {
+            "id": "BSLIL015",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL016",
+          "name": {
+            "local": "Adderly",
+            "en": "Adderly",
+            "slug": "adderly-bslil016"
+          },
+          "code": {
+            "id": "BSLIL016",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL017",
+          "name": {
+            "local": "Turnbull",
+            "en": "Turnbull",
+            "slug": "turnbull-bslil017"
+          },
+          "code": {
+            "id": "BSLIL017",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL018",
+          "name": {
+            "local": "McKanns",
+            "en": "McKanns",
+            "slug": "mckanns-bslil018"
+          },
+          "code": {
+            "id": "BSLIL018",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL019",
+          "name": {
+            "local": "Bowers",
+            "en": "Bowers",
+            "slug": "bowers-bslil019"
+          },
+          "code": {
+            "id": "BSLIL019",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL020",
+          "name": {
+            "local": "Gordon's",
+            "en": "Gordon's",
+            "slug": "gordon-s-bslil020"
+          },
+          "code": {
+            "id": "BSLIL020",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL021",
+          "name": {
+            "local": "McKenzie",
+            "en": "McKenzie",
+            "slug": "mckenzie-bslil021"
+          },
+          "code": {
+            "id": "BSLIL021",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL022",
+          "name": {
+            "local": "Burnt Ground",
+            "en": "Burnt Ground",
+            "slug": "burnt-ground-bslil022"
+          },
+          "code": {
+            "id": "BSLIL022",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL023",
+          "name": {
+            "local": "Old Grays",
+            "en": "Old Grays",
+            "slug": "old-grays-bslil023"
+          },
+          "code": {
+            "id": "BSLIL023",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL024",
+          "name": {
+            "local": "Scrub Hill",
+            "en": "Scrub Hill",
+            "slug": "scrub-hill-bslil024"
+          },
+          "code": {
+            "id": "BSLIL024",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL025",
+          "name": {
+            "local": "Anderson",
+            "en": "Anderson",
+            "slug": "anderson-bslil025"
+          },
+          "code": {
+            "id": "BSLIL025",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL026",
+          "name": {
+            "local": "Millerton",
+            "en": "Millerton",
+            "slug": "millerton-bslil026"
+          },
+          "code": {
+            "id": "BSLIL026",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL027",
+          "name": {
+            "local": "Dunmore",
+            "en": "Dunmore",
+            "slug": "dunmore-bslil027"
+          },
+          "code": {
+            "id": "BSLIL027",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL028",
+          "name": {
+            "local": "Stella Maris",
+            "en": "Stella Maris",
+            "slug": "stella-maris-bslil028"
+          },
+          "code": {
+            "id": "BSLIL028",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL029",
+          "name": {
+            "local": "Doctor's Creek",
+            "en": "Doctor's Creek",
+            "slug": "doctor-s-creek-bslil029"
+          },
+          "code": {
+            "id": "BSLIL029",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL030",
+          "name": {
+            "local": "Galloway Landing",
+            "en": "Galloway Landing",
+            "slug": "galloway-landing-bslil030"
+          },
+          "code": {
+            "id": "BSLIL030",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL031",
+          "name": {
+            "local": "O'Neils",
+            "en": "O'Neils",
+            "slug": "o-neils-bslil031"
+          },
+          "code": {
+            "id": "BSLIL031",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL032",
+          "name": {
+            "local": "Alligator Bay Settlement",
+            "en": "Alligator Bay Settlement",
+            "slug": "alligator-bay-settlement-bslil032"
+          },
+          "code": {
+            "id": "BSLIL032",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL033",
+          "name": {
+            "local": "Taits",
+            "en": "Taits",
+            "slug": "taits-bslil033"
+          },
+          "code": {
+            "id": "BSLIL033",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL034",
+          "name": {
+            "local": "Mortimers",
+            "en": "Mortimers",
+            "slug": "mortimers-bslil034"
+          },
+          "code": {
+            "id": "BSLIL034",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL035",
+          "name": {
+            "local": "Cartwright",
+            "en": "Cartwright",
+            "slug": "cartwright-bslil035"
+          },
+          "code": {
+            "id": "BSLIL035",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL036",
+          "name": {
+            "local": "Hard Bargain",
+            "en": "Hard Bargain",
+            "slug": "hard-bargain-bslil036"
+          },
+          "code": {
+            "id": "BSLIL036",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL037",
+          "name": {
+            "local": "Cabbage Point",
+            "en": "Cabbage Point",
+            "slug": "cabbage-point-bslil037"
+          },
+          "code": {
+            "id": "BSLIL037",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL038",
+          "name": {
+            "local": "Sam McKinnons",
+            "en": "Sam McKinnons",
+            "slug": "sam-mckinnons-bslil038"
+          },
+          "code": {
+            "id": "BSLIL038",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL039",
+          "name": {
+            "local": "Mangrove Bush",
+            "en": "Mangrove Bush",
+            "slug": "mangrove-bush-bslil039"
+          },
+          "code": {
+            "id": "BSLIL039",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL040",
+          "name": {
+            "local": "Whitehouse",
+            "en": "Whitehouse",
+            "slug": "whitehouse-bslil040"
+          },
+          "code": {
+            "id": "BSLIL040",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL041",
+          "name": {
+            "local": "Seymour's",
+            "en": "Seymour's",
+            "slug": "seymour-s-bslil041"
+          },
+          "code": {
+            "id": "BSLIL041",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL042",
+          "name": {
+            "local": "Pinders",
+            "en": "Pinders",
+            "slug": "pinders-bslil042"
+          },
+          "code": {
+            "id": "BSLIL042",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL043",
+          "name": {
+            "local": "Tatnall",
+            "en": "Tatnall",
+            "slug": "tatnall-bslil043"
+          },
+          "code": {
+            "id": "BSLIL043",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL044",
+          "name": {
+            "local": "McKenzie",
+            "en": "McKenzie",
+            "slug": "mckenzie-bslil044"
+          },
+          "code": {
+            "id": "BSLIL044",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL045",
+          "name": {
+            "local": "Buckleys",
+            "en": "Buckleys",
+            "slug": "buckleys-bslil045"
+          },
+          "code": {
+            "id": "BSLIL045",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSLIL046",
+          "name": {
+            "local": "Bains",
+            "en": "Bains",
+            "slug": "bains-bslil046"
+          },
+          "code": {
+            "id": "BSLIL046",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.MC",
+      "name": {
+        "local": "Mangrove Cay",
+        "en": "Mangrove Cay",
+        "slug": "mangrove-cay-bs-mc"
+      },
+      "code": {
+        "id": "BS.MC",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSMCL001",
+          "name": {
+            "local": "Moxey Town",
+            "en": "Moxey Town",
+            "slug": "moxey-town-bsmcl001"
+          },
+          "code": {
+            "id": "BSMCL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSMCL002",
+          "name": {
+            "local": "Driggs Hill",
+            "en": "Driggs Hill",
+            "slug": "driggs-hill-bsmcl002"
+          },
+          "code": {
+            "id": "BSMCL002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSMCL003",
+          "name": {
+            "local": "Bastian Point",
+            "en": "Bastian Point",
+            "slug": "bastian-point-bsmcl003"
+          },
+          "code": {
+            "id": "BSMCL003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSMCL004",
+          "name": {
+            "local": "Lisbon Creek",
+            "en": "Lisbon Creek",
+            "slug": "lisbon-creek-bsmcl004"
+          },
+          "code": {
+            "id": "BSMCL004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSMCL005",
+          "name": {
+            "local": "Mangrove Cay",
+            "en": "Mangrove Cay",
+            "slug": "mangrove-cay-bsmcl005"
+          },
+          "code": {
+            "id": "BSMCL005",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.MG",
+      "name": {
+        "local": "Mayaguana",
+        "en": "Mayaguana",
+        "slug": "mayaguana-bs-mg"
+      },
+      "code": {
+        "id": "BS.MG",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSMGL001",
+          "name": {
+            "local": "Pirates Well",
+            "en": "Pirates Well",
+            "slug": "pirates-well-bsmgl001"
+          },
+          "code": {
+            "id": "BSMGL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSMGL002",
+          "name": {
+            "local": "Betsy Bay",
+            "en": "Betsy Bay",
+            "slug": "betsy-bay-bsmgl002"
+          },
+          "code": {
+            "id": "BSMGL002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSMGL003",
+          "name": {
+            "local": "Abraham's Bay",
+            "en": "Abraham's Bay",
+            "slug": "abraham-s-bay-bsmgl003"
+          },
+          "code": {
+            "id": "BSMGL003",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.MI",
+      "name": {
+        "local": "Moore's Island",
+        "en": "Moore's Island",
+        "slug": "moore-s-island-bs-mi"
+      },
+      "code": {
+        "id": "BS.MI",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSMIL001",
+          "name": {
+            "local": "Hard Bargain",
+            "en": "Hard Bargain",
+            "slug": "hard-bargain-bsmil001"
+          },
+          "code": {
+            "id": "BSMIL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSMIL002",
+          "name": {
+            "local": "The Bight",
+            "en": "The Bight",
+            "slug": "the-bight-bsmil002"
+          },
+          "code": {
+            "id": "BSMIL002",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.NW",
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      },
+      "code": {
+        "id": "BS.NW",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSNWL001",
+          "name": {
+            "local": "Adelaide",
+            "en": "Adelaide",
+            "slug": "adelaide-bsnwl001"
+          },
+          "code": {
+            "id": "BSNWL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL002",
+          "name": {
+            "local": "Winton Heights",
+            "en": "Winton Heights",
+            "slug": "winton-heights-bsnwl002"
+          },
+          "code": {
+            "id": "BSNWL002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL003",
+          "name": {
+            "local": "Grantstown (Historical)",
+            "en": "Grantstown (Historical)",
+            "slug": "grantstown-historical-bsnwl003"
+          },
+          "code": {
+            "id": "BSNWL003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL004",
+          "name": {
+            "local": "Killarney",
+            "en": "Killarney",
+            "slug": "killarney-bsnwl004"
+          },
+          "code": {
+            "id": "BSNWL004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL005",
+          "name": {
+            "local": "Golden Gates Estates",
+            "en": "Golden Gates Estates",
+            "slug": "golden-gates-estates-bsnwl005"
+          },
+          "code": {
+            "id": "BSNWL005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL006",
+          "name": {
+            "local": "Cunningham",
+            "en": "Cunningham",
+            "slug": "cunningham-bsnwl006"
+          },
+          "code": {
+            "id": "BSNWL006",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL007",
+          "name": {
+            "local": "Winton",
+            "en": "Winton",
+            "slug": "winton-bsnwl007"
+          },
+          "code": {
+            "id": "BSNWL007",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL008",
+          "name": {
+            "local": "Winton Meadows",
+            "en": "Winton Meadows",
+            "slug": "winton-meadows-bsnwl008"
+          },
+          "code": {
+            "id": "BSNWL008",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL009",
+          "name": {
+            "local": "Pinewood Gardens Estate",
+            "en": "Pinewood Gardens Estate",
+            "slug": "pinewood-gardens-estate-bsnwl009"
+          },
+          "code": {
+            "id": "BSNWL009",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL010",
+          "name": {
+            "local": "Orange Hill",
+            "en": "Orange Hill",
+            "slug": "orange-hill-bsnwl010"
+          },
+          "code": {
+            "id": "BSNWL010",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL011",
+          "name": {
+            "local": "Gambier Village",
+            "en": "Gambier Village",
+            "slug": "gambier-village-bsnwl011"
+          },
+          "code": {
+            "id": "BSNWL011",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL012",
+          "name": {
+            "local": "Coral Harbour",
+            "en": "Coral Harbour",
+            "slug": "coral-harbour-bsnwl012"
+          },
+          "code": {
+            "id": "BSNWL012",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL013",
+          "name": {
+            "local": "Highbury Park",
+            "en": "Highbury Park",
+            "slug": "highbury-park-bsnwl013"
+          },
+          "code": {
+            "id": "BSNWL013",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL014",
+          "name": {
+            "local": "Camperdown",
+            "en": "Camperdown",
+            "slug": "camperdown-bsnwl014"
+          },
+          "code": {
+            "id": "BSNWL014",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL015",
+          "name": {
+            "local": "Sea Breeze Estates",
+            "en": "Sea Breeze Estates",
+            "slug": "sea-breeze-estates-bsnwl015"
+          },
+          "code": {
+            "id": "BSNWL015",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL016",
+          "name": {
+            "local": "Waterloo",
+            "en": "Waterloo",
+            "slug": "waterloo-bsnwl016"
+          },
+          "code": {
+            "id": "BSNWL016",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL017",
+          "name": {
+            "local": "Creek Village",
+            "en": "Creek Village",
+            "slug": "creek-village-bsnwl017"
+          },
+          "code": {
+            "id": "BSNWL017",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL018",
+          "name": {
+            "local": "Nassau Estate",
+            "en": "Nassau Estate",
+            "slug": "nassau-estate-bsnwl018"
+          },
+          "code": {
+            "id": "BSNWL018",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL019",
+          "name": {
+            "local": "Stapleton Gardens",
+            "en": "Stapleton Gardens",
+            "slug": "stapleton-gardens-bsnwl019"
+          },
+          "code": {
+            "id": "BSNWL019",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL020",
+          "name": {
+            "local": "Coral Heights",
+            "en": "Coral Heights",
+            "slug": "coral-heights-bsnwl020"
+          },
+          "code": {
+            "id": "BSNWL020",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL021",
+          "name": {
+            "local": "Carmichael Village",
+            "en": "Carmichael Village",
+            "slug": "carmichael-village-bsnwl021"
+          },
+          "code": {
+            "id": "BSNWL021",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL022",
+          "name": {
+            "local": "Belair Estates",
+            "en": "Belair Estates",
+            "slug": "belair-estates-bsnwl022"
+          },
+          "code": {
+            "id": "BSNWL022",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL023",
+          "name": {
+            "local": "Millars",
+            "en": "Millars",
+            "slug": "millars-bsnwl023"
+          },
+          "code": {
+            "id": "BSNWL023",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL024",
+          "name": {
+            "local": "Bradford",
+            "en": "Bradford",
+            "slug": "bradford-bsnwl024"
+          },
+          "code": {
+            "id": "BSNWL024",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL025",
+          "name": {
+            "local": "Macbride",
+            "en": "Macbride",
+            "slug": "macbride-bsnwl025"
+          },
+          "code": {
+            "id": "BSNWL025",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL026",
+          "name": {
+            "local": "Yamacraw Beach Estate",
+            "en": "Yamacraw Beach Estate",
+            "slug": "yamacraw-beach-estate-bsnwl026"
+          },
+          "code": {
+            "id": "BSNWL026",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL027",
+          "name": {
+            "local": "Tusculum",
+            "en": "Tusculum",
+            "slug": "tusculum-bsnwl027"
+          },
+          "code": {
+            "id": "BSNWL027",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL028",
+          "name": {
+            "local": "Sandilands Village",
+            "en": "Sandilands Village",
+            "slug": "sandilands-village-bsnwl028"
+          },
+          "code": {
+            "id": "BSNWL028",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL029",
+          "name": {
+            "local": "Love",
+            "en": "Love",
+            "slug": "love-bsnwl029"
+          },
+          "code": {
+            "id": "BSNWL029",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL030",
+          "name": {
+            "local": "Mount Pleasant",
+            "en": "Mount Pleasant",
+            "slug": "mount-pleasant-bsnwl030"
+          },
+          "code": {
+            "id": "BSNWL030",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNWL031",
+          "name": {
+            "local": "Clifton",
+            "en": "Clifton",
+            "slug": "clifton-bsnwl031"
+          },
+          "code": {
+            "id": "BSNWL031",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.NB",
+      "name": {
+        "local": "North Abaco",
+        "en": "North Abaco",
+        "slug": "north-abaco-bs-nb"
+      },
+      "code": {
+        "id": "BS.NB",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSNBL001",
+          "name": {
+            "local": "Green Turtle Cay",
+            "en": "Green Turtle Cay",
+            "slug": "green-turtle-cay-bsnbl001"
+          },
+          "code": {
+            "id": "BSNBL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNBL002",
+          "name": {
+            "local": "Cooperâ€™s Town",
+            "en": "Cooperâ€™s Town",
+            "slug": "cooper-s-town-bsnbl002"
+          },
+          "code": {
+            "id": "BSNBL002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNBL003",
+          "name": {
+            "local": "Blackwood Village",
+            "en": "Blackwood Village",
+            "slug": "blackwood-village-bsnbl003"
+          },
+          "code": {
+            "id": "BSNBL003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNBL004",
+          "name": {
+            "local": "Green Turtle Village",
+            "en": "Green Turtle Village",
+            "slug": "green-turtle-village-bsnbl004"
+          },
+          "code": {
+            "id": "BSNBL004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNBL005",
+          "name": {
+            "local": "Cedar Harbour",
+            "en": "Cedar Harbour",
+            "slug": "cedar-harbour-bsnbl005"
+          },
+          "code": {
+            "id": "BSNBL005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNBL006",
+          "name": {
+            "local": "Mount Hope",
+            "en": "Mount Hope",
+            "slug": "mount-hope-bsnbl006"
+          },
+          "code": {
+            "id": "BSNBL006",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNBL007",
+          "name": {
+            "local": "Fire Road Village",
+            "en": "Fire Road Village",
+            "slug": "fire-road-village-bsnbl007"
+          },
+          "code": {
+            "id": "BSNBL007",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNBL008",
+          "name": {
+            "local": "Fox Town",
+            "en": "Fox Town",
+            "slug": "fox-town-bsnbl008"
+          },
+          "code": {
+            "id": "BSNBL008",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNBL009",
+          "name": {
+            "local": "Cornishtown",
+            "en": "Cornishtown",
+            "slug": "cornishtown-bsnbl009"
+          },
+          "code": {
+            "id": "BSNBL009",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNBL010",
+          "name": {
+            "local": "Crown Haven",
+            "en": "Crown Haven",
+            "slug": "crown-haven-bsnbl010"
+          },
+          "code": {
+            "id": "BSNBL010",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNBL011",
+          "name": {
+            "local": "Normans Castle",
+            "en": "Normans Castle",
+            "slug": "normans-castle-bsnbl011"
+          },
+          "code": {
+            "id": "BSNBL011",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNBL012",
+          "name": {
+            "local": "Wood Cay",
+            "en": "Wood Cay",
+            "slug": "wood-cay-bsnbl012"
+          },
+          "code": {
+            "id": "BSNBL012",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.NN",
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      },
+      "code": {
+        "id": "BS.NN",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSNNL001",
+          "name": {
+            "local": "Fresh Creek",
+            "en": "Fresh Creek",
+            "slug": "fresh-creek-bsnnl001"
+          },
+          "code": {
+            "id": "BSNNL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNNL002",
+          "name": {
+            "local": "Nicholls Town",
+            "en": "Nicholls Town",
+            "slug": "nicholls-town-bsnnl002"
+          },
+          "code": {
+            "id": "BSNNL002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNNL003",
+          "name": {
+            "local": "Andros Town",
+            "en": "Andros Town",
+            "slug": "andros-town-bsnnl003"
+          },
+          "code": {
+            "id": "BSNNL003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNNL004",
+          "name": {
+            "local": "Lowe Sound Settlement",
+            "en": "Lowe Sound Settlement",
+            "slug": "lowe-sound-settlement-bsnnl004"
+          },
+          "code": {
+            "id": "BSNNL004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNNL005",
+          "name": {
+            "local": "Hard Bargain",
+            "en": "Hard Bargain",
+            "slug": "hard-bargain-bsnnl005"
+          },
+          "code": {
+            "id": "BSNNL005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNNL006",
+          "name": {
+            "local": "San Andros",
+            "en": "San Andros",
+            "slug": "san-andros-bsnnl006"
+          },
+          "code": {
+            "id": "BSNNL006",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNNL007",
+          "name": {
+            "local": "Morgan's Bluff",
+            "en": "Morgan's Bluff",
+            "slug": "morgan-s-bluff-bsnnl007"
+          },
+          "code": {
+            "id": "BSNNL007",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNNL008",
+          "name": {
+            "local": "Conch Sound Settlement",
+            "en": "Conch Sound Settlement",
+            "slug": "conch-sound-settlement-bsnnl008"
+          },
+          "code": {
+            "id": "BSNNL008",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNNL009",
+          "name": {
+            "local": "Millers Hill",
+            "en": "Millers Hill",
+            "slug": "millers-hill-bsnnl009"
+          },
+          "code": {
+            "id": "BSNNL009",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNNL010",
+          "name": {
+            "local": "Owens Town",
+            "en": "Owens Town",
+            "slug": "owens-town-bsnnl010"
+          },
+          "code": {
+            "id": "BSNNL010",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNNL011",
+          "name": {
+            "local": "Twin Lakes",
+            "en": "Twin Lakes",
+            "slug": "twin-lakes-bsnnl011"
+          },
+          "code": {
+            "id": "BSNNL011",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNNL012",
+          "name": {
+            "local": "Mastic Point",
+            "en": "Mastic Point",
+            "slug": "mastic-point-bsnnl012"
+          },
+          "code": {
+            "id": "BSNNL012",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNNL013",
+          "name": {
+            "local": "August Town",
+            "en": "August Town",
+            "slug": "august-town-bsnnl013"
+          },
+          "code": {
+            "id": "BSNNL013",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNNL014",
+          "name": {
+            "local": "Staniard Creek",
+            "en": "Staniard Creek",
+            "slug": "staniard-creek-bsnnl014"
+          },
+          "code": {
+            "id": "BSNNL014",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNNL015",
+          "name": {
+            "local": "Red Bay Settlement",
+            "en": "Red Bay Settlement",
+            "slug": "red-bay-settlement-bsnnl015"
+          },
+          "code": {
+            "id": "BSNNL015",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNNL016",
+          "name": {
+            "local": "Coakley Town",
+            "en": "Coakley Town",
+            "slug": "coakley-town-bsnnl016"
+          },
+          "code": {
+            "id": "BSNNL016",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNNL017",
+          "name": {
+            "local": "Calabash Bay",
+            "en": "Calabash Bay",
+            "slug": "calabash-bay-bsnnl017"
+          },
+          "code": {
+            "id": "BSNNL017",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNNL018",
+          "name": {
+            "local": "Seminets",
+            "en": "Seminets",
+            "slug": "seminets-bsnnl018"
+          },
+          "code": {
+            "id": "BSNNL018",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNNL019",
+          "name": {
+            "local": "Love Hill",
+            "en": "Love Hill",
+            "slug": "love-hill-bsnnl019"
+          },
+          "code": {
+            "id": "BSNNL019",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNNL020",
+          "name": {
+            "local": "Stafford Creek",
+            "en": "Stafford Creek",
+            "slug": "stafford-creek-bsnnl020"
+          },
+          "code": {
+            "id": "BSNNL020",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNNL021",
+          "name": {
+            "local": "New Town",
+            "en": "New Town",
+            "slug": "new-town-bsnnl021"
+          },
+          "code": {
+            "id": "BSNNL021",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNNL022",
+          "name": {
+            "local": "Blanket Sound",
+            "en": "Blanket Sound",
+            "slug": "blanket-sound-bsnnl022"
+          },
+          "code": {
+            "id": "BSNNL022",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.NE",
+      "name": {
+        "local": "North Eleuthera",
+        "en": "North Eleuthera",
+        "slug": "north-eleuthera-bs-ne"
+      },
+      "code": {
+        "id": "BS.NE",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSNEL001",
+          "name": {
+            "local": "Dunmore Town",
+            "en": "Dunmore Town",
+            "slug": "dunmore-town-bsnel001"
+          },
+          "code": {
+            "id": "BSNEL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNEL002",
+          "name": {
+            "local": "James Cistern",
+            "en": "James Cistern",
+            "slug": "james-cistern-bsnel002"
+          },
+          "code": {
+            "id": "BSNEL002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNEL003",
+          "name": {
+            "local": "Alice Town",
+            "en": "Alice Town",
+            "slug": "alice-town-bsnel003"
+          },
+          "code": {
+            "id": "BSNEL003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNEL004",
+          "name": {
+            "local": "Current",
+            "en": "Current",
+            "slug": "current-bsnel004"
+          },
+          "code": {
+            "id": "BSNEL004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNEL005",
+          "name": {
+            "local": "Current Island Settlement",
+            "en": "Current Island Settlement",
+            "slug": "current-island-settlement-bsnel005"
+          },
+          "code": {
+            "id": "BSNEL005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNEL006",
+          "name": {
+            "local": "The Bluff",
+            "en": "The Bluff",
+            "slug": "the-bluff-bsnel006"
+          },
+          "code": {
+            "id": "BSNEL006",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNEL007",
+          "name": {
+            "local": "Lower Bogue",
+            "en": "Lower Bogue",
+            "slug": "lower-bogue-bsnel007"
+          },
+          "code": {
+            "id": "BSNEL007",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNEL008",
+          "name": {
+            "local": "Gregory Town",
+            "en": "Gregory Town",
+            "slug": "gregory-town-bsnel008"
+          },
+          "code": {
+            "id": "BSNEL008",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSNEL009",
+          "name": {
+            "local": "Upper Bogue",
+            "en": "Upper Bogue",
+            "slug": "upper-bogue-bsnel009"
+          },
+          "code": {
+            "id": "BSNEL009",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.RI",
+      "name": {
+        "local": "Ragged Island",
+        "en": "Ragged Island",
+        "slug": "ragged-island-bs-ri"
+      },
+      "code": {
+        "id": "BS.RI",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSRIL001",
+          "name": {
+            "local": "Duncan Town",
+            "en": "Duncan Town",
+            "slug": "duncan-town-bsril001"
+          },
+          "code": {
+            "id": "BSRIL001",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.RC",
+      "name": {
+        "local": "Rum Cay",
+        "en": "Rum Cay",
+        "slug": "rum-cay-bs-rc"
+      },
+      "code": {
+        "id": "BS.RC",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSRCL001",
+          "name": {
+            "local": "Port Nelson",
+            "en": "Port Nelson",
+            "slug": "port-nelson-bsrcl001"
+          },
+          "code": {
+            "id": "BSRCL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSRCL002",
+          "name": {
+            "local": "Glintons",
+            "en": "Glintons",
+            "slug": "glintons-bsrcl002"
+          },
+          "code": {
+            "id": "BSRCL002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSRCL003",
+          "name": {
+            "local": "Sugar Loaf",
+            "en": "Sugar Loaf",
+            "slug": "sugar-loaf-bsrcl003"
+          },
+          "code": {
+            "id": "BSRCL003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSRCL004",
+          "name": {
+            "local": "Port Boyd",
+            "en": "Port Boyd",
+            "slug": "port-boyd-bsrcl004"
+          },
+          "code": {
+            "id": "BSRCL004",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.SS",
+      "name": {
+        "local": "San Salvador",
+        "en": "San Salvador",
+        "slug": "san-salvador-bs-ss"
+      },
+      "code": {
+        "id": "BS.SS",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSSSL001",
+          "name": {
+            "local": "Cockburn Town",
+            "en": "Cockburn Town",
+            "slug": "cockburn-town-bsssl001"
+          },
+          "code": {
+            "id": "BSSSL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSSL002",
+          "name": {
+            "local": "Cockburn Town",
+            "en": "Cockburn Town",
+            "slug": "cockburn-town-bsssl002"
+          },
+          "code": {
+            "id": "BSSSL002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSSL003",
+          "name": {
+            "local": "Sugar Loaf",
+            "en": "Sugar Loaf",
+            "slug": "sugar-loaf-bsssl003"
+          },
+          "code": {
+            "id": "BSSSL003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSSL004",
+          "name": {
+            "local": "Halls Landing",
+            "en": "Halls Landing",
+            "slug": "halls-landing-bsssl004"
+          },
+          "code": {
+            "id": "BSSSL004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSSL005",
+          "name": {
+            "local": "Graham's Harbour",
+            "en": "Graham's Harbour",
+            "slug": "graham-s-harbour-bsssl005"
+          },
+          "code": {
+            "id": "BSSSL005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSSL006",
+          "name": {
+            "local": "Long Bay",
+            "en": "Long Bay",
+            "slug": "long-bay-bsssl006"
+          },
+          "code": {
+            "id": "BSSSL006",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSSL007",
+          "name": {
+            "local": "South Victoria Hill",
+            "en": "South Victoria Hill",
+            "slug": "south-victoria-hill-bsssl007"
+          },
+          "code": {
+            "id": "BSSSL007",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSSL008",
+          "name": {
+            "local": "Hard Bargain",
+            "en": "Hard Bargain",
+            "slug": "hard-bargain-bsssl008"
+          },
+          "code": {
+            "id": "BSSSL008",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSSL009",
+          "name": {
+            "local": "Brandy Hill",
+            "en": "Brandy Hill",
+            "slug": "brandy-hill-bsssl009"
+          },
+          "code": {
+            "id": "BSSSL009",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSSL010",
+          "name": {
+            "local": "Harbour Estate",
+            "en": "Harbour Estate",
+            "slug": "harbour-estate-bsssl010"
+          },
+          "code": {
+            "id": "BSSSL010",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSSL011",
+          "name": {
+            "local": "Holdiday Track",
+            "en": "Holdiday Track",
+            "slug": "holdiday-track-bsssl011"
+          },
+          "code": {
+            "id": "BSSSL011",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSSL012",
+          "name": {
+            "local": "Montreal",
+            "en": "Montreal",
+            "slug": "montreal-bsssl012"
+          },
+          "code": {
+            "id": "BSSSL012",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSSL013",
+          "name": {
+            "local": "Old Place",
+            "en": "Old Place",
+            "slug": "old-place-bsssl013"
+          },
+          "code": {
+            "id": "BSSSL013",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSSL014",
+          "name": {
+            "local": "United Estates",
+            "en": "United Estates",
+            "slug": "united-estates-bsssl014"
+          },
+          "code": {
+            "id": "BSSSL014",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSSL015",
+          "name": {
+            "local": "Trial Farm",
+            "en": "Trial Farm",
+            "slug": "trial-farm-bsssl015"
+          },
+          "code": {
+            "id": "BSSSL015",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSSL016",
+          "name": {
+            "local": "Fortune Hill",
+            "en": "Fortune Hill",
+            "slug": "fortune-hill-bsssl016"
+          },
+          "code": {
+            "id": "BSSSL016",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSSL017",
+          "name": {
+            "local": "Dixons",
+            "en": "Dixons",
+            "slug": "dixons-bsssl017"
+          },
+          "code": {
+            "id": "BSSSL017",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSSL018",
+          "name": {
+            "local": "Victoria Hill",
+            "en": "Victoria Hill",
+            "slug": "victoria-hill-bsssl018"
+          },
+          "code": {
+            "id": "BSSSL018",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSSL019",
+          "name": {
+            "local": "Allen",
+            "en": "Allen",
+            "slug": "allen-bsssl019"
+          },
+          "code": {
+            "id": "BSSSL019",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSSL020",
+          "name": {
+            "local": "Farquharson",
+            "en": "Farquharson",
+            "slug": "farquharson-bsssl020"
+          },
+          "code": {
+            "id": "BSSSL020",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSSL021",
+          "name": {
+            "local": "Polly Hill",
+            "en": "Polly Hill",
+            "slug": "polly-hill-bsssl021"
+          },
+          "code": {
+            "id": "BSSSL021",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSSL022",
+          "name": {
+            "local": "Quarters",
+            "en": "Quarters",
+            "slug": "quarters-bsssl022"
+          },
+          "code": {
+            "id": "BSSSL022",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSSL023",
+          "name": {
+            "local": "Victoria Hill",
+            "en": "Victoria Hill",
+            "slug": "victoria-hill-bsssl023"
+          },
+          "code": {
+            "id": "BSSSL023",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSSL024",
+          "name": {
+            "local": "Reckley Hill",
+            "en": "Reckley Hill",
+            "slug": "reckley-hill-bsssl024"
+          },
+          "code": {
+            "id": "BSSSL024",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.SB",
+      "name": {
+        "local": "South Abaco",
+        "en": "South Abaco",
+        "slug": "south-abaco-bs-sb"
+      },
+      "code": {
+        "id": "BS.SB",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSSBL001",
+          "name": {
+            "local": "Sandy Point",
+            "en": "Sandy Point",
+            "slug": "sandy-point-bssbl001"
+          },
+          "code": {
+            "id": "BSSBL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSBL002",
+          "name": {
+            "local": "Sweetings Village",
+            "en": "Sweetings Village",
+            "slug": "sweetings-village-bssbl002"
+          },
+          "code": {
+            "id": "BSSBL002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSBL003",
+          "name": {
+            "local": "Little Bay",
+            "en": "Little Bay",
+            "slug": "little-bay-bssbl003"
+          },
+          "code": {
+            "id": "BSSBL003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSBL004",
+          "name": {
+            "local": "Crossing Rocks",
+            "en": "Crossing Rocks",
+            "slug": "crossing-rocks-bssbl004"
+          },
+          "code": {
+            "id": "BSSBL004",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.SN",
+      "name": {
+        "local": "South Andros",
+        "en": "South Andros",
+        "slug": "south-andros-bs-sn"
+      },
+      "code": {
+        "id": "BS.SN",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSSNL001",
+          "name": {
+            "local": "Smith's Hill",
+            "en": "Smith's Hill",
+            "slug": "smith-s-hill-bssnl001"
+          },
+          "code": {
+            "id": "BSSNL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSNL002",
+          "name": {
+            "local": "Kemps Bay",
+            "en": "Kemps Bay",
+            "slug": "kemps-bay-bssnl002"
+          },
+          "code": {
+            "id": "BSSNL002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSNL003",
+          "name": {
+            "local": "Little Creek",
+            "en": "Little Creek",
+            "slug": "little-creek-bssnl003"
+          },
+          "code": {
+            "id": "BSSNL003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSNL004",
+          "name": {
+            "local": "Black Point",
+            "en": "Black Point",
+            "slug": "black-point-bssnl004"
+          },
+          "code": {
+            "id": "BSSNL004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSNL005",
+          "name": {
+            "local": "High Rock",
+            "en": "High Rock",
+            "slug": "high-rock-bssnl005"
+          },
+          "code": {
+            "id": "BSSNL005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSNL006",
+          "name": {
+            "local": "Congo Town",
+            "en": "Congo Town",
+            "slug": "congo-town-bssnl006"
+          },
+          "code": {
+            "id": "BSSNL006",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSNL007",
+          "name": {
+            "local": "The Bluff",
+            "en": "The Bluff",
+            "slug": "the-bluff-bssnl007"
+          },
+          "code": {
+            "id": "BSSNL007",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSNL008",
+          "name": {
+            "local": "Deep Creek",
+            "en": "Deep Creek",
+            "slug": "deep-creek-bssnl008"
+          },
+          "code": {
+            "id": "BSSNL008",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSNL009",
+          "name": {
+            "local": "Mars Bay",
+            "en": "Mars Bay",
+            "slug": "mars-bay-bssnl009"
+          },
+          "code": {
+            "id": "BSSNL009",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSNL010",
+          "name": {
+            "local": "Pure Gold",
+            "en": "Pure Gold",
+            "slug": "pure-gold-bssnl010"
+          },
+          "code": {
+            "id": "BSSNL010",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.SE",
+      "name": {
+        "local": "South Eleuthera",
+        "en": "South Eleuthera",
+        "slug": "south-eleuthera-bs-se"
+      },
+      "code": {
+        "id": "BS.SE",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSSEL001",
+          "name": {
+            "local": "Rock Sound",
+            "en": "Rock Sound",
+            "slug": "rock-sound-bssel001"
+          },
+          "code": {
+            "id": "BSSEL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSEL002",
+          "name": {
+            "local": "John Millars",
+            "en": "John Millars",
+            "slug": "john-millars-bssel002"
+          },
+          "code": {
+            "id": "BSSEL002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSEL003",
+          "name": {
+            "local": "Freetown",
+            "en": "Freetown",
+            "slug": "freetown-bssel003"
+          },
+          "code": {
+            "id": "BSSEL003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSEL004",
+          "name": {
+            "local": "Kemps Point",
+            "en": "Kemps Point",
+            "slug": "kemps-point-bssel004"
+          },
+          "code": {
+            "id": "BSSEL004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSEL005",
+          "name": {
+            "local": "Wemyss Bight",
+            "en": "Wemyss Bight",
+            "slug": "wemyss-bight-bssel005"
+          },
+          "code": {
+            "id": "BSSEL005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSEL006",
+          "name": {
+            "local": "Millars",
+            "en": "Millars",
+            "slug": "millars-bssel006"
+          },
+          "code": {
+            "id": "BSSEL006",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSEL007",
+          "name": {
+            "local": "Deep Creek",
+            "en": "Deep Creek",
+            "slug": "deep-creek-bssel007"
+          },
+          "code": {
+            "id": "BSSEL007",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSEL008",
+          "name": {
+            "local": "Delancey Town",
+            "en": "Delancey Town",
+            "slug": "delancey-town-bssel008"
+          },
+          "code": {
+            "id": "BSSEL008",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSEL009",
+          "name": {
+            "local": "Wemyss Bight",
+            "en": "Wemyss Bight",
+            "slug": "wemyss-bight-bssel009"
+          },
+          "code": {
+            "id": "BSSEL009",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSEL010",
+          "name": {
+            "local": "Davis Harbor",
+            "en": "Davis Harbor",
+            "slug": "davis-harbor-bssel010"
+          },
+          "code": {
+            "id": "BSSEL010",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSEL011",
+          "name": {
+            "local": "Bannerman Town",
+            "en": "Bannerman Town",
+            "slug": "bannerman-town-bssel011"
+          },
+          "code": {
+            "id": "BSSEL011",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSEL012",
+          "name": {
+            "local": "Tarpum Bay",
+            "en": "Tarpum Bay",
+            "slug": "tarpum-bay-bssel012"
+          },
+          "code": {
+            "id": "BSSEL012",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSEL013",
+          "name": {
+            "local": "Waterford",
+            "en": "Waterford",
+            "slug": "waterford-bssel013"
+          },
+          "code": {
+            "id": "BSSEL013",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSSEL014",
+          "name": {
+            "local": "Green Castle",
+            "en": "Green Castle",
+            "slug": "green-castle-bssel014"
+          },
+          "code": {
+            "id": "BSSEL014",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.SW",
+      "name": {
+        "local": "Spanish Wells",
+        "en": "Spanish Wells",
+        "slug": "spanish-wells-bs-sw"
+      },
+      "code": {
+        "id": "BS.SW",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSSWL001",
+          "name": {
+            "local": "Little Bay Settlement",
+            "en": "Little Bay Settlement",
+            "slug": "little-bay-settlement-bsswl001"
+          },
+          "code": {
+            "id": "BSSWL001",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BS.WB",
+      "name": {
+        "local": "West Grand Bahama",
+        "en": "West Grand Bahama",
+        "slug": "west-grand-bahama-bs-wb"
+      },
+      "code": {
+        "id": "BS.WB",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "BSWBL001",
+          "name": {
+            "local": "Lucaya",
+            "en": "Lucaya",
+            "slug": "lucaya-bswbl001"
+          },
+          "code": {
+            "id": "BSWBL001",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSWBL002",
+          "name": {
+            "local": "Freeport",
+            "en": "Freeport",
+            "slug": "freeport-bswbl002"
+          },
+          "code": {
+            "id": "BSWBL002",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSWBL003",
+          "name": {
+            "local": "Water Cay",
+            "en": "Water Cay",
+            "slug": "water-cay-bswbl003"
+          },
+          "code": {
+            "id": "BSWBL003",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSWBL004",
+          "name": {
+            "local": "Braudies Point",
+            "en": "Braudies Point",
+            "slug": "braudies-point-bswbl004"
+          },
+          "code": {
+            "id": "BSWBL004",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSWBL005",
+          "name": {
+            "local": "Freetown",
+            "en": "Freetown",
+            "slug": "freetown-bswbl005"
+          },
+          "code": {
+            "id": "BSWBL005",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSWBL006",
+          "name": {
+            "local": "Russell Town",
+            "en": "Russell Town",
+            "slug": "russell-town-bswbl006"
+          },
+          "code": {
+            "id": "BSWBL006",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSWBL007",
+          "name": {
+            "local": "Roberts Town",
+            "en": "Roberts Town",
+            "slug": "roberts-town-bswbl007"
+          },
+          "code": {
+            "id": "BSWBL007",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSWBL008",
+          "name": {
+            "local": "Mather Town",
+            "en": "Mather Town",
+            "slug": "mather-town-bswbl008"
+          },
+          "code": {
+            "id": "BSWBL008",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSWBL009",
+          "name": {
+            "local": "Vincent Town",
+            "en": "Vincent Town",
+            "slug": "vincent-town-bswbl009"
+          },
+          "code": {
+            "id": "BSWBL009",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSWBL010",
+          "name": {
+            "local": "Golden Grove",
+            "en": "Golden Grove",
+            "slug": "golden-grove-bswbl010"
+          },
+          "code": {
+            "id": "BSWBL010",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSWBL011",
+          "name": {
+            "local": "Pine Ridge",
+            "en": "Pine Ridge",
+            "slug": "pine-ridge-bswbl011"
+          },
+          "code": {
+            "id": "BSWBL011",
+            "iso": null
+          }
+        },
+        {
+          "id": "BSWBL012",
+          "name": {
+            "local": "Hope Estate",
+            "en": "Hope Estate",
+            "slug": "hope-estate-bswbl012"
+          },
+          "code": {
+            "id": "BSWBL012",
+            "iso": null
+          }
+        }
+      ]
+    }
+  ]
+}

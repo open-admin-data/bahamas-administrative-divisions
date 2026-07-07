@@ -1,0 +1,45 @@
+{
+  "id": "BSLIL041",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Seymour's",
+    "en": "Seymour's",
+    "slug": "seymour-s-bslil041"
+  },
+  "code": {
+    "id": "BSLIL041",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.LI",
+    "level": 1,
+    "name": {
+      "local": "Long Island",
+      "en": "Long Island",
+      "slug": "long-island-bs-li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.656",
+    "lon": "-75.311"
+  },
+  "metadata": {},
+  "source": {}
+}

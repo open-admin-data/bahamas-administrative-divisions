@@ -1,0 +1,45 @@
+{
+  "id": "BSNBL004",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Green Turtle Village",
+    "en": "Green Turtle Village",
+    "slug": "green-turtle-village-bsnbl004"
+  },
+  "code": {
+    "id": "BSNBL004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NB",
+    "level": 1,
+    "name": {
+      "local": "North Abaco",
+      "en": "North Abaco",
+      "slug": "north-abaco-bs-nb"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NB",
+      "level": 1,
+      "name": {
+        "local": "North Abaco",
+        "en": "North Abaco",
+        "slug": "north-abaco-bs-nb"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.817",
+    "lon": "-77.45"
+  },
+  "metadata": {},
+  "source": {}
+}

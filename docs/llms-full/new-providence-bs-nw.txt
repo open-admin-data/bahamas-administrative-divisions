@@ -1,0 +1,164 @@
+# New Providence — Bahamas Administrative Divisions
+
+> 31 localitys
+> Code: BS.NW
+> Coordinates: 25.04, -77.395
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Adelaide
+
+Code: BSNWL001, Coordinates: 25.003, -77.518
+
+
+### Belair Estates
+
+Code: BSNWL022, Coordinates: 25.017, -77.367
+
+
+### Bradford
+
+Code: BSNWL024, Coordinates: 25.067, -77.517
+
+
+### Camperdown
+
+Code: BSNWL014, Coordinates: 25.05, -77.267
+
+
+### Carmichael Village
+
+Code: BSNWL021, Coordinates: 25.017, -77.433
+
+
+### Clifton
+
+Code: BSNWL031, Coordinates: 25.017, -77.567
+
+
+### Coral Harbour
+
+Code: BSNWL012, Coordinates: 24.982, -77.465
+
+
+### Coral Heights
+
+Code: BSNWL020, Coordinates: 24.998, -77.456
+
+
+### Creek Village
+
+Code: BSNWL017, Coordinates: 25.067, -77.3
+
+
+### Cunningham
+
+Code: BSNWL006, Coordinates: 25.083, -77.433
+
+
+### Gambier Village
+
+Code: BSNWL011, Coordinates: 25.067, -77.5
+
+
+### Golden Gates Estates
+
+Code: BSNWL005, Coordinates: 25.017, -77.35
+
+
+### Grantstown (Historical)
+
+Code: BSNWL003, Coordinates: 25.056, -77.338
+
+
+### Highbury Park
+
+Code: BSNWL013, Coordinates: 25.033, -77.317
+
+
+### Killarney
+
+Code: BSNWL004, Coordinates: 25.05, -77.417
+
+
+### Love
+
+Code: BSNWL029, Coordinates: 25.067, -77.5
+
+
+### Macbride
+
+Code: BSNWL025, Coordinates: 25.067, -77.467
+
+
+### Millars
+
+Code: BSNWL023, Coordinates: 24.985, -77.43
+
+
+### Mount Pleasant
+
+Code: BSNWL030, Coordinates: 25.017, -77.517
+
+
+### Nassau Estate
+
+Code: BSNWL018, Coordinates: 25.033, -77.283
+
+
+### Orange Hill
+
+Code: BSNWL010, Coordinates: 25.067, -77.483
+
+
+### Pinewood Gardens Estate
+
+Code: BSNWL009, Coordinates: 25.033, -77
+
+
+### Sandilands Village
+
+Code: BSNWL028, Coordinates: 25.05, -77.317
+
+
+### Sea Breeze Estates
+
+Code: BSNWL015, Coordinates: 25.017, -77.317
+
+
+### Stapleton Gardens
+
+Code: BSNWL019, Coordinates: 25.05, -77.367
+
+
+### Tusculum
+
+Code: BSNWL027, Coordinates: 25.067, -77.483
+
+
+### Waterloo
+
+Code: BSNWL016, Coordinates: 25.033, -77.533
+
+
+### Winton
+
+Code: BSNWL007, Coordinates: 25.05, -77.283
+
+
+### Winton Heights
+
+Code: BSNWL002, Coordinates: 25.048, -77.273
+
+
+### Winton Meadows
+
+Code: BSNWL008, Coordinates: 25.033, -77.267
+
+
+### Yamacraw Beach Estate
+
+Code: BSNWL026, Coordinates: 25.033, -77.283
+
+

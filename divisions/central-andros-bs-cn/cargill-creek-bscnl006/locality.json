@@ -1,0 +1,45 @@
+{
+  "id": "BSCNL006",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Cargill Creek",
+    "en": "Cargill Creek",
+    "slug": "cargill-creek-bscnl006"
+  },
+  "code": {
+    "id": "BSCNL006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.CN",
+    "level": 1,
+    "name": {
+      "local": "Central Andros",
+      "en": "Central Andros",
+      "slug": "central-andros-bs-cn"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.CN",
+      "level": 1,
+      "name": {
+        "local": "Central Andros",
+        "en": "Central Andros",
+        "slug": "central-andros-bs-cn"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.499",
+    "lon": "-77.72"
+  },
+  "metadata": {},
+  "source": {}
+}

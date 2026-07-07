@@ -1,0 +1,45 @@
+{
+  "id": "BSNBL010",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Crown Haven",
+    "en": "Crown Haven",
+    "slug": "crown-haven-bsnbl010"
+  },
+  "code": {
+    "id": "BSNBL010",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NB",
+    "level": 1,
+    "name": {
+      "local": "North Abaco",
+      "en": "North Abaco",
+      "slug": "north-abaco-bs-nb"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NB",
+      "level": 1,
+      "name": {
+        "local": "North Abaco",
+        "en": "North Abaco",
+        "slug": "north-abaco-bs-nb"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.9",
+    "lon": "-77.817"
+  },
+  "metadata": {},
+  "source": {}
+}

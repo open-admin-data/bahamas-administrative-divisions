@@ -1,0 +1,45 @@
+{
+  "id": "BSNEL004",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Current",
+    "en": "Current",
+    "slug": "current-bsnel004"
+  },
+  "code": {
+    "id": "BSNEL004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NE",
+    "level": 1,
+    "name": {
+      "local": "North Eleuthera",
+      "en": "North Eleuthera",
+      "slug": "north-eleuthera-bs-ne"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NE",
+      "level": 1,
+      "name": {
+        "local": "North Eleuthera",
+        "en": "North Eleuthera",
+        "slug": "north-eleuthera-bs-ne"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.408",
+    "lon": "-76.784"
+  },
+  "metadata": {},
+  "source": {}
+}

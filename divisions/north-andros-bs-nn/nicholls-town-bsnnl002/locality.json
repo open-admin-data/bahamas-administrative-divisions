@@ -1,0 +1,45 @@
+{
+  "id": "BSNNL002",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Nicholls Town",
+    "en": "Nicholls Town",
+    "slug": "nicholls-town-bsnnl002"
+  },
+  "code": {
+    "id": "BSNNL002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NN",
+    "level": 1,
+    "name": {
+      "local": "North Andros",
+      "en": "North Andros",
+      "slug": "north-andros-bs-nn"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.128",
+    "lon": "-77.979"
+  },
+  "metadata": {},
+  "source": {}
+}

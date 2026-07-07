@@ -1,0 +1,45 @@
+{
+  "id": "BSCBL003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Treasure Cay",
+    "en": "Treasure Cay",
+    "slug": "treasure-cay-bscbl003"
+  },
+  "code": {
+    "id": "BSCBL003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.CB",
+    "level": 1,
+    "name": {
+      "local": "Central Abaco",
+      "en": "Central Abaco",
+      "slug": "central-abaco-bs-cb"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.CB",
+      "level": 1,
+      "name": {
+        "local": "Central Abaco",
+        "en": "Central Abaco",
+        "slug": "central-abaco-bs-cb"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.677",
+    "lon": "-77.286"
+  },
+  "metadata": {},
+  "source": {}
+}

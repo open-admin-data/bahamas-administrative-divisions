@@ -1,0 +1,33 @@
+{
+  "id": "BS.GC",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Grand Cay",
+    "en": "Grand Cay",
+    "slug": "grand-cay-bs-gc"
+  },
+  "code": {
+    "id": "BS.GC",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.231",
+    "lon": "-78.332"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/grand-cay-bs-gc/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

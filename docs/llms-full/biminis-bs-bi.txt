@@ -1,0 +1,44 @@
+# Biminis — Bahamas Administrative Divisions
+
+> 7 localitys
+> Code: BS.BI
+> Coordinates: 25.744, -79.258
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Alice Town
+
+Code: BSBIL001, Coordinates: 25.717, -79.3
+
+
+### Bailey Town
+
+Code: BSBIL006, Coordinates: 25.744, -79.286
+
+
+### Bluff
+
+Code: BSBIL002, Coordinates: 25.783, -79.317
+
+
+### Gun Cay
+
+Code: BSBIL007, Coordinates: 25.582, -79.3
+
+
+### Louis Town
+
+Code: BSBIL005, Coordinates: 25.553, -79.279
+
+
+### North Cat Cay
+
+Code: BSBIL003, Coordinates: 25.555, -79.284
+
+
+### Port Royal
+
+Code: BSBIL004, Coordinates: 25.701, -79.303
+
+

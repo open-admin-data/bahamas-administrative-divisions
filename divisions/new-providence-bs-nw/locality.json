@@ -1,0 +1,1397 @@
+[
+  {
+    "id": "BSNWL001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Adelaide",
+      "en": "Adelaide",
+      "slug": "adelaide-bsnwl001"
+    },
+    "code": {
+      "id": "BSNWL001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.003",
+      "lon": "-77.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL022",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Belair Estates",
+      "en": "Belair Estates",
+      "slug": "belair-estates-bsnwl022"
+    },
+    "code": {
+      "id": "BSNWL022",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.017",
+      "lon": "-77.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL024",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bradford",
+      "en": "Bradford",
+      "slug": "bradford-bsnwl024"
+    },
+    "code": {
+      "id": "BSNWL024",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.067",
+      "lon": "-77.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Camperdown",
+      "en": "Camperdown",
+      "slug": "camperdown-bsnwl014"
+    },
+    "code": {
+      "id": "BSNWL014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.05",
+      "lon": "-77.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL021",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Carmichael Village",
+      "en": "Carmichael Village",
+      "slug": "carmichael-village-bsnwl021"
+    },
+    "code": {
+      "id": "BSNWL021",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.017",
+      "lon": "-77.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL031",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Clifton",
+      "en": "Clifton",
+      "slug": "clifton-bsnwl031"
+    },
+    "code": {
+      "id": "BSNWL031",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.017",
+      "lon": "-77.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Coral Harbour",
+      "en": "Coral Harbour",
+      "slug": "coral-harbour-bsnwl012"
+    },
+    "code": {
+      "id": "BSNWL012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.982",
+      "lon": "-77.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL020",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Coral Heights",
+      "en": "Coral Heights",
+      "slug": "coral-heights-bsnwl020"
+    },
+    "code": {
+      "id": "BSNWL020",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.998",
+      "lon": "-77.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL017",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Creek Village",
+      "en": "Creek Village",
+      "slug": "creek-village-bsnwl017"
+    },
+    "code": {
+      "id": "BSNWL017",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.067",
+      "lon": "-77.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cunningham",
+      "en": "Cunningham",
+      "slug": "cunningham-bsnwl006"
+    },
+    "code": {
+      "id": "BSNWL006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.083",
+      "lon": "-77.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gambier Village",
+      "en": "Gambier Village",
+      "slug": "gambier-village-bsnwl011"
+    },
+    "code": {
+      "id": "BSNWL011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.067",
+      "lon": "-77.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Golden Gates Estates",
+      "en": "Golden Gates Estates",
+      "slug": "golden-gates-estates-bsnwl005"
+    },
+    "code": {
+      "id": "BSNWL005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.017",
+      "lon": "-77.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Grantstown (Historical)",
+      "en": "Grantstown (Historical)",
+      "slug": "grantstown-historical-bsnwl003"
+    },
+    "code": {
+      "id": "BSNWL003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.056",
+      "lon": "-77.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Highbury Park",
+      "en": "Highbury Park",
+      "slug": "highbury-park-bsnwl013"
+    },
+    "code": {
+      "id": "BSNWL013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.033",
+      "lon": "-77.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Killarney",
+      "en": "Killarney",
+      "slug": "killarney-bsnwl004"
+    },
+    "code": {
+      "id": "BSNWL004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.05",
+      "lon": "-77.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL029",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Love",
+      "en": "Love",
+      "slug": "love-bsnwl029"
+    },
+    "code": {
+      "id": "BSNWL029",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.067",
+      "lon": "-77.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL025",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Macbride",
+      "en": "Macbride",
+      "slug": "macbride-bsnwl025"
+    },
+    "code": {
+      "id": "BSNWL025",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.067",
+      "lon": "-77.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL023",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Millars",
+      "en": "Millars",
+      "slug": "millars-bsnwl023"
+    },
+    "code": {
+      "id": "BSNWL023",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.985",
+      "lon": "-77.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL030",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount Pleasant",
+      "en": "Mount Pleasant",
+      "slug": "mount-pleasant-bsnwl030"
+    },
+    "code": {
+      "id": "BSNWL030",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.017",
+      "lon": "-77.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL018",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nassau Estate",
+      "en": "Nassau Estate",
+      "slug": "nassau-estate-bsnwl018"
+    },
+    "code": {
+      "id": "BSNWL018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.033",
+      "lon": "-77.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Orange Hill",
+      "en": "Orange Hill",
+      "slug": "orange-hill-bsnwl010"
+    },
+    "code": {
+      "id": "BSNWL010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.067",
+      "lon": "-77.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pinewood Gardens Estate",
+      "en": "Pinewood Gardens Estate",
+      "slug": "pinewood-gardens-estate-bsnwl009"
+    },
+    "code": {
+      "id": "BSNWL009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.033",
+      "lon": "-77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL028",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sandilands Village",
+      "en": "Sandilands Village",
+      "slug": "sandilands-village-bsnwl028"
+    },
+    "code": {
+      "id": "BSNWL028",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.05",
+      "lon": "-77.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL015",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sea Breeze Estates",
+      "en": "Sea Breeze Estates",
+      "slug": "sea-breeze-estates-bsnwl015"
+    },
+    "code": {
+      "id": "BSNWL015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.017",
+      "lon": "-77.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL019",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Stapleton Gardens",
+      "en": "Stapleton Gardens",
+      "slug": "stapleton-gardens-bsnwl019"
+    },
+    "code": {
+      "id": "BSNWL019",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.05",
+      "lon": "-77.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL027",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tusculum",
+      "en": "Tusculum",
+      "slug": "tusculum-bsnwl027"
+    },
+    "code": {
+      "id": "BSNWL027",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.067",
+      "lon": "-77.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL016",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Waterloo",
+      "en": "Waterloo",
+      "slug": "waterloo-bsnwl016"
+    },
+    "code": {
+      "id": "BSNWL016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.033",
+      "lon": "-77.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Winton",
+      "en": "Winton",
+      "slug": "winton-bsnwl007"
+    },
+    "code": {
+      "id": "BSNWL007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.05",
+      "lon": "-77.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Winton Heights",
+      "en": "Winton Heights",
+      "slug": "winton-heights-bsnwl002"
+    },
+    "code": {
+      "id": "BSNWL002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.048",
+      "lon": "-77.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Winton Meadows",
+      "en": "Winton Meadows",
+      "slug": "winton-meadows-bsnwl008"
+    },
+    "code": {
+      "id": "BSNWL008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.033",
+      "lon": "-77.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNWL026",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Yamacraw Beach Estate",
+      "en": "Yamacraw Beach Estate",
+      "slug": "yamacraw-beach-estate-bsnwl026"
+    },
+    "code": {
+      "id": "BSNWL026",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NW",
+        "level": 1,
+        "name": {
+          "local": "New Providence",
+          "en": "New Providence",
+          "slug": "new-providence-bs-nw"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.033",
+      "lon": "-77.283"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "BSSNL001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Smith's Hill",
+    "en": "Smith's Hill",
+    "slug": "smith-s-hill-bssnl001"
+  },
+  "code": {
+    "id": "BSSNL001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.SN",
+    "level": 1,
+    "name": {
+      "local": "South Andros",
+      "en": "South Andros",
+      "slug": "south-andros-bs-sn"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.SN",
+      "level": 1,
+      "name": {
+        "local": "South Andros",
+        "en": "South Andros",
+        "slug": "south-andros-bs-sn"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.05",
+    "lon": "-77.533"
+  },
+  "metadata": {},
+  "source": {}
+}

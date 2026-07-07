@@ -1,0 +1,45 @@
+{
+  "id": "BSCEL002",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Rainbow Bay",
+    "en": "Rainbow Bay",
+    "slug": "rainbow-bay-bscel002"
+  },
+  "code": {
+    "id": "BSCEL002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.CE",
+    "level": 1,
+    "name": {
+      "local": "Central Eleuthera",
+      "en": "Central Eleuthera",
+      "slug": "central-eleuthera-bs-ce"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.CE",
+      "level": 1,
+      "name": {
+        "local": "Central Eleuthera",
+        "en": "Central Eleuthera",
+        "slug": "central-eleuthera-bs-ce"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.333",
+    "lon": "-76.428"
+  },
+  "metadata": {},
+  "source": {}
+}

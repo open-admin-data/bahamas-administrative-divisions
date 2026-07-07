@@ -1,0 +1,33 @@
+{
+  "id": "BS.NB",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "North Abaco",
+    "en": "North Abaco",
+    "slug": "north-abaco-bs-nb"
+  },
+  "code": {
+    "id": "BS.NB",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.887",
+    "lon": "-77.612"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/north-abaco-bs-nb/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BSMGL001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Pirates Well",
+    "en": "Pirates Well",
+    "slug": "pirates-well-bsmgl001"
+  },
+  "code": {
+    "id": "BSMGL001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.MG",
+    "level": 1,
+    "name": {
+      "local": "Mayaguana",
+      "en": "Mayaguana",
+      "slug": "mayaguana-bs-mg"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.MG",
+      "level": 1,
+      "name": {
+        "local": "Mayaguana",
+        "en": "Mayaguana",
+        "slug": "mayaguana-bs-mg"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.433",
+    "lon": "-73.067"
+  },
+  "metadata": {},
+  "source": {}
+}

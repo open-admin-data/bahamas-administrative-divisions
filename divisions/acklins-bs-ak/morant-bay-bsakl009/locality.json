@@ -1,0 +1,45 @@
+{
+  "id": "BSAKL009",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Morant Bay",
+    "en": "Morant Bay",
+    "slug": "morant-bay-bsakl009"
+  },
+  "code": {
+    "id": "BSAKL009",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.AK",
+    "level": 1,
+    "name": {
+      "local": "Acklins",
+      "en": "Acklins",
+      "slug": "acklins-bs-ak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.4",
+    "lon": "-74.033"
+  },
+  "metadata": {},
+  "source": {}
+}

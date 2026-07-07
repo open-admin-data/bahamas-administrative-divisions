@@ -1,0 +1,45 @@
+{
+  "id": "BSBIL004",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Port Royal",
+    "en": "Port Royal",
+    "slug": "port-royal-bsbil004"
+  },
+  "code": {
+    "id": "BSBIL004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.BI",
+    "level": 1,
+    "name": {
+      "local": "Biminis",
+      "en": "Biminis",
+      "slug": "biminis-bs-bi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.BI",
+      "level": 1,
+      "name": {
+        "local": "Biminis",
+        "en": "Biminis",
+        "slug": "biminis-bs-bi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.701",
+    "lon": "-79.303"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BSNNL004",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Lowe Sound Settlement",
+    "en": "Lowe Sound Settlement",
+    "slug": "lowe-sound-settlement-bsnnl004"
+  },
+  "code": {
+    "id": "BSNNL004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NN",
+    "level": 1,
+    "name": {
+      "local": "North Andros",
+      "en": "North Andros",
+      "slug": "north-andros-bs-nn"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.149",
+    "lon": "-78.092"
+  },
+  "metadata": {},
+  "source": {}
+}

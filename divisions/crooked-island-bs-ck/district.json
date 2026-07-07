@@ -1,0 +1,33 @@
+{
+  "id": "BS.CK",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Crooked Island",
+    "en": "Crooked Island",
+    "slug": "crooked-island-bs-ck"
+  },
+  "code": {
+    "id": "BS.CK",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.768",
+    "lon": "-74.246"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/crooked-island-bs-ck/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

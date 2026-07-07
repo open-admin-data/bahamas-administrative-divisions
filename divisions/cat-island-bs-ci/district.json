@@ -1,0 +1,33 @@
+{
+  "id": "BS.CI",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cat Island",
+    "en": "Cat Island",
+    "slug": "cat-island-bs-ci"
+  },
+  "code": {
+    "id": "BS.CI",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 33
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.325",
+    "lon": "-75.457"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/cat-island-bs-ci/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

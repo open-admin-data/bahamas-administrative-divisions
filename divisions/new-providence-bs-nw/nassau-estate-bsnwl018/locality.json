@@ -1,0 +1,45 @@
+{
+  "id": "BSNWL018",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Nassau Estate",
+    "en": "Nassau Estate",
+    "slug": "nassau-estate-bsnwl018"
+  },
+  "code": {
+    "id": "BSNWL018",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NW",
+    "level": 1,
+    "name": {
+      "local": "New Providence",
+      "en": "New Providence",
+      "slug": "new-providence-bs-nw"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.033",
+    "lon": "-77.283"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,34 @@
+# Mangrove Cay — Bahamas Administrative Divisions
+
+> 5 localitys
+> Code: BS.MC
+> Coordinates: 24.106, -77.811
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Bastian Point
+
+Code: BSMCL003, Coordinates: 24.235, -77.625
+
+
+### Driggs Hill
+
+Code: BSMCL002, Coordinates: 24.209, -77.599
+
+
+### Lisbon Creek
+
+Code: BSMCL004, Coordinates: 24.214, -77.638
+
+
+### Mangrove Cay
+
+Code: BSMCL005, Coordinates: 24.26, -77.663
+
+
+### Moxey Town
+
+Code: BSMCL001, Coordinates: 24.295, -77.68
+
+

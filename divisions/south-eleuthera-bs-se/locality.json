@@ -1,0 +1,632 @@
+[
+  {
+    "id": "BSSEL011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bannerman Town",
+      "en": "Bannerman Town",
+      "slug": "bannerman-town-bssel011"
+    },
+    "code": {
+      "id": "BSSEL011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SE",
+      "level": 1,
+      "name": {
+        "local": "South Eleuthera",
+        "en": "South Eleuthera",
+        "slug": "south-eleuthera-bs-se"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SE",
+        "level": 1,
+        "name": {
+          "local": "South Eleuthera",
+          "en": "South Eleuthera",
+          "slug": "south-eleuthera-bs-se"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.661",
+      "lon": "-76.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSEL010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Davis Harbor",
+      "en": "Davis Harbor",
+      "slug": "davis-harbor-bssel010"
+    },
+    "code": {
+      "id": "BSSEL010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SE",
+      "level": 1,
+      "name": {
+        "local": "South Eleuthera",
+        "en": "South Eleuthera",
+        "slug": "south-eleuthera-bs-se"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SE",
+        "level": 1,
+        "name": {
+          "local": "South Eleuthera",
+          "en": "South Eleuthera",
+          "slug": "south-eleuthera-bs-se"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.731",
+      "lon": "-76.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSEL007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Deep Creek",
+      "en": "Deep Creek",
+      "slug": "deep-creek-bssel007"
+    },
+    "code": {
+      "id": "BSSEL007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SE",
+      "level": 1,
+      "name": {
+        "local": "South Eleuthera",
+        "en": "South Eleuthera",
+        "slug": "south-eleuthera-bs-se"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SE",
+        "level": 1,
+        "name": {
+          "local": "South Eleuthera",
+          "en": "South Eleuthera",
+          "slug": "south-eleuthera-bs-se"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.773",
+      "lon": "-76.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSEL008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Delancey Town",
+      "en": "Delancey Town",
+      "slug": "delancey-town-bssel008"
+    },
+    "code": {
+      "id": "BSSEL008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SE",
+      "level": 1,
+      "name": {
+        "local": "South Eleuthera",
+        "en": "South Eleuthera",
+        "slug": "south-eleuthera-bs-se"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SE",
+        "level": 1,
+        "name": {
+          "local": "South Eleuthera",
+          "en": "South Eleuthera",
+          "slug": "south-eleuthera-bs-se"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.767",
+      "lon": "-76.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSEL003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Freetown",
+      "en": "Freetown",
+      "slug": "freetown-bssel003"
+    },
+    "code": {
+      "id": "BSSEL003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SE",
+      "level": 1,
+      "name": {
+        "local": "South Eleuthera",
+        "en": "South Eleuthera",
+        "slug": "south-eleuthera-bs-se"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SE",
+        "level": 1,
+        "name": {
+          "local": "South Eleuthera",
+          "en": "South Eleuthera",
+          "slug": "south-eleuthera-bs-se"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.779",
+      "lon": "-76.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSEL014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Green Castle",
+      "en": "Green Castle",
+      "slug": "green-castle-bssel014"
+    },
+    "code": {
+      "id": "BSSEL014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SE",
+      "level": 1,
+      "name": {
+        "local": "South Eleuthera",
+        "en": "South Eleuthera",
+        "slug": "south-eleuthera-bs-se"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SE",
+        "level": 1,
+        "name": {
+          "local": "South Eleuthera",
+          "en": "South Eleuthera",
+          "slug": "south-eleuthera-bs-se"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.798",
+      "lon": "-76.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSEL002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "John Millars",
+      "en": "John Millars",
+      "slug": "john-millars-bssel002"
+    },
+    "code": {
+      "id": "BSSEL002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SE",
+      "level": 1,
+      "name": {
+        "local": "South Eleuthera",
+        "en": "South Eleuthera",
+        "slug": "south-eleuthera-bs-se"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SE",
+        "level": 1,
+        "name": {
+          "local": "South Eleuthera",
+          "en": "South Eleuthera",
+          "slug": "south-eleuthera-bs-se"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.69",
+      "lon": "-76.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSEL004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kemps Point",
+      "en": "Kemps Point",
+      "slug": "kemps-point-bssel004"
+    },
+    "code": {
+      "id": "BSSEL004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SE",
+      "level": 1,
+      "name": {
+        "local": "South Eleuthera",
+        "en": "South Eleuthera",
+        "slug": "south-eleuthera-bs-se"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SE",
+        "level": 1,
+        "name": {
+          "local": "South Eleuthera",
+          "en": "South Eleuthera",
+          "slug": "south-eleuthera-bs-se"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.907",
+      "lon": "-76.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSEL006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Millars",
+      "en": "Millars",
+      "slug": "millars-bssel006"
+    },
+    "code": {
+      "id": "BSSEL006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SE",
+      "level": 1,
+      "name": {
+        "local": "South Eleuthera",
+        "en": "South Eleuthera",
+        "slug": "south-eleuthera-bs-se"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SE",
+        "level": 1,
+        "name": {
+          "local": "South Eleuthera",
+          "en": "South Eleuthera",
+          "slug": "south-eleuthera-bs-se"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.674",
+      "lon": "-76.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSEL001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rock Sound",
+      "en": "Rock Sound",
+      "slug": "rock-sound-bssel001"
+    },
+    "code": {
+      "id": "BSSEL001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SE",
+      "level": 1,
+      "name": {
+        "local": "South Eleuthera",
+        "en": "South Eleuthera",
+        "slug": "south-eleuthera-bs-se"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SE",
+        "level": 1,
+        "name": {
+          "local": "South Eleuthera",
+          "en": "South Eleuthera",
+          "slug": "south-eleuthera-bs-se"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.9",
+      "lon": "-76.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSEL012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tarpum Bay",
+      "en": "Tarpum Bay",
+      "slug": "tarpum-bay-bssel012"
+    },
+    "code": {
+      "id": "BSSEL012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SE",
+      "level": 1,
+      "name": {
+        "local": "South Eleuthera",
+        "en": "South Eleuthera",
+        "slug": "south-eleuthera-bs-se"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SE",
+        "level": 1,
+        "name": {
+          "local": "South Eleuthera",
+          "en": "South Eleuthera",
+          "slug": "south-eleuthera-bs-se"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.97",
+      "lon": "-76.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSEL013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Waterford",
+      "en": "Waterford",
+      "slug": "waterford-bssel013"
+    },
+    "code": {
+      "id": "BSSEL013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SE",
+      "level": 1,
+      "name": {
+        "local": "South Eleuthera",
+        "en": "South Eleuthera",
+        "slug": "south-eleuthera-bs-se"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SE",
+        "level": 1,
+        "name": {
+          "local": "South Eleuthera",
+          "en": "South Eleuthera",
+          "slug": "south-eleuthera-bs-se"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.75",
+      "lon": "-76.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSEL005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Wemyss Bight",
+      "en": "Wemyss Bight",
+      "slug": "wemyss-bight-bssel005"
+    },
+    "code": {
+      "id": "BSSEL005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SE",
+      "level": 1,
+      "name": {
+        "local": "South Eleuthera",
+        "en": "South Eleuthera",
+        "slug": "south-eleuthera-bs-se"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SE",
+        "level": 1,
+        "name": {
+          "local": "South Eleuthera",
+          "en": "South Eleuthera",
+          "slug": "south-eleuthera-bs-se"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.709",
+      "lon": "-76.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSEL009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Wemyss Bight",
+      "en": "Wemyss Bight",
+      "slug": "wemyss-bight-bssel009"
+    },
+    "code": {
+      "id": "BSSEL009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SE",
+      "level": 1,
+      "name": {
+        "local": "South Eleuthera",
+        "en": "South Eleuthera",
+        "slug": "south-eleuthera-bs-se"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SE",
+        "level": 1,
+        "name": {
+          "local": "South Eleuthera",
+          "en": "South Eleuthera",
+          "slug": "south-eleuthera-bs-se"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.75",
+      "lon": "-76.25"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

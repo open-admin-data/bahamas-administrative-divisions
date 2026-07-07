@@ -1,0 +1,45 @@
+{
+  "id": "BSHBL001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Spanish Wells",
+    "en": "Spanish Wells",
+    "slug": "spanish-wells-bshbl001"
+  },
+  "code": {
+    "id": "BSHBL001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.HB",
+    "level": 1,
+    "name": {
+      "local": "Harbour Island",
+      "en": "Harbour Island",
+      "slug": "harbour-island-bs-hb"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.HB",
+      "level": 1,
+      "name": {
+        "local": "Harbour Island",
+        "en": "Harbour Island",
+        "slug": "harbour-island-bs-hb"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.547",
+    "lon": "-76.764"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,29 @@
+# South Abaco — Bahamas Administrative Divisions
+
+> 4 localitys
+> Code: BS.SB
+> Coordinates: 26.034, -77.258
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Crossing Rocks
+
+Code: BSSBL004, Coordinates: 26.133, -77.183
+
+
+### Little Bay
+
+Code: BSSBL003, Coordinates: 25.833, -77.167
+
+
+### Sandy Point
+
+Code: BSSBL001, Coordinates: 26.021, -77.39
+
+
+### Sweetings Village
+
+Code: BSSBL002, Coordinates: 26.35, -77.033
+
+

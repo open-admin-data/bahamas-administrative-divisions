@@ -1,0 +1,45 @@
+{
+  "id": "BSCKL009",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "French Wells",
+    "en": "French Wells",
+    "slug": "french-wells-bsckl009"
+  },
+  "code": {
+    "id": "BSCKL009",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.CK",
+    "level": 1,
+    "name": {
+      "local": "Crooked Island",
+      "en": "Crooked Island",
+      "slug": "crooked-island-bs-ck"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.CK",
+      "level": 1,
+      "name": {
+        "local": "Crooked Island",
+        "en": "Crooked Island",
+        "slug": "crooked-island-bs-ck"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.683",
+    "lon": "-74.3"
+  },
+  "metadata": {},
+  "source": {}
+}

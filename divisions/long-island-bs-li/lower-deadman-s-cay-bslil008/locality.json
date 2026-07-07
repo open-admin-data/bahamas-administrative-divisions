@@ -1,0 +1,45 @@
+{
+  "id": "BSLIL008",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Lower Deadman's Cay",
+    "en": "Lower Deadman's Cay",
+    "slug": "lower-deadman-s-cay-bslil008"
+  },
+  "code": {
+    "id": "BSLIL008",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.LI",
+    "level": 1,
+    "name": {
+      "local": "Long Island",
+      "en": "Long Island",
+      "slug": "long-island-bs-li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.166",
+    "lon": "-75.096"
+  },
+  "metadata": {},
+  "source": {}
+}

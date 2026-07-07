@@ -1,0 +1,45 @@
+{
+  "id": "BSINL001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Matthew Town",
+    "en": "Matthew Town",
+    "slug": "matthew-town-bsinl001"
+  },
+  "code": {
+    "id": "BSINL001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.IN",
+    "level": 1,
+    "name": {
+      "local": "Inagua",
+      "en": "Inagua",
+      "slug": "inagua-bs-in"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.IN",
+      "level": 1,
+      "name": {
+        "local": "Inagua",
+        "en": "Inagua",
+        "slug": "inagua-bs-in"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.95",
+    "lon": "-73.667"
+  },
+  "metadata": {},
+  "source": {}
+}

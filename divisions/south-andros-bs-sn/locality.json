@@ -1,0 +1,452 @@
+[
+  {
+    "id": "BSSNL004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Black Point",
+      "en": "Black Point",
+      "slug": "black-point-bssnl004"
+    },
+    "code": {
+      "id": "BSSNL004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SN",
+      "level": 1,
+      "name": {
+        "local": "South Andros",
+        "en": "South Andros",
+        "slug": "south-andros-bs-sn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SN",
+        "level": 1,
+        "name": {
+          "local": "South Andros",
+          "en": "South Andros",
+          "slug": "south-andros-bs-sn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.983",
+      "lon": "-77.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSNL006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Congo Town",
+      "en": "Congo Town",
+      "slug": "congo-town-bssnl006"
+    },
+    "code": {
+      "id": "BSSNL006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SN",
+      "level": 1,
+      "name": {
+        "local": "South Andros",
+        "en": "South Andros",
+        "slug": "south-andros-bs-sn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SN",
+        "level": 1,
+        "name": {
+          "local": "South Andros",
+          "en": "South Andros",
+          "slug": "south-andros-bs-sn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.166",
+      "lon": "-77.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSNL008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Deep Creek",
+      "en": "Deep Creek",
+      "slug": "deep-creek-bssnl008"
+    },
+    "code": {
+      "id": "BSSNL008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SN",
+      "level": 1,
+      "name": {
+        "local": "South Andros",
+        "en": "South Andros",
+        "slug": "south-andros-bs-sn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SN",
+        "level": 1,
+        "name": {
+          "local": "South Andros",
+          "en": "South Andros",
+          "slug": "south-andros-bs-sn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24",
+      "lon": "-77.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSNL005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "High Rock",
+      "en": "High Rock",
+      "slug": "high-rock-bssnl005"
+    },
+    "code": {
+      "id": "BSSNL005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SN",
+      "level": 1,
+      "name": {
+        "local": "South Andros",
+        "en": "South Andros",
+        "slug": "south-andros-bs-sn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SN",
+        "level": 1,
+        "name": {
+          "local": "South Andros",
+          "en": "South Andros",
+          "slug": "south-andros-bs-sn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.167",
+      "lon": "-77.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSNL002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kemps Bay",
+      "en": "Kemps Bay",
+      "slug": "kemps-bay-bssnl002"
+    },
+    "code": {
+      "id": "BSSNL002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SN",
+      "level": 1,
+      "name": {
+        "local": "South Andros",
+        "en": "South Andros",
+        "slug": "south-andros-bs-sn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SN",
+        "level": 1,
+        "name": {
+          "local": "South Andros",
+          "en": "South Andros",
+          "slug": "south-andros-bs-sn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.027",
+      "lon": "-77.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSNL003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Little Creek",
+      "en": "Little Creek",
+      "slug": "little-creek-bssnl003"
+    },
+    "code": {
+      "id": "BSSNL003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SN",
+      "level": 1,
+      "name": {
+        "local": "South Andros",
+        "en": "South Andros",
+        "slug": "south-andros-bs-sn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SN",
+        "level": 1,
+        "name": {
+          "local": "South Andros",
+          "en": "South Andros",
+          "slug": "south-andros-bs-sn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.947",
+      "lon": "-77.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSNL009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mars Bay",
+      "en": "Mars Bay",
+      "slug": "mars-bay-bssnl009"
+    },
+    "code": {
+      "id": "BSSNL009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SN",
+      "level": 1,
+      "name": {
+        "local": "South Andros",
+        "en": "South Andros",
+        "slug": "south-andros-bs-sn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SN",
+        "level": 1,
+        "name": {
+          "local": "South Andros",
+          "en": "South Andros",
+          "slug": "south-andros-bs-sn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.867",
+      "lon": "-77.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSNL010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pure Gold",
+      "en": "Pure Gold",
+      "slug": "pure-gold-bssnl010"
+    },
+    "code": {
+      "id": "BSSNL010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SN",
+      "level": 1,
+      "name": {
+        "local": "South Andros",
+        "en": "South Andros",
+        "slug": "south-andros-bs-sn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SN",
+        "level": 1,
+        "name": {
+          "local": "South Andros",
+          "en": "South Andros",
+          "slug": "south-andros-bs-sn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.967",
+      "lon": "-77.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSNL001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Smith's Hill",
+      "en": "Smith's Hill",
+      "slug": "smith-s-hill-bssnl001"
+    },
+    "code": {
+      "id": "BSSNL001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SN",
+      "level": 1,
+      "name": {
+        "local": "South Andros",
+        "en": "South Andros",
+        "slug": "south-andros-bs-sn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SN",
+        "level": 1,
+        "name": {
+          "local": "South Andros",
+          "en": "South Andros",
+          "slug": "south-andros-bs-sn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.05",
+      "lon": "-77.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSNL007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "The Bluff",
+      "en": "The Bluff",
+      "slug": "the-bluff-bssnl007"
+    },
+    "code": {
+      "id": "BSSNL007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SN",
+      "level": 1,
+      "name": {
+        "local": "South Andros",
+        "en": "South Andros",
+        "slug": "south-andros-bs-sn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SN",
+        "level": 1,
+        "name": {
+          "local": "South Andros",
+          "en": "South Andros",
+          "slug": "south-andros-bs-sn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.117",
+      "lon": "-77.55"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

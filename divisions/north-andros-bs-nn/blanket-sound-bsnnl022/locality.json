@@ -1,0 +1,45 @@
+{
+  "id": "BSNNL022",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Blanket Sound",
+    "en": "Blanket Sound",
+    "slug": "blanket-sound-bsnnl022"
+  },
+  "code": {
+    "id": "BSNNL022",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NN",
+    "level": 1,
+    "name": {
+      "local": "North Andros",
+      "en": "North Andros",
+      "slug": "north-andros-bs-nn"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.85",
+    "lon": "-77.9"
+  },
+  "metadata": {},
+  "source": {}
+}

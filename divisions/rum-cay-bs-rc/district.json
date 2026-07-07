@@ -1,0 +1,33 @@
+{
+  "id": "BS.RC",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rum Cay",
+    "en": "Rum Cay",
+    "slug": "rum-cay-bs-rc"
+  },
+  "code": {
+    "id": "BS.RC",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.687",
+    "lon": "-74.846"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/rum-cay-bs-rc/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

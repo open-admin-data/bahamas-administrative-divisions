@@ -1,0 +1,45 @@
+{
+  "id": "BSLIL035",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Cartwright",
+    "en": "Cartwright",
+    "slug": "cartwright-bslil035"
+  },
+  "code": {
+    "id": "BSLIL035",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.LI",
+    "level": 1,
+    "name": {
+      "local": "Long Island",
+      "en": "Long Island",
+      "slug": "long-island-bs-li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.133",
+    "lon": "-75.067"
+  },
+  "metadata": {},
+  "source": {}
+}

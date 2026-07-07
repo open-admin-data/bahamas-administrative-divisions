@@ -1,0 +1,33 @@
+{
+  "id": "BS.MI",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Moore's Island",
+    "en": "Moore's Island",
+    "slug": "moore-s-island-bs-mi"
+  },
+  "code": {
+    "id": "BS.MI",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.306",
+    "lon": "-77.558"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/moore-s-island-bs-mi/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

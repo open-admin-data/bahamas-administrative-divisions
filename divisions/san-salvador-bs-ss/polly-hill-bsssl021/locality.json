@@ -1,0 +1,45 @@
+{
+  "id": "BSSSL021",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Polly Hill",
+    "en": "Polly Hill",
+    "slug": "polly-hill-bsssl021"
+  },
+  "code": {
+    "id": "BSSSL021",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.SS",
+    "level": 1,
+    "name": {
+      "local": "San Salvador",
+      "en": "San Salvador",
+      "slug": "san-salvador-bs-ss"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.SS",
+      "level": 1,
+      "name": {
+        "local": "San Salvador",
+        "en": "San Salvador",
+        "slug": "san-salvador-bs-ss"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.083",
+    "lon": "-74.433"
+  },
+  "metadata": {},
+  "source": {}
+}

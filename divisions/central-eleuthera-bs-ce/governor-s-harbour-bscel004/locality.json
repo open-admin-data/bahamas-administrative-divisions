@@ -1,0 +1,45 @@
+{
+  "id": "BSCEL004",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Governor's Harbour",
+    "en": "Governor's Harbour",
+    "slug": "governor-s-harbour-bscel004"
+  },
+  "code": {
+    "id": "BSCEL004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.CE",
+    "level": 1,
+    "name": {
+      "local": "Central Eleuthera",
+      "en": "Central Eleuthera",
+      "slug": "central-eleuthera-bs-ce"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.CE",
+      "level": 1,
+      "name": {
+        "local": "Central Eleuthera",
+        "en": "Central Eleuthera",
+        "slug": "central-eleuthera-bs-ce"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.167",
+    "lon": "-76.233"
+  },
+  "metadata": {},
+  "source": {}
+}

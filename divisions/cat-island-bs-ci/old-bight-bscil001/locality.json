@@ -1,0 +1,45 @@
+{
+  "id": "BSCIL001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Old Bight",
+    "en": "Old Bight",
+    "slug": "old-bight-bscil001"
+  },
+  "code": {
+    "id": "BSCIL001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.CI",
+    "level": 1,
+    "name": {
+      "local": "Cat Island",
+      "en": "Cat Island",
+      "slug": "cat-island-bs-ci"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.CI",
+      "level": 1,
+      "name": {
+        "local": "Cat Island",
+        "en": "Cat Island",
+        "slug": "cat-island-bs-ci"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.23",
+    "lon": "-75.38"
+  },
+  "metadata": {},
+  "source": {}
+}

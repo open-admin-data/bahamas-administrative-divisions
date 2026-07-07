@@ -1,0 +1,45 @@
+{
+  "id": "BSNWL002",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Winton Heights",
+    "en": "Winton Heights",
+    "slug": "winton-heights-bsnwl002"
+  },
+  "code": {
+    "id": "BSNWL002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NW",
+    "level": 1,
+    "name": {
+      "local": "New Providence",
+      "en": "New Providence",
+      "slug": "new-providence-bs-nw"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.048",
+    "lon": "-77.273"
+  },
+  "metadata": {},
+  "source": {}
+}

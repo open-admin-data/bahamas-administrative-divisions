@@ -1,0 +1,33 @@
+{
+  "id": "BS.HB",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Harbour Island",
+    "en": "Harbour Island",
+    "slug": "harbour-island-bs-hb"
+  },
+  "code": {
+    "id": "BS.HB",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.546",
+    "lon": "-76.767"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/harbour-island-bs-hb/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

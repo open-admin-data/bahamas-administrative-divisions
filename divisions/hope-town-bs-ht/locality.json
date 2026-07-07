@@ -1,0 +1,272 @@
+[
+  {
+    "id": "BSHTL006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dundas Town",
+      "en": "Dundas Town",
+      "slug": "dundas-town-bshtl006"
+    },
+    "code": {
+      "id": "BSHTL006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.HT",
+      "level": 1,
+      "name": {
+        "local": "Hope Town",
+        "en": "Hope Town",
+        "slug": "hope-town-bs-ht"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.HT",
+        "level": 1,
+        "name": {
+          "local": "Hope Town",
+          "en": "Hope Town",
+          "slug": "hope-town-bs-ht"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.546",
+      "lon": "-77.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSHTL003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Great Guana Cay",
+      "en": "Great Guana Cay",
+      "slug": "great-guana-cay-bshtl003"
+    },
+    "code": {
+      "id": "BSHTL003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.HT",
+      "level": 1,
+      "name": {
+        "local": "Hope Town",
+        "en": "Hope Town",
+        "slug": "hope-town-bs-ht"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.HT",
+        "level": 1,
+        "name": {
+          "local": "Hope Town",
+          "en": "Hope Town",
+          "slug": "hope-town-bs-ht"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.667",
+      "lon": "-77.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSHTL002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hope Town",
+      "en": "Hope Town",
+      "slug": "hope-town-bshtl002"
+    },
+    "code": {
+      "id": "BSHTL002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.HT",
+      "level": 1,
+      "name": {
+        "local": "Hope Town",
+        "en": "Hope Town",
+        "slug": "hope-town-bs-ht"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.HT",
+        "level": 1,
+        "name": {
+          "local": "Hope Town",
+          "en": "Hope Town",
+          "slug": "hope-town-bs-ht"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.543",
+      "lon": "-76.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSHTL004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Man of War Cay Settlement",
+      "en": "Man of War Cay Settlement",
+      "slug": "man-of-war-cay-settlement-bshtl004"
+    },
+    "code": {
+      "id": "BSHTL004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.HT",
+      "level": 1,
+      "name": {
+        "local": "Hope Town",
+        "en": "Hope Town",
+        "slug": "hope-town-bs-ht"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.HT",
+        "level": 1,
+        "name": {
+          "local": "Hope Town",
+          "en": "Hope Town",
+          "slug": "hope-town-bs-ht"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.595",
+      "lon": "-77.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSHTL001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Marsh Harbour",
+      "en": "Marsh Harbour",
+      "slug": "marsh-harbour-bshtl001"
+    },
+    "code": {
+      "id": "BSHTL001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.HT",
+      "level": 1,
+      "name": {
+        "local": "Hope Town",
+        "en": "Hope Town",
+        "slug": "hope-town-bs-ht"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.HT",
+        "level": 1,
+        "name": {
+          "local": "Hope Town",
+          "en": "Hope Town",
+          "slug": "hope-town-bs-ht"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.541",
+      "lon": "-77.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSHTL005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Murphy Town",
+      "en": "Murphy Town",
+      "slug": "murphy-town-bshtl005"
+    },
+    "code": {
+      "id": "BSHTL005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.HT",
+      "level": 1,
+      "name": {
+        "local": "Hope Town",
+        "en": "Hope Town",
+        "slug": "hope-town-bs-ht"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.HT",
+        "level": 1,
+        "name": {
+          "local": "Hope Town",
+          "en": "Hope Town",
+          "slug": "hope-town-bs-ht"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.553",
+      "lon": "-77.096"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

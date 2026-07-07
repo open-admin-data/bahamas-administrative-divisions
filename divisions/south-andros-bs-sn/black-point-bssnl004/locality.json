@@ -1,0 +1,45 @@
+{
+  "id": "BSSNL004",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Black Point",
+    "en": "Black Point",
+    "slug": "black-point-bssnl004"
+  },
+  "code": {
+    "id": "BSSNL004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.SN",
+    "level": 1,
+    "name": {
+      "local": "South Andros",
+      "en": "South Andros",
+      "slug": "south-andros-bs-sn"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.SN",
+      "level": 1,
+      "name": {
+        "local": "South Andros",
+        "en": "South Andros",
+        "slug": "south-andros-bs-sn"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.983",
+    "lon": "-77.55"
+  },
+  "metadata": {},
+  "source": {}
+}

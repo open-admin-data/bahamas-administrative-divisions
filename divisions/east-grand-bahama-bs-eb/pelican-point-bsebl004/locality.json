@@ -1,0 +1,45 @@
+{
+  "id": "BSEBL004",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Pelican Point",
+    "en": "Pelican Point",
+    "slug": "pelican-point-bsebl004"
+  },
+  "code": {
+    "id": "BSEBL004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.EB",
+    "level": 1,
+    "name": {
+      "local": "East Grand Bahama",
+      "en": "East Grand Bahama",
+      "slug": "east-grand-bahama-bs-eb"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.EB",
+      "level": 1,
+      "name": {
+        "local": "East Grand Bahama",
+        "en": "East Grand Bahama",
+        "slug": "east-grand-bahama-bs-eb"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.65",
+    "lon": "-78.083"
+  },
+  "metadata": {},
+  "source": {}
+}

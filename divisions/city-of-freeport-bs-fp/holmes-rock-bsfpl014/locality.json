@@ -1,0 +1,45 @@
+{
+  "id": "BSFPL014",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Holmes Rock",
+    "en": "Holmes Rock",
+    "slug": "holmes-rock-bsfpl014"
+  },
+  "code": {
+    "id": "BSFPL014",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.FP",
+    "level": 1,
+    "name": {
+      "local": "City of Freeport",
+      "en": "City of Freeport",
+      "slug": "city-of-freeport-bs-fp"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.FP",
+      "level": 1,
+      "name": {
+        "local": "City of Freeport",
+        "en": "City of Freeport",
+        "slug": "city-of-freeport-bs-fp"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.55",
+    "lon": "-78.833"
+  },
+  "metadata": {},
+  "source": {}
+}

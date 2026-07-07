@@ -1,0 +1,45 @@
+{
+  "id": "BSEBL002",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "High Rock",
+    "en": "High Rock",
+    "slug": "high-rock-bsebl002"
+  },
+  "code": {
+    "id": "BSEBL002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.EB",
+    "level": 1,
+    "name": {
+      "local": "East Grand Bahama",
+      "en": "East Grand Bahama",
+      "slug": "east-grand-bahama-bs-eb"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.EB",
+      "level": 1,
+      "name": {
+        "local": "East Grand Bahama",
+        "en": "East Grand Bahama",
+        "slug": "east-grand-bahama-bs-eb"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.61",
+    "lon": "-78.279"
+  },
+  "metadata": {},
+  "source": {}
+}

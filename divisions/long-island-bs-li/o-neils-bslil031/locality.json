@@ -1,0 +1,45 @@
+{
+  "id": "BSLIL031",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "O'Neils",
+    "en": "O'Neils",
+    "slug": "o-neils-bslil031"
+  },
+  "code": {
+    "id": "BSLIL031",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.LI",
+    "level": 1,
+    "name": {
+      "local": "Long Island",
+      "en": "Long Island",
+      "slug": "long-island-bs-li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.5",
+    "lon": "-75.217"
+  },
+  "metadata": {},
+  "source": {}
+}

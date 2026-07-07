@@ -1,0 +1,45 @@
+{
+  "id": "BSBIL006",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Bailey Town",
+    "en": "Bailey Town",
+    "slug": "bailey-town-bsbil006"
+  },
+  "code": {
+    "id": "BSBIL006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.BI",
+    "level": 1,
+    "name": {
+      "local": "Biminis",
+      "en": "Biminis",
+      "slug": "biminis-bs-bi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.BI",
+      "level": 1,
+      "name": {
+        "local": "Biminis",
+        "en": "Biminis",
+        "slug": "biminis-bs-bi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.744",
+    "lon": "-79.286"
+  },
+  "metadata": {},
+  "source": {}
+}

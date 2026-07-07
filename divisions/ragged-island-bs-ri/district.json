@@ -1,0 +1,33 @@
+{
+  "id": "BS.RI",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ragged Island",
+    "en": "Ragged Island",
+    "slug": "ragged-island-bs-ri"
+  },
+  "code": {
+    "id": "BS.RI",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.188",
+    "lon": "-75.729"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/ragged-island-bs-ri/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

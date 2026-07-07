@@ -1,0 +1,45 @@
+{
+  "id": "BSFPL001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "West End",
+    "en": "West End",
+    "slug": "west-end-bsfpl001"
+  },
+  "code": {
+    "id": "BSFPL001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.FP",
+    "level": 1,
+    "name": {
+      "local": "City of Freeport",
+      "en": "City of Freeport",
+      "slug": "city-of-freeport-bs-fp"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.FP",
+      "level": 1,
+      "name": {
+        "local": "City of Freeport",
+        "en": "City of Freeport",
+        "slug": "city-of-freeport-bs-fp"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.671",
+    "lon": "-78.975"
+  },
+  "metadata": {},
+  "source": {}
+}

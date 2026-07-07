@@ -1,0 +1,33 @@
+{
+  "id": "BS.MG",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mayaguana",
+    "en": "Mayaguana",
+    "slug": "mayaguana-bs-mg"
+  },
+  "code": {
+    "id": "BS.MG",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.394",
+    "lon": "-73.06"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/mayaguana-bs-mg/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

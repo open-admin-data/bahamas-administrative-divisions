@@ -1,0 +1,45 @@
+{
+  "id": "BSLIL044",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "McKenzie",
+    "en": "McKenzie",
+    "slug": "mckenzie-bslil044"
+  },
+  "code": {
+    "id": "BSLIL044",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.LI",
+    "level": 1,
+    "name": {
+      "local": "Long Island",
+      "en": "Long Island",
+      "slug": "long-island-bs-li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.017",
+    "lon": "-74.883"
+  },
+  "metadata": {},
+  "source": {}
+}

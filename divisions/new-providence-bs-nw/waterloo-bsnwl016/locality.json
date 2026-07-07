@@ -1,0 +1,45 @@
+{
+  "id": "BSNWL016",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Waterloo",
+    "en": "Waterloo",
+    "slug": "waterloo-bsnwl016"
+  },
+  "code": {
+    "id": "BSNWL016",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NW",
+    "level": 1,
+    "name": {
+      "local": "New Providence",
+      "en": "New Providence",
+      "slug": "new-providence-bs-nw"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.033",
+    "lon": "-77.533"
+  },
+  "metadata": {},
+  "source": {}
+}

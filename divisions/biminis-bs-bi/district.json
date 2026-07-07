@@ -1,0 +1,33 @@
+{
+  "id": "BS.BI",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Biminis",
+    "en": "Biminis",
+    "slug": "biminis-bs-bi"
+  },
+  "code": {
+    "id": "BS.BI",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.744",
+    "lon": "-79.258"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/biminis-bs-bi/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

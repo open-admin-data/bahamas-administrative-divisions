@@ -1,0 +1,45 @@
+{
+  "id": "BSBIL001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Alice Town",
+    "en": "Alice Town",
+    "slug": "alice-town-bsbil001"
+  },
+  "code": {
+    "id": "BSBIL001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.BI",
+    "level": 1,
+    "name": {
+      "local": "Biminis",
+      "en": "Biminis",
+      "slug": "biminis-bs-bi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.BI",
+      "level": 1,
+      "name": {
+        "local": "Biminis",
+        "en": "Biminis",
+        "slug": "biminis-bs-bi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.717",
+    "lon": "-79.3"
+  },
+  "metadata": {},
+  "source": {}
+}

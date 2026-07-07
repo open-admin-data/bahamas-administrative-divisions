@@ -1,0 +1,45 @@
+{
+  "id": "BSNWL025",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Macbride",
+    "en": "Macbride",
+    "slug": "macbride-bsnwl025"
+  },
+  "code": {
+    "id": "BSNWL025",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NW",
+    "level": 1,
+    "name": {
+      "local": "New Providence",
+      "en": "New Providence",
+      "slug": "new-providence-bs-nw"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.067",
+    "lon": "-77.467"
+  },
+  "metadata": {},
+  "source": {}
+}

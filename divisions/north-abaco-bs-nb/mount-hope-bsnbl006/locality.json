@@ -1,0 +1,45 @@
+{
+  "id": "BSNBL006",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Mount Hope",
+    "en": "Mount Hope",
+    "slug": "mount-hope-bsnbl006"
+  },
+  "code": {
+    "id": "BSNBL006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NB",
+    "level": 1,
+    "name": {
+      "local": "North Abaco",
+      "en": "North Abaco",
+      "slug": "north-abaco-bs-nb"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NB",
+      "level": 1,
+      "name": {
+        "local": "North Abaco",
+        "en": "North Abaco",
+        "slug": "north-abaco-bs-nb"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.9",
+    "lon": "-77.767"
+  },
+  "metadata": {},
+  "source": {}
+}

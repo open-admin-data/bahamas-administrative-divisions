@@ -1,0 +1,45 @@
+{
+  "id": "BSEBL005",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Bevans Town",
+    "en": "Bevans Town",
+    "slug": "bevans-town-bsebl005"
+  },
+  "code": {
+    "id": "BSEBL005",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.EB",
+    "level": 1,
+    "name": {
+      "local": "East Grand Bahama",
+      "en": "East Grand Bahama",
+      "slug": "east-grand-bahama-bs-eb"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.EB",
+      "level": 1,
+      "name": {
+        "local": "East Grand Bahama",
+        "en": "East Grand Bahama",
+        "slug": "east-grand-bahama-bs-eb"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.6",
+    "lon": "-78.317"
+  },
+  "metadata": {},
+  "source": {}
+}

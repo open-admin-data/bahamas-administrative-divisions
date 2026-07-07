@@ -1,0 +1,542 @@
+[
+  {
+    "id": "BSWBL004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Braudies Point",
+      "en": "Braudies Point",
+      "slug": "braudies-point-bswbl004"
+    },
+    "code": {
+      "id": "BSWBL004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.WB",
+      "level": 1,
+      "name": {
+        "local": "West Grand Bahama",
+        "en": "West Grand Bahama",
+        "slug": "west-grand-bahama-bs-wb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.WB",
+        "level": 1,
+        "name": {
+          "local": "West Grand Bahama",
+          "en": "West Grand Bahama",
+          "slug": "west-grand-bahama-bs-wb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.533",
+      "lon": "-78.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSWBL002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Freeport",
+      "en": "Freeport",
+      "slug": "freeport-bswbl002"
+    },
+    "code": {
+      "id": "BSWBL002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.WB",
+      "level": 1,
+      "name": {
+        "local": "West Grand Bahama",
+        "en": "West Grand Bahama",
+        "slug": "west-grand-bahama-bs-wb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.WB",
+        "level": 1,
+        "name": {
+          "local": "West Grand Bahama",
+          "en": "West Grand Bahama",
+          "slug": "west-grand-bahama-bs-wb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.533",
+      "lon": "-78.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSWBL005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Freetown",
+      "en": "Freetown",
+      "slug": "freetown-bswbl005"
+    },
+    "code": {
+      "id": "BSWBL005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.WB",
+      "level": 1,
+      "name": {
+        "local": "West Grand Bahama",
+        "en": "West Grand Bahama",
+        "slug": "west-grand-bahama-bs-wb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.WB",
+        "level": 1,
+        "name": {
+          "local": "West Grand Bahama",
+          "en": "West Grand Bahama",
+          "slug": "west-grand-bahama-bs-wb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.567",
+      "lon": "-78.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSWBL010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Golden Grove",
+      "en": "Golden Grove",
+      "slug": "golden-grove-bswbl010"
+    },
+    "code": {
+      "id": "BSWBL010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.WB",
+      "level": 1,
+      "name": {
+        "local": "West Grand Bahama",
+        "en": "West Grand Bahama",
+        "slug": "west-grand-bahama-bs-wb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.WB",
+        "level": 1,
+        "name": {
+          "local": "West Grand Bahama",
+          "en": "West Grand Bahama",
+          "slug": "west-grand-bahama-bs-wb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.6",
+      "lon": "-78.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSWBL012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hope Estate",
+      "en": "Hope Estate",
+      "slug": "hope-estate-bswbl012"
+    },
+    "code": {
+      "id": "BSWBL012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.WB",
+      "level": 1,
+      "name": {
+        "local": "West Grand Bahama",
+        "en": "West Grand Bahama",
+        "slug": "west-grand-bahama-bs-wb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.WB",
+        "level": 1,
+        "name": {
+          "local": "West Grand Bahama",
+          "en": "West Grand Bahama",
+          "slug": "west-grand-bahama-bs-wb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.667",
+      "lon": "-78.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSWBL001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lucaya",
+      "en": "Lucaya",
+      "slug": "lucaya-bswbl001"
+    },
+    "code": {
+      "id": "BSWBL001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.WB",
+      "level": 1,
+      "name": {
+        "local": "West Grand Bahama",
+        "en": "West Grand Bahama",
+        "slug": "west-grand-bahama-bs-wb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.WB",
+        "level": 1,
+        "name": {
+          "local": "West Grand Bahama",
+          "en": "West Grand Bahama",
+          "slug": "west-grand-bahama-bs-wb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.533",
+      "lon": "-78.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSWBL008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mather Town",
+      "en": "Mather Town",
+      "slug": "mather-town-bswbl008"
+    },
+    "code": {
+      "id": "BSWBL008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.WB",
+      "level": 1,
+      "name": {
+        "local": "West Grand Bahama",
+        "en": "West Grand Bahama",
+        "slug": "west-grand-bahama-bs-wb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.WB",
+        "level": 1,
+        "name": {
+          "local": "West Grand Bahama",
+          "en": "West Grand Bahama",
+          "slug": "west-grand-bahama-bs-wb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.55",
+      "lon": "-78.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSWBL011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pine Ridge",
+      "en": "Pine Ridge",
+      "slug": "pine-ridge-bswbl011"
+    },
+    "code": {
+      "id": "BSWBL011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.WB",
+      "level": 1,
+      "name": {
+        "local": "West Grand Bahama",
+        "en": "West Grand Bahama",
+        "slug": "west-grand-bahama-bs-wb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.WB",
+        "level": 1,
+        "name": {
+          "local": "West Grand Bahama",
+          "en": "West Grand Bahama",
+          "slug": "west-grand-bahama-bs-wb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.55",
+      "lon": "-78.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSWBL007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Roberts Town",
+      "en": "Roberts Town",
+      "slug": "roberts-town-bswbl007"
+    },
+    "code": {
+      "id": "BSWBL007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.WB",
+      "level": 1,
+      "name": {
+        "local": "West Grand Bahama",
+        "en": "West Grand Bahama",
+        "slug": "west-grand-bahama-bs-wb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.WB",
+        "level": 1,
+        "name": {
+          "local": "West Grand Bahama",
+          "en": "West Grand Bahama",
+          "slug": "west-grand-bahama-bs-wb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.667",
+      "lon": "-78.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSWBL006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Russell Town",
+      "en": "Russell Town",
+      "slug": "russell-town-bswbl006"
+    },
+    "code": {
+      "id": "BSWBL006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.WB",
+      "level": 1,
+      "name": {
+        "local": "West Grand Bahama",
+        "en": "West Grand Bahama",
+        "slug": "west-grand-bahama-bs-wb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.WB",
+        "level": 1,
+        "name": {
+          "local": "West Grand Bahama",
+          "en": "West Grand Bahama",
+          "slug": "west-grand-bahama-bs-wb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.517",
+      "lon": "-78.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSWBL009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Vincent Town",
+      "en": "Vincent Town",
+      "slug": "vincent-town-bswbl009"
+    },
+    "code": {
+      "id": "BSWBL009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.WB",
+      "level": 1,
+      "name": {
+        "local": "West Grand Bahama",
+        "en": "West Grand Bahama",
+        "slug": "west-grand-bahama-bs-wb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.WB",
+        "level": 1,
+        "name": {
+          "local": "West Grand Bahama",
+          "en": "West Grand Bahama",
+          "slug": "west-grand-bahama-bs-wb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.667",
+      "lon": "-78.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSWBL003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Water Cay",
+      "en": "Water Cay",
+      "slug": "water-cay-bswbl003"
+    },
+    "code": {
+      "id": "BSWBL003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.WB",
+      "level": 1,
+      "name": {
+        "local": "West Grand Bahama",
+        "en": "West Grand Bahama",
+        "slug": "west-grand-bahama-bs-wb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.WB",
+        "level": 1,
+        "name": {
+          "local": "West Grand Bahama",
+          "en": "West Grand Bahama",
+          "slug": "west-grand-bahama-bs-wb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.75",
+      "lon": "-78.5"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "id": "BS.EM",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Exuma",
+    "en": "Exuma",
+    "slug": "exuma-bs-em"
+  },
+  "code": {
+    "id": "BS.EM",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 27
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.62",
+    "lon": "-75.949"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/exuma-bs-em/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

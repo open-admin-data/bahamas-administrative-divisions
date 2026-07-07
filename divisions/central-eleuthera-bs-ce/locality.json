@@ -1,0 +1,407 @@
+[
+  {
+    "id": "BSCEL008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Colebrooke Dale",
+      "en": "Colebrooke Dale",
+      "slug": "colebrooke-dale-bscel008"
+    },
+    "code": {
+      "id": "BSCEL008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CE",
+      "level": 1,
+      "name": {
+        "local": "Central Eleuthera",
+        "en": "Central Eleuthera",
+        "slug": "central-eleuthera-bs-ce"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CE",
+        "level": 1,
+        "name": {
+          "local": "Central Eleuthera",
+          "en": "Central Eleuthera",
+          "slug": "central-eleuthera-bs-ce"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.2",
+      "lon": "-76.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCEL005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Eleuthera",
+      "en": "Eleuthera",
+      "slug": "eleuthera-bscel005"
+    },
+    "code": {
+      "id": "BSCEL005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CE",
+      "level": 1,
+      "name": {
+        "local": "Central Eleuthera",
+        "en": "Central Eleuthera",
+        "slug": "central-eleuthera-bs-ce"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CE",
+        "level": 1,
+        "name": {
+          "local": "Central Eleuthera",
+          "en": "Central Eleuthera",
+          "slug": "central-eleuthera-bs-ce"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.136",
+      "lon": "-76.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCEL004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Governor's Harbour",
+      "en": "Governor's Harbour",
+      "slug": "governor-s-harbour-bscel004"
+    },
+    "code": {
+      "id": "BSCEL004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CE",
+      "level": 1,
+      "name": {
+        "local": "Central Eleuthera",
+        "en": "Central Eleuthera",
+        "slug": "central-eleuthera-bs-ce"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CE",
+        "level": 1,
+        "name": {
+          "local": "Central Eleuthera",
+          "en": "Central Eleuthera",
+          "slug": "central-eleuthera-bs-ce"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.167",
+      "lon": "-76.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCEL009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "North Palmetto Point",
+      "en": "North Palmetto Point",
+      "slug": "north-palmetto-point-bscel009"
+    },
+    "code": {
+      "id": "BSCEL009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CE",
+      "level": 1,
+      "name": {
+        "local": "Central Eleuthera",
+        "en": "Central Eleuthera",
+        "slug": "central-eleuthera-bs-ce"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CE",
+        "level": 1,
+        "name": {
+          "local": "Central Eleuthera",
+          "en": "Central Eleuthera",
+          "slug": "central-eleuthera-bs-ce"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.167",
+      "lon": "-76.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCEL007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Palmetto Point",
+      "en": "Palmetto Point",
+      "slug": "palmetto-point-bscel007"
+    },
+    "code": {
+      "id": "BSCEL007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CE",
+      "level": 1,
+      "name": {
+        "local": "Central Eleuthera",
+        "en": "Central Eleuthera",
+        "slug": "central-eleuthera-bs-ce"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CE",
+        "level": 1,
+        "name": {
+          "local": "Central Eleuthera",
+          "en": "Central Eleuthera",
+          "slug": "central-eleuthera-bs-ce"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.167",
+      "lon": "-76.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCEL002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rainbow Bay",
+      "en": "Rainbow Bay",
+      "slug": "rainbow-bay-bscel002"
+    },
+    "code": {
+      "id": "BSCEL002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CE",
+      "level": 1,
+      "name": {
+        "local": "Central Eleuthera",
+        "en": "Central Eleuthera",
+        "slug": "central-eleuthera-bs-ce"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CE",
+        "level": 1,
+        "name": {
+          "local": "Central Eleuthera",
+          "en": "Central Eleuthera",
+          "slug": "central-eleuthera-bs-ce"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.333",
+      "lon": "-76.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCEL001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Savannah Sound",
+      "en": "Savannah Sound",
+      "slug": "savannah-sound-bscel001"
+    },
+    "code": {
+      "id": "BSCEL001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CE",
+      "level": 1,
+      "name": {
+        "local": "Central Eleuthera",
+        "en": "Central Eleuthera",
+        "slug": "central-eleuthera-bs-ce"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CE",
+        "level": 1,
+        "name": {
+          "local": "Central Eleuthera",
+          "en": "Central Eleuthera",
+          "slug": "central-eleuthera-bs-ce"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.1",
+      "lon": "-76.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCEL003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "South Palmetto Point",
+      "en": "South Palmetto Point",
+      "slug": "south-palmetto-point-bscel003"
+    },
+    "code": {
+      "id": "BSCEL003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CE",
+      "level": 1,
+      "name": {
+        "local": "Central Eleuthera",
+        "en": "Central Eleuthera",
+        "slug": "central-eleuthera-bs-ce"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CE",
+        "level": 1,
+        "name": {
+          "local": "Central Eleuthera",
+          "en": "Central Eleuthera",
+          "slug": "central-eleuthera-bs-ce"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.15",
+      "lon": "-76.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCEL006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "South Palmetto Point",
+      "en": "South Palmetto Point",
+      "slug": "south-palmetto-point-bscel006"
+    },
+    "code": {
+      "id": "BSCEL006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CE",
+      "level": 1,
+      "name": {
+        "local": "Central Eleuthera",
+        "en": "Central Eleuthera",
+        "slug": "central-eleuthera-bs-ce"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CE",
+        "level": 1,
+        "name": {
+          "local": "Central Eleuthera",
+          "en": "Central Eleuthera",
+          "slug": "central-eleuthera-bs-ce"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.15",
+      "lon": "-76.172"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "BSLIL020",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Gordon's",
+    "en": "Gordon's",
+    "slug": "gordon-s-bslil020"
+  },
+  "code": {
+    "id": "BSLIL020",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.LI",
+    "level": 1,
+    "name": {
+      "local": "Long Island",
+      "en": "Long Island",
+      "slug": "long-island-bs-li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.867",
+    "lon": "-74.85"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BSRCL003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Sugar Loaf",
+    "en": "Sugar Loaf",
+    "slug": "sugar-loaf-bsrcl003"
+  },
+  "code": {
+    "id": "BSRCL003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.RC",
+    "level": 1,
+    "name": {
+      "local": "Rum Cay",
+      "en": "Rum Cay",
+      "slug": "rum-cay-bs-rc"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.RC",
+      "level": 1,
+      "name": {
+        "local": "Rum Cay",
+        "en": "Rum Cay",
+        "slug": "rum-cay-bs-rc"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.65",
+    "lon": "-74.517"
+  },
+  "metadata": {},
+  "source": {}
+}

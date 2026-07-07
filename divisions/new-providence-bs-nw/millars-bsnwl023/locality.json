@@ -1,0 +1,45 @@
+{
+  "id": "BSNWL023",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Millars",
+    "en": "Millars",
+    "slug": "millars-bsnwl023"
+  },
+  "code": {
+    "id": "BSNWL023",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NW",
+    "level": 1,
+    "name": {
+      "local": "New Providence",
+      "en": "New Providence",
+      "slug": "new-providence-bs-nw"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.985",
+    "lon": "-77.43"
+  },
+  "metadata": {},
+  "source": {}
+}

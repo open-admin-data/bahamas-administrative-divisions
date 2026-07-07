@@ -1,0 +1,45 @@
+{
+  "id": "BSSSL019",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Allen",
+    "en": "Allen",
+    "slug": "allen-bsssl019"
+  },
+  "code": {
+    "id": "BSSSL019",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.SS",
+    "level": 1,
+    "name": {
+      "local": "San Salvador",
+      "en": "San Salvador",
+      "slug": "san-salvador-bs-ss"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.SS",
+      "level": 1,
+      "name": {
+        "local": "San Salvador",
+        "en": "San Salvador",
+        "slug": "san-salvador-bs-ss"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.95",
+    "lon": "-74.517"
+  },
+  "metadata": {},
+  "source": {}
+}

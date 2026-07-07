@@ -1,0 +1,45 @@
+{
+  "id": "BSCNL002",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Minns",
+    "en": "Minns",
+    "slug": "minns-bscnl002"
+  },
+  "code": {
+    "id": "BSCNL002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.CN",
+    "level": 1,
+    "name": {
+      "local": "Central Andros",
+      "en": "Central Andros",
+      "slug": "central-andros-bs-cn"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.CN",
+      "level": 1,
+      "name": {
+        "local": "Central Andros",
+        "en": "Central Andros",
+        "slug": "central-andros-bs-cn"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.7",
+    "lon": "-77.767"
+  },
+  "metadata": {},
+  "source": {}
+}

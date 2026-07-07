@@ -1,0 +1,45 @@
+{
+  "id": "BSNNL008",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Conch Sound Settlement",
+    "en": "Conch Sound Settlement",
+    "slug": "conch-sound-settlement-bsnnl008"
+  },
+  "code": {
+    "id": "BSNNL008",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NN",
+    "level": 1,
+    "name": {
+      "local": "North Andros",
+      "en": "North Andros",
+      "slug": "north-andros-bs-nn"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.122",
+    "lon": "-77.996"
+  },
+  "metadata": {},
+  "source": {}
+}

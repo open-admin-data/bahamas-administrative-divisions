@@ -1,0 +1,45 @@
+{
+  "id": "BSSSL013",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Old Place",
+    "en": "Old Place",
+    "slug": "old-place-bsssl013"
+  },
+  "code": {
+    "id": "BSSSL013",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.SS",
+    "level": 1,
+    "name": {
+      "local": "San Salvador",
+      "en": "San Salvador",
+      "slug": "san-salvador-bs-ss"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.SS",
+      "level": 1,
+      "name": {
+        "local": "San Salvador",
+        "en": "San Salvador",
+        "slug": "san-salvador-bs-ss"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.967",
+    "lon": "-74.483"
+  },
+  "metadata": {},
+  "source": {}
+}

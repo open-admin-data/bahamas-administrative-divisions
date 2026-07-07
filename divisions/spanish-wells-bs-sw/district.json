@@ -1,0 +1,33 @@
+{
+  "id": "BS.SW",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Spanish Wells",
+    "en": "Spanish Wells",
+    "slug": "spanish-wells-bs-sw"
+  },
+  "code": {
+    "id": "BS.SW",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.524",
+    "lon": "-76.83"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/spanish-wells-bs-sw/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

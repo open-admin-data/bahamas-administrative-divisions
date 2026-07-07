@@ -1,0 +1,34 @@
+# Data from Open Admin Data (https://openadmindata.org/bs/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/bahamas-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.district,children_count.locality,zip_codes,geo.lat,geo.lon,source_url
+BS.AK,1,District,District,Acklins,Acklins,acklins-bs-ak,BS.AK,,,,,,17,,22.637,-73.915,https://openadmindata.org/bs/districts/acklins-bs-ak/
+BS.BI,1,District,District,Biminis,Biminis,biminis-bs-bi,BS.BI,,,,,,7,,25.744,-79.258,https://openadmindata.org/bs/districts/biminis-bs-bi/
+BS.BP,1,District,District,Black Point,Black Point,black-point-bs-bp,BS.BP,,,,,,2,,24.052,-76.365,https://openadmindata.org/bs/districts/black-point-bs-bp/
+BS.BR,1,District,District,Berry Islands,Berry Islands,berry-islands-bs-br,BS.BR,,,,,,2,,25.772,-77.868,https://openadmindata.org/bs/districts/berry-islands-bs-br/
+BS.CB,1,District,District,Central Abaco,Central Abaco,central-abaco-bs-cb,BS.CB,,,,,,6,,26.407,-77.141,https://openadmindata.org/bs/districts/central-abaco-bs-cb/
+BS.CE,1,District,District,Central Eleuthera,Central Eleuthera,central-eleuthera-bs-ce,BS.CE,,,,,,9,,25.187,-76.223,https://openadmindata.org/bs/districts/central-eleuthera-bs-ce/
+BS.CI,1,District,District,Cat Island,Cat Island,cat-island-bs-ci,BS.CI,,,,,,33,,24.325,-75.457,https://openadmindata.org/bs/districts/cat-island-bs-ci/
+BS.CK,1,District,District,Crooked Island,Crooked Island,crooked-island-bs-ck,BS.CK,,,,,,13,,22.768,-74.246,https://openadmindata.org/bs/districts/crooked-island-bs-ck/
+BS.CN,1,District,District,Central Andros,Central Andros,central-andros-bs-cn,BS.CN,,,,,,6,,24.496,-77.971,https://openadmindata.org/bs/districts/central-andros-bs-cn/
+BS.EB,1,District,District,East Grand Bahama,East Grand Bahama,east-grand-bahama-bs-eb,BS.EB,,,,,,5,,26.672,-78.162,https://openadmindata.org/bs/districts/east-grand-bahama-bs-eb/
+BS.EM,1,District,District,Exuma,Exuma,exuma-bs-em,BS.EM,,,,,,27,,23.62,-75.949,https://openadmindata.org/bs/districts/exuma-bs-em/
+BS.FP,1,District,District,City of Freeport,City of Freeport,city-of-freeport-bs-fp,BS.FP,,,,,,14,,26.531,-78.63,https://openadmindata.org/bs/districts/city-of-freeport-bs-fp/
+BS.GC,1,District,District,Grand Cay,Grand Cay,grand-cay-bs-gc,BS.GC,,,,,,0,,27.231,-78.332,https://openadmindata.org/bs/districts/grand-cay-bs-gc/
+BS.HB,1,District,District,Harbour Island,Harbour Island,harbour-island-bs-hb,BS.HB,,,,,,1,,25.546,-76.767,https://openadmindata.org/bs/districts/harbour-island-bs-hb/
+BS.HT,1,District,District,Hope Town,Hope Town,hope-town-bs-ht,BS.HT,,,,,,6,,26.529,-76.97,https://openadmindata.org/bs/districts/hope-town-bs-ht/
+BS.IN,1,District,District,Inagua,Inagua,inagua-bs-in,BS.IN,,,,,,1,,21.066,-73.431,https://openadmindata.org/bs/districts/inagua-bs-in/
+BS.LI,1,District,District,Long Island,Long Island,long-island-bs-li,BS.LI,,,,,,46,,23.191,-75.103,https://openadmindata.org/bs/districts/long-island-bs-li/
+BS.MC,1,District,District,Mangrove Cay,Mangrove Cay,mangrove-cay-bs-mc,BS.MC,,,,,,5,,24.106,-77.811,https://openadmindata.org/bs/districts/mangrove-cay-bs-mc/
+BS.MG,1,District,District,Mayaguana,Mayaguana,mayaguana-bs-mg,BS.MG,,,,,,3,,22.394,-73.06,https://openadmindata.org/bs/districts/mayaguana-bs-mg/
+BS.MI,1,District,District,Moore's Island,Moore's Island,moore-s-island-bs-mi,BS.MI,,,,,,2,,26.306,-77.558,https://openadmindata.org/bs/districts/moore-s-island-bs-mi/
+BS.NB,1,District,District,North Abaco,North Abaco,north-abaco-bs-nb,BS.NB,,,,,,12,,26.887,-77.612,https://openadmindata.org/bs/districts/north-abaco-bs-nb/
+BS.NE,1,District,District,North Eleuthera,North Eleuthera,north-eleuthera-bs-ne,BS.NE,,,,,,9,,25.484,-76.716,https://openadmindata.org/bs/districts/north-eleuthera-bs-ne/
+BS.NN,1,District,District,North Andros,North Andros,north-andros-bs-nn,BS.NN,,,,,,22,,24.798,-78.049,https://openadmindata.org/bs/districts/north-andros-bs-nn/
+BS.NW,1,District,District,New Providence,New Providence,new-providence-bs-nw,BS.NW,,,,,,31,,25.04,-77.395,https://openadmindata.org/bs/districts/new-providence-bs-nw/
+BS.RC,1,District,District,Rum Cay,Rum Cay,rum-cay-bs-rc,BS.RC,,,,,,4,,23.687,-74.846,https://openadmindata.org/bs/districts/rum-cay-bs-rc/
+BS.RI,1,District,District,Ragged Island,Ragged Island,ragged-island-bs-ri,BS.RI,,,,,,1,,22.188,-75.729,https://openadmindata.org/bs/districts/ragged-island-bs-ri/
+BS.SB,1,District,District,South Abaco,South Abaco,south-abaco-bs-sb,BS.SB,,,,,,4,,26.034,-77.258,https://openadmindata.org/bs/districts/south-abaco-bs-sb/
+BS.SE,1,District,District,South Eleuthera,South Eleuthera,south-eleuthera-bs-se,BS.SE,,,,,,14,,24.779,-76.21,https://openadmindata.org/bs/districts/south-eleuthera-bs-se/
+BS.SN,1,District,District,South Andros,South Andros,south-andros-bs-sn,BS.SN,,,,,,10,,23.968,-77.667,https://openadmindata.org/bs/districts/south-andros-bs-sn/
+BS.SS,1,District,District,San Salvador,San Salvador,san-salvador-bs-ss,BS.SS,,,,,,24,,24.067,-74.482,https://openadmindata.org/bs/districts/san-salvador-bs-ss/
+BS.SW,1,District,District,Spanish Wells,Spanish Wells,spanish-wells-bs-sw,BS.SW,,,,,,1,,25.524,-76.83,https://openadmindata.org/bs/districts/spanish-wells-bs-sw/
+BS.WB,1,District,District,West Grand Bahama,West Grand Bahama,west-grand-bahama-bs-wb,BS.WB,,,,,,12,,26.635,-78.511,https://openadmindata.org/bs/districts/west-grand-bahama-bs-wb/

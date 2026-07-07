@@ -1,0 +1,45 @@
+{
+  "id": "BSCKL006",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Fairfield",
+    "en": "Fairfield",
+    "slug": "fairfield-bsckl006"
+  },
+  "code": {
+    "id": "BSCKL006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.CK",
+    "level": 1,
+    "name": {
+      "local": "Crooked Island",
+      "en": "Crooked Island",
+      "slug": "crooked-island-bs-ck"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.CK",
+      "level": 1,
+      "name": {
+        "local": "Crooked Island",
+        "en": "Crooked Island",
+        "slug": "crooked-island-bs-ck"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.783",
+    "lon": "-74.217"
+  },
+  "metadata": {},
+  "source": {}
+}

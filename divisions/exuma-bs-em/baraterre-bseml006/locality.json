@@ -1,0 +1,45 @@
+{
+  "id": "BSEML006",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Baraterre",
+    "en": "Baraterre",
+    "slug": "baraterre-bseml006"
+  },
+  "code": {
+    "id": "BSEML006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.EM",
+    "level": 1,
+    "name": {
+      "local": "Exuma",
+      "en": "Exuma",
+      "slug": "exuma-bs-em"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.696",
+    "lon": "-76.041"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,1217 @@
+[
+  {
+    "id": "BSEML014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Alexander",
+      "en": "Alexander",
+      "slug": "alexander-bseml014"
+    },
+    "code": {
+      "id": "BSEML014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.65",
+      "lon": "-76.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Anne's Tract Settlement",
+      "en": "Anne's Tract Settlement",
+      "slug": "anne-s-tract-settlement-bseml012"
+    },
+    "code": {
+      "id": "BSEML012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.683",
+      "lon": "-76.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Baraterre",
+      "en": "Baraterre",
+      "slug": "baraterre-bseml002"
+    },
+    "code": {
+      "id": "BSEML002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.683",
+      "lon": "-76.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Baraterre",
+      "en": "Baraterre",
+      "slug": "baraterre-bseml006"
+    },
+    "code": {
+      "id": "BSEML006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.696",
+      "lon": "-76.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Calvin Hill",
+      "en": "Calvin Hill",
+      "slug": "calvin-hill-bseml001"
+    },
+    "code": {
+      "id": "BSEML001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.6",
+      "lon": "-75.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Curtis",
+      "en": "Curtis",
+      "slug": "curtis-bseml013"
+    },
+    "code": {
+      "id": "BSEML013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.633",
+      "lon": "-75.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML024",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Farmer's Hill",
+      "en": "Farmer's Hill",
+      "slug": "farmer-s-hill-bseml024"
+    },
+    "code": {
+      "id": "BSEML024",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.6",
+      "lon": "-75.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Forbes Hill",
+      "en": "Forbes Hill",
+      "slug": "forbes-hill-bseml005"
+    },
+    "code": {
+      "id": "BSEML005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.46",
+      "lon": "-75.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML020",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Forest",
+      "en": "Forest",
+      "slug": "forest-bseml020"
+    },
+    "code": {
+      "id": "BSEML020",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.587",
+      "lon": "-75.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "George Town",
+      "en": "George Town",
+      "slug": "george-town-bseml003"
+    },
+    "code": {
+      "id": "BSEML003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.516",
+      "lon": "-75.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML019",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gilbert Grant",
+      "en": "Gilbert Grant",
+      "slug": "gilbert-grant-bseml019"
+    },
+    "code": {
+      "id": "BSEML019",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.6",
+      "lon": "-75.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML015",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hartswell",
+      "en": "Hartswell",
+      "slug": "hartswell-bseml015"
+    },
+    "code": {
+      "id": "BSEML015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.433",
+      "lon": "-75.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML021",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hermitage",
+      "en": "Hermitage",
+      "slug": "hermitage-bseml021"
+    },
+    "code": {
+      "id": "BSEML021",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.517",
+      "lon": "-75.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML025",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jimmy Hill",
+      "en": "Jimmy Hill",
+      "slug": "jimmy-hill-bseml025"
+    },
+    "code": {
+      "id": "BSEML025",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.567",
+      "lon": "-75.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Michelson",
+      "en": "Michelson",
+      "slug": "michelson-bseml011"
+    },
+    "code": {
+      "id": "BSEML011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.491",
+      "lon": "-75.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML027",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moss Town",
+      "en": "Moss Town",
+      "slug": "moss-town-bseml027"
+    },
+    "code": {
+      "id": "BSEML027",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.547",
+      "lon": "-75.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount Thompson",
+      "en": "Mount Thompson",
+      "slug": "mount-thompson-bseml009"
+    },
+    "code": {
+      "id": "BSEML009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.583",
+      "lon": "-75.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML022",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pigeon Cay",
+      "en": "Pigeon Cay",
+      "slug": "pigeon-cay-bseml022"
+    },
+    "code": {
+      "id": "BSEML022",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.43",
+      "lon": "-75.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML017",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ramsey",
+      "en": "Ramsey",
+      "slug": "ramsey-bseml017"
+    },
+    "code": {
+      "id": "BSEML017",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.567",
+      "lon": "-75.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML018",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Richmond Hill",
+      "en": "Richmond Hill",
+      "slug": "richmond-hill-bseml018"
+    },
+    "code": {
+      "id": "BSEML018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.607",
+      "lon": "-75.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML023",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rokers Point Settlement",
+      "en": "Rokers Point Settlement",
+      "slug": "rokers-point-settlement-bseml023"
+    },
+    "code": {
+      "id": "BSEML023",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.617",
+      "lon": "-75.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rolletown",
+      "en": "Rolletown",
+      "slug": "rolletown-bseml008"
+    },
+    "code": {
+      "id": "BSEML008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.463",
+      "lon": "-75.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML026",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rolleville",
+      "en": "Rolleville",
+      "slug": "rolleville-bseml026"
+    },
+    "code": {
+      "id": "BSEML026",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.673",
+      "lon": "-75.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML016",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Steventon",
+      "en": "Steventon",
+      "slug": "steventon-bseml016"
+    },
+    "code": {
+      "id": "BSEML016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.643",
+      "lon": "-75.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Stuart Manor",
+      "en": "Stuart Manor",
+      "slug": "stuart-manor-bseml007"
+    },
+    "code": {
+      "id": "BSEML007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.633",
+      "lon": "-76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "The Ferry Settlement",
+      "en": "The Ferry Settlement",
+      "slug": "the-ferry-settlement-bseml010"
+    },
+    "code": {
+      "id": "BSEML010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.45",
+      "lon": "-75.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEML004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "William's Town",
+      "en": "William's Town",
+      "slug": "william-s-town-bseml004"
+    },
+    "code": {
+      "id": "BSEML004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EM",
+        "level": 1,
+        "name": {
+          "local": "Exuma",
+          "en": "Exuma",
+          "slug": "exuma-bs-em"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.426",
+      "lon": "-75.559"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "BSHTL002",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Hope Town",
+    "en": "Hope Town",
+    "slug": "hope-town-bshtl002"
+  },
+  "code": {
+    "id": "BSHTL002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.HT",
+    "level": 1,
+    "name": {
+      "local": "Hope Town",
+      "en": "Hope Town",
+      "slug": "hope-town-bs-ht"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.HT",
+      "level": 1,
+      "name": {
+        "local": "Hope Town",
+        "en": "Hope Town",
+        "slug": "hope-town-bs-ht"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.543",
+    "lon": "-76.961"
+  },
+  "metadata": {},
+  "source": {}
+}

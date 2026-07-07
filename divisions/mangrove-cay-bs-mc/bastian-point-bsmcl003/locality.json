@@ -1,0 +1,45 @@
+{
+  "id": "BSMCL003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Bastian Point",
+    "en": "Bastian Point",
+    "slug": "bastian-point-bsmcl003"
+  },
+  "code": {
+    "id": "BSMCL003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.MC",
+    "level": 1,
+    "name": {
+      "local": "Mangrove Cay",
+      "en": "Mangrove Cay",
+      "slug": "mangrove-cay-bs-mc"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.MC",
+      "level": 1,
+      "name": {
+        "local": "Mangrove Cay",
+        "en": "Mangrove Cay",
+        "slug": "mangrove-cay-bs-mc"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.235",
+    "lon": "-77.625"
+  },
+  "metadata": {},
+  "source": {}
+}

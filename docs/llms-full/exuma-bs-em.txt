@@ -1,0 +1,144 @@
+# Exuma — Bahamas Administrative Divisions
+
+> 27 localitys
+> Code: BS.EM
+> Coordinates: 23.62, -75.949
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Alexander
+
+Code: BSEML014, Coordinates: 23.65, -76.017
+
+
+### Anne&#39;s Tract Settlement
+
+Code: BSEML012, Coordinates: 23.683, -76.05
+
+
+### Baraterre
+
+Code: BSEML002, Coordinates: 23.683, -76.033
+
+
+### Baraterre
+
+Code: BSEML006, Coordinates: 23.696, -76.041
+
+
+### Calvin Hill
+
+Code: BSEML001, Coordinates: 23.6, -75.967
+
+
+### Curtis
+
+Code: BSEML013, Coordinates: 23.633, -75.967
+
+
+### Farmer&#39;s Hill
+
+Code: BSEML024, Coordinates: 23.6, -75.9
+
+
+### Forbes Hill
+
+Code: BSEML005, Coordinates: 23.46, -75.647
+
+
+### Forest
+
+Code: BSEML020, Coordinates: 23.587, -75.914
+
+
+### George Town
+
+Code: BSEML003, Coordinates: 23.516, -75.787
+
+
+### Gilbert Grant
+
+Code: BSEML019, Coordinates: 23.6, -75.917
+
+
+### Hartswell
+
+Code: BSEML015, Coordinates: 23.433, -75.667
+
+
+### Hermitage
+
+Code: BSEML021, Coordinates: 23.517, -75.833
+
+
+### Jimmy Hill
+
+Code: BSEML025, Coordinates: 23.567, -75.867
+
+
+### Michelson
+
+Code: BSEML011, Coordinates: 23.491, -75.766
+
+
+### Moss Town
+
+Code: BSEML027, Coordinates: 23.547, -75.856
+
+
+### Mount Thompson
+
+Code: BSEML009, Coordinates: 23.583, -75.883
+
+
+### Pigeon Cay
+
+Code: BSEML022, Coordinates: 23.43, -75.678
+
+
+### Ramsey
+
+Code: BSEML017, Coordinates: 23.567, -75.867
+
+
+### Richmond Hill
+
+Code: BSEML018, Coordinates: 23.607, -75.994
+
+
+### Rokers Point Settlement
+
+Code: BSEML023, Coordinates: 23.617, -75.917
+
+
+### Rolletown
+
+Code: BSEML008, Coordinates: 23.463, -75.704
+
+
+### Rolleville
+
+Code: BSEML026, Coordinates: 23.673, -75.985
+
+
+### Steventon
+
+Code: BSEML016, Coordinates: 23.643, -75.945
+
+
+### Stuart Manor
+
+Code: BSEML007, Coordinates: 23.633, -76
+
+
+### The Ferry Settlement
+
+Code: BSEML010, Coordinates: 23.45, -75.567
+
+
+### William&#39;s Town
+
+Code: BSEML004, Coordinates: 23.426, -75.559
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "BSEBL003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "McLeans Town",
+    "en": "McLeans Town",
+    "slug": "mcleans-town-bsebl003"
+  },
+  "code": {
+    "id": "BSEBL003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.EB",
+    "level": 1,
+    "name": {
+      "local": "East Grand Bahama",
+      "en": "East Grand Bahama",
+      "slug": "east-grand-bahama-bs-eb"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.EB",
+      "level": 1,
+      "name": {
+        "local": "East Grand Bahama",
+        "en": "East Grand Bahama",
+        "slug": "east-grand-bahama-bs-eb"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.658",
+    "lon": "-77.992"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BSNWL003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Grantstown (Historical)",
+    "en": "Grantstown (Historical)",
+    "slug": "grantstown-historical-bsnwl003"
+  },
+  "code": {
+    "id": "BSNWL003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NW",
+    "level": 1,
+    "name": {
+      "local": "New Providence",
+      "en": "New Providence",
+      "slug": "new-providence-bs-nw"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.056",
+    "lon": "-77.338"
+  },
+  "metadata": {},
+  "source": {}
+}

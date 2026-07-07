@@ -1,0 +1,33 @@
+{
+  "id": "BS.FP",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "City of Freeport",
+    "en": "City of Freeport",
+    "slug": "city-of-freeport-bs-fp"
+  },
+  "code": {
+    "id": "BS.FP",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.531",
+    "lon": "-78.63"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/city-of-freeport-bs-fp/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

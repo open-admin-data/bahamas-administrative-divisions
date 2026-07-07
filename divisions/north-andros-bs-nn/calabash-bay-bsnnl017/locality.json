@@ -1,0 +1,45 @@
+{
+  "id": "BSNNL017",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Calabash Bay",
+    "en": "Calabash Bay",
+    "slug": "calabash-bay-bsnnl017"
+  },
+  "code": {
+    "id": "BSNNL017",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NN",
+    "level": 1,
+    "name": {
+      "local": "North Andros",
+      "en": "North Andros",
+      "slug": "north-andros-bs-nn"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NN",
+      "level": 1,
+      "name": {
+        "local": "North Andros",
+        "en": "North Andros",
+        "slug": "north-andros-bs-nn"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.733",
+    "lon": "-77.8"
+  },
+  "metadata": {},
+  "source": {}
+}

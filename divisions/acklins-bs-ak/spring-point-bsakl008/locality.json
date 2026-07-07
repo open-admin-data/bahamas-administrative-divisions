@@ -1,0 +1,45 @@
+{
+  "id": "BSAKL008",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Spring Point",
+    "en": "Spring Point",
+    "slug": "spring-point-bsakl008"
+  },
+  "code": {
+    "id": "BSAKL008",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.AK",
+    "level": 1,
+    "name": {
+      "local": "Acklins",
+      "en": "Acklins",
+      "slug": "acklins-bs-ak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.459",
+    "lon": "-73.961"
+  },
+  "metadata": {},
+  "source": {}
+}

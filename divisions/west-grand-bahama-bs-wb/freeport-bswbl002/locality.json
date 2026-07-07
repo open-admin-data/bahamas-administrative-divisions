@@ -1,0 +1,45 @@
+{
+  "id": "BSWBL002",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Freeport",
+    "en": "Freeport",
+    "slug": "freeport-bswbl002"
+  },
+  "code": {
+    "id": "BSWBL002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.WB",
+    "level": 1,
+    "name": {
+      "local": "West Grand Bahama",
+      "en": "West Grand Bahama",
+      "slug": "west-grand-bahama-bs-wb"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.WB",
+      "level": 1,
+      "name": {
+        "local": "West Grand Bahama",
+        "en": "West Grand Bahama",
+        "slug": "west-grand-bahama-bs-wb"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.533",
+    "lon": "-78.7"
+  },
+  "metadata": {},
+  "source": {}
+}

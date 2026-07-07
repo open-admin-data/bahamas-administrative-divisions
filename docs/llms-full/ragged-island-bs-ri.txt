@@ -1,0 +1,14 @@
+# Ragged Island — Bahamas Administrative Divisions
+
+> 1 localitys
+> Code: BS.RI
+> Coordinates: 22.188, -75.729
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Duncan Town
+
+Code: BSRIL001, Coordinates: 22.191, -75.726
+
+

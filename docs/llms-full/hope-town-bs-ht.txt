@@ -1,0 +1,39 @@
+# Hope Town — Bahamas Administrative Divisions
+
+> 6 localitys
+> Code: BS.HT
+> Coordinates: 26.529, -76.97
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Dundas Town
+
+Code: BSHTL006, Coordinates: 26.546, -77.08
+
+
+### Great Guana Cay
+
+Code: BSHTL003, Coordinates: 26.667, -77.108
+
+
+### Hope Town
+
+Code: BSHTL002, Coordinates: 26.543, -76.961
+
+
+### Man of War Cay Settlement
+
+Code: BSHTL004, Coordinates: 26.595, -77.001
+
+
+### Marsh Harbour
+
+Code: BSHTL001, Coordinates: 26.541, -77.064
+
+
+### Murphy Town
+
+Code: BSHTL005, Coordinates: 26.553, -77.096
+
+

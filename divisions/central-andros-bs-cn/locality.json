@@ -1,0 +1,272 @@
+[
+  {
+    "id": "BSCNL001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Behring Point",
+      "en": "Behring Point",
+      "slug": "behring-point-bscnl001"
+    },
+    "code": {
+      "id": "BSCNL001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CN",
+      "level": 1,
+      "name": {
+        "local": "Central Andros",
+        "en": "Central Andros",
+        "slug": "central-andros-bs-cn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CN",
+        "level": 1,
+        "name": {
+          "local": "Central Andros",
+          "en": "Central Andros",
+          "slug": "central-andros-bs-cn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.48",
+      "lon": "-77.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCNL003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bowen Sound",
+      "en": "Bowen Sound",
+      "slug": "bowen-sound-bscnl003"
+    },
+    "code": {
+      "id": "BSCNL003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CN",
+      "level": 1,
+      "name": {
+        "local": "Central Andros",
+        "en": "Central Andros",
+        "slug": "central-andros-bs-cn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CN",
+        "level": 1,
+        "name": {
+          "local": "Central Andros",
+          "en": "Central Andros",
+          "slug": "central-andros-bs-cn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.583",
+      "lon": "-77.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCNL006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cargill Creek",
+      "en": "Cargill Creek",
+      "slug": "cargill-creek-bscnl006"
+    },
+    "code": {
+      "id": "BSCNL006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CN",
+      "level": 1,
+      "name": {
+        "local": "Central Andros",
+        "en": "Central Andros",
+        "slug": "central-andros-bs-cn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CN",
+        "level": 1,
+        "name": {
+          "local": "Central Andros",
+          "en": "Central Andros",
+          "slug": "central-andros-bs-cn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.499",
+      "lon": "-77.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCNL004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Man of War Sound",
+      "en": "Man of War Sound",
+      "slug": "man-of-war-sound-bscnl004"
+    },
+    "code": {
+      "id": "BSCNL004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CN",
+      "level": 1,
+      "name": {
+        "local": "Central Andros",
+        "en": "Central Andros",
+        "slug": "central-andros-bs-cn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CN",
+        "level": 1,
+        "name": {
+          "local": "Central Andros",
+          "en": "Central Andros",
+          "slug": "central-andros-bs-cn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.55",
+      "lon": "-77.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCNL005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Markey",
+      "en": "Markey",
+      "slug": "markey-bscnl005"
+    },
+    "code": {
+      "id": "BSCNL005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CN",
+      "level": 1,
+      "name": {
+        "local": "Central Andros",
+        "en": "Central Andros",
+        "slug": "central-andros-bs-cn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CN",
+        "level": 1,
+        "name": {
+          "local": "Central Andros",
+          "en": "Central Andros",
+          "slug": "central-andros-bs-cn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.488",
+      "lon": "-77.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSCNL002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Minns",
+      "en": "Minns",
+      "slug": "minns-bscnl002"
+    },
+    "code": {
+      "id": "BSCNL002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.CN",
+      "level": 1,
+      "name": {
+        "local": "Central Andros",
+        "en": "Central Andros",
+        "slug": "central-andros-bs-cn"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.CN",
+        "level": 1,
+        "name": {
+          "local": "Central Andros",
+          "en": "Central Andros",
+          "slug": "central-andros-bs-cn"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.7",
+      "lon": "-77.767"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,119 @@
+# North Andros — Bahamas Administrative Divisions
+
+> 22 localitys
+> Code: BS.NN
+> Coordinates: 24.798, -78.049
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Andros Town
+
+Code: BSNNL003, Coordinates: 24.7, -77.767
+
+
+### August Town
+
+Code: BSNNL013, Coordinates: 25.033, -77.983
+
+
+### Blanket Sound
+
+Code: BSNNL022, Coordinates: 24.85, -77.9
+
+
+### Calabash Bay
+
+Code: BSNNL017, Coordinates: 24.733, -77.8
+
+
+### Coakley Town
+
+Code: BSNNL016, Coordinates: 24.726, -77.795
+
+
+### Conch Sound Settlement
+
+Code: BSNNL008, Coordinates: 25.122, -77.996
+
+
+### Fresh Creek
+
+Code: BSNNL001, Coordinates: 24.69, -77.761
+
+
+### Hard Bargain
+
+Code: BSNNL005, Coordinates: 24.755, -77.798
+
+
+### Love Hill
+
+Code: BSNNL019, Coordinates: 24.75, -77.85
+
+
+### Lowe Sound Settlement
+
+Code: BSNNL004, Coordinates: 25.149, -78.092
+
+
+### Mastic Point
+
+Code: BSNNL012, Coordinates: 25.067, -77.969
+
+
+### Millers Hill
+
+Code: BSNNL009, Coordinates: 25.117, -77.983
+
+
+### Morgan&#39;s Bluff
+
+Code: BSNNL007, Coordinates: 25.167, -78.033
+
+
+### New Town
+
+Code: BSNNL021, Coordinates: 25.053, -77.985
+
+
+### Nicholls Town
+
+Code: BSNNL002, Coordinates: 25.128, -77.979
+
+
+### Owens Town
+
+Code: BSNNL010, Coordinates: 24.878, -78.036
+
+
+### Red Bay Settlement
+
+Code: BSNNL015, Coordinates: 25.138, -78.195
+
+
+### San Andros
+
+Code: BSNNL006, Coordinates: 25.067, -78.05
+
+
+### Seminets
+
+Code: BSNNL018, Coordinates: 24.867, -77.933
+
+
+### Stafford Creek
+
+Code: BSNNL020, Coordinates: 24.906, -77.937
+
+
+### Staniard Creek
+
+Code: BSNNL014, Coordinates: 24.831, -77.888
+
+
+### Twin Lakes
+
+Code: BSNNL011, Coordinates: 24.726, -77.998
+
+

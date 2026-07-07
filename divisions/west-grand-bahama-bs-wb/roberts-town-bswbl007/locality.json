@@ -1,0 +1,45 @@
+{
+  "id": "BSWBL007",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Roberts Town",
+    "en": "Roberts Town",
+    "slug": "roberts-town-bswbl007"
+  },
+  "code": {
+    "id": "BSWBL007",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.WB",
+    "level": 1,
+    "name": {
+      "local": "West Grand Bahama",
+      "en": "West Grand Bahama",
+      "slug": "west-grand-bahama-bs-wb"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.WB",
+      "level": 1,
+      "name": {
+        "local": "West Grand Bahama",
+        "en": "West Grand Bahama",
+        "slug": "west-grand-bahama-bs-wb"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.667",
+    "lon": "-78.95"
+  },
+  "metadata": {},
+  "source": {}
+}

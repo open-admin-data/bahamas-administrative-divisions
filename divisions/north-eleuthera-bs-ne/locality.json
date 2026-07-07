@@ -1,0 +1,407 @@
+[
+  {
+    "id": "BSNEL003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Alice Town",
+      "en": "Alice Town",
+      "slug": "alice-town-bsnel003"
+    },
+    "code": {
+      "id": "BSNEL003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NE",
+      "level": 1,
+      "name": {
+        "local": "North Eleuthera",
+        "en": "North Eleuthera",
+        "slug": "north-eleuthera-bs-ne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NE",
+        "level": 1,
+        "name": {
+          "local": "North Eleuthera",
+          "en": "North Eleuthera",
+          "slug": "north-eleuthera-bs-ne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.346",
+      "lon": "-76.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNEL004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Current",
+      "en": "Current",
+      "slug": "current-bsnel004"
+    },
+    "code": {
+      "id": "BSNEL004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NE",
+      "level": 1,
+      "name": {
+        "local": "North Eleuthera",
+        "en": "North Eleuthera",
+        "slug": "north-eleuthera-bs-ne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NE",
+        "level": 1,
+        "name": {
+          "local": "North Eleuthera",
+          "en": "North Eleuthera",
+          "slug": "north-eleuthera-bs-ne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.408",
+      "lon": "-76.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNEL005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Current Island Settlement",
+      "en": "Current Island Settlement",
+      "slug": "current-island-settlement-bsnel005"
+    },
+    "code": {
+      "id": "BSNEL005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NE",
+      "level": 1,
+      "name": {
+        "local": "North Eleuthera",
+        "en": "North Eleuthera",
+        "slug": "north-eleuthera-bs-ne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NE",
+        "level": 1,
+        "name": {
+          "local": "North Eleuthera",
+          "en": "North Eleuthera",
+          "slug": "north-eleuthera-bs-ne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.345",
+      "lon": "-76.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNEL001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dunmore Town",
+      "en": "Dunmore Town",
+      "slug": "dunmore-town-bsnel001"
+    },
+    "code": {
+      "id": "BSNEL001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NE",
+      "level": 1,
+      "name": {
+        "local": "North Eleuthera",
+        "en": "North Eleuthera",
+        "slug": "north-eleuthera-bs-ne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NE",
+        "level": 1,
+        "name": {
+          "local": "North Eleuthera",
+          "en": "North Eleuthera",
+          "slug": "north-eleuthera-bs-ne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.502",
+      "lon": "-76.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNEL008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gregory Town",
+      "en": "Gregory Town",
+      "slug": "gregory-town-bsnel008"
+    },
+    "code": {
+      "id": "BSNEL008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NE",
+      "level": 1,
+      "name": {
+        "local": "North Eleuthera",
+        "en": "North Eleuthera",
+        "slug": "north-eleuthera-bs-ne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NE",
+        "level": 1,
+        "name": {
+          "local": "North Eleuthera",
+          "en": "North Eleuthera",
+          "slug": "north-eleuthera-bs-ne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.391",
+      "lon": "-76.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNEL002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "James Cistern",
+      "en": "James Cistern",
+      "slug": "james-cistern-bsnel002"
+    },
+    "code": {
+      "id": "BSNEL002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NE",
+      "level": 1,
+      "name": {
+        "local": "North Eleuthera",
+        "en": "North Eleuthera",
+        "slug": "north-eleuthera-bs-ne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NE",
+        "level": 1,
+        "name": {
+          "local": "North Eleuthera",
+          "en": "North Eleuthera",
+          "slug": "north-eleuthera-bs-ne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.326",
+      "lon": "-76.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNEL007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lower Bogue",
+      "en": "Lower Bogue",
+      "slug": "lower-bogue-bsnel007"
+    },
+    "code": {
+      "id": "BSNEL007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NE",
+      "level": 1,
+      "name": {
+        "local": "North Eleuthera",
+        "en": "North Eleuthera",
+        "slug": "north-eleuthera-bs-ne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NE",
+        "level": 1,
+        "name": {
+          "local": "North Eleuthera",
+          "en": "North Eleuthera",
+          "slug": "north-eleuthera-bs-ne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.467",
+      "lon": "-76.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNEL006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "The Bluff",
+      "en": "The Bluff",
+      "slug": "the-bluff-bsnel006"
+    },
+    "code": {
+      "id": "BSNEL006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NE",
+      "level": 1,
+      "name": {
+        "local": "North Eleuthera",
+        "en": "North Eleuthera",
+        "slug": "north-eleuthera-bs-ne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NE",
+        "level": 1,
+        "name": {
+          "local": "North Eleuthera",
+          "en": "North Eleuthera",
+          "slug": "north-eleuthera-bs-ne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.499",
+      "lon": "-76.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSNEL009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Upper Bogue",
+      "en": "Upper Bogue",
+      "slug": "upper-bogue-bsnel009"
+    },
+    "code": {
+      "id": "BSNEL009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.NE",
+      "level": 1,
+      "name": {
+        "local": "North Eleuthera",
+        "en": "North Eleuthera",
+        "slug": "north-eleuthera-bs-ne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.NE",
+        "level": 1,
+        "name": {
+          "local": "North Eleuthera",
+          "en": "North Eleuthera",
+          "slug": "north-eleuthera-bs-ne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.45",
+      "lon": "-76.667"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,39 @@
+# Central Andros — Bahamas Administrative Divisions
+
+> 6 localitys
+> Code: BS.CN
+> Coordinates: 24.496, -77.971
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Behring Point
+
+Code: BSCNL001, Coordinates: 24.48, -77.724
+
+
+### Bowen Sound
+
+Code: BSCNL003, Coordinates: 24.583, -77.733
+
+
+### Cargill Creek
+
+Code: BSCNL006, Coordinates: 24.499, -77.72
+
+
+### Man of War Sound
+
+Code: BSCNL004, Coordinates: 24.55, -77.75
+
+
+### Markey
+
+Code: BSCNL005, Coordinates: 24.488, -77.721
+
+
+### Minns
+
+Code: BSCNL002, Coordinates: 24.7, -77.767
+
+

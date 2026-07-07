@@ -1,0 +1,45 @@
+{
+  "id": "BSLIL006",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Victoria Village",
+    "en": "Victoria Village",
+    "slug": "victoria-village-bslil006"
+  },
+  "code": {
+    "id": "BSLIL006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.LI",
+    "level": 1,
+    "name": {
+      "local": "Long Island",
+      "en": "Long Island",
+      "slug": "long-island-bs-li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.083",
+    "lon": "-74.95"
+  },
+  "metadata": {},
+  "source": {}
+}

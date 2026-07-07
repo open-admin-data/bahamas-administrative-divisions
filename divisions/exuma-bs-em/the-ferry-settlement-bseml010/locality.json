@@ -1,0 +1,45 @@
+{
+  "id": "BSEML010",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "The Ferry Settlement",
+    "en": "The Ferry Settlement",
+    "slug": "the-ferry-settlement-bseml010"
+  },
+  "code": {
+    "id": "BSEML010",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.EM",
+    "level": 1,
+    "name": {
+      "local": "Exuma",
+      "en": "Exuma",
+      "slug": "exuma-bs-em"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.45",
+    "lon": "-75.567"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BSLIL027",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Dunmore",
+    "en": "Dunmore",
+    "slug": "dunmore-bslil027"
+  },
+  "code": {
+    "id": "BSLIL027",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.LI",
+    "level": 1,
+    "name": {
+      "local": "Long Island",
+      "en": "Long Island",
+      "slug": "long-island-bs-li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.048",
+    "lon": "-74.905"
+  },
+  "metadata": {},
+  "source": {}
+}

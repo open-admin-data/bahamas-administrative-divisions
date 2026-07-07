@@ -1,0 +1,45 @@
+{
+  "id": "BSSBL002",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Sweetings Village",
+    "en": "Sweetings Village",
+    "slug": "sweetings-village-bssbl002"
+  },
+  "code": {
+    "id": "BSSBL002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.SB",
+    "level": 1,
+    "name": {
+      "local": "South Abaco",
+      "en": "South Abaco",
+      "slug": "south-abaco-bs-sb"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.SB",
+      "level": 1,
+      "name": {
+        "local": "South Abaco",
+        "en": "South Abaco",
+        "slug": "south-abaco-bs-sb"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.35",
+    "lon": "-77.033"
+  },
+  "metadata": {},
+  "source": {}
+}

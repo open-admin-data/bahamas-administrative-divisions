@@ -1,0 +1,33 @@
+{
+  "id": "BS.BP",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Black Point",
+    "en": "Black Point",
+    "slug": "black-point-bs-bp"
+  },
+  "code": {
+    "id": "BS.BP",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.052",
+    "lon": "-76.365"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/black-point-bs-bp/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

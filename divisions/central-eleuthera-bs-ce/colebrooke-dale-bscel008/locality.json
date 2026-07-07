@@ -1,0 +1,45 @@
+{
+  "id": "BSCEL008",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Colebrooke Dale",
+    "en": "Colebrooke Dale",
+    "slug": "colebrooke-dale-bscel008"
+  },
+  "code": {
+    "id": "BSCEL008",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.CE",
+    "level": 1,
+    "name": {
+      "local": "Central Eleuthera",
+      "en": "Central Eleuthera",
+      "slug": "central-eleuthera-bs-ce"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.CE",
+      "level": 1,
+      "name": {
+        "local": "Central Eleuthera",
+        "en": "Central Eleuthera",
+        "slug": "central-eleuthera-bs-ce"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.2",
+    "lon": "-76.25"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "BS.LI",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Long Island",
+    "en": "Long Island",
+    "slug": "long-island-bs-li"
+  },
+  "code": {
+    "id": "BS.LI",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 46
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.191",
+    "lon": "-75.103"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/long-island-bs-li/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BSCKL003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Cabbage Hill",
+    "en": "Cabbage Hill",
+    "slug": "cabbage-hill-bsckl003"
+  },
+  "code": {
+    "id": "BSCKL003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.CK",
+    "level": 1,
+    "name": {
+      "local": "Crooked Island",
+      "en": "Crooked Island",
+      "slug": "crooked-island-bs-ck"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.CK",
+      "level": 1,
+      "name": {
+        "local": "Crooked Island",
+        "en": "Crooked Island",
+        "slug": "crooked-island-bs-ck"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.764",
+    "lon": "-74.22"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "BS.MC",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mangrove Cay",
+    "en": "Mangrove Cay",
+    "slug": "mangrove-cay-bs-mc"
+  },
+  "code": {
+    "id": "BS.MC",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.106",
+    "lon": "-77.811"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/mangrove-cay-bs-mc/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

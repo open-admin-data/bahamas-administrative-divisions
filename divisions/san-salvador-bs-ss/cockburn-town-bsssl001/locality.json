@@ -1,0 +1,45 @@
+{
+  "id": "BSSSL001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Cockburn Town",
+    "en": "Cockburn Town",
+    "slug": "cockburn-town-bsssl001"
+  },
+  "code": {
+    "id": "BSSSL001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.SS",
+    "level": 1,
+    "name": {
+      "local": "San Salvador",
+      "en": "San Salvador",
+      "slug": "san-salvador-bs-ss"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.SS",
+      "level": 1,
+      "name": {
+        "local": "San Salvador",
+        "en": "San Salvador",
+        "slug": "san-salvador-bs-ss"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.07",
+    "lon": "-74.529"
+  },
+  "metadata": {},
+  "source": {}
+}

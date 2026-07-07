@@ -1,0 +1,94 @@
+# Acklins — Bahamas Administrative Divisions
+
+> 17 localitys
+> Code: BS.AK
+> Coordinates: 22.637, -73.915
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Abercorn
+
+Code: BSAKL017, Coordinates: 22.367, -73.95
+
+
+### Anderson
+
+Code: BSAKL015, Coordinates: 22.617, -73.867
+
+
+### Binnacle Hill
+
+Code: BSAKL006, Coordinates: 22.321, -74.138
+
+
+### Chesters
+
+Code: BSAKL012, Coordinates: 22.707, -73.918
+
+
+### Delectable Point
+
+Code: BSAKL004, Coordinates: 22.42, -73.992
+
+
+### Golden Grove
+
+Code: BSAKL005, Coordinates: 22.467, -73.9
+
+
+### Goodwill
+
+Code: BSAKL007, Coordinates: 22.537, -73.875
+
+
+### Hard Hill
+
+Code: BSAKL011, Coordinates: 22.602, -73.878
+
+
+### Lovely Bay
+
+Code: BSAKL003, Coordinates: 22.691, -73.982
+
+
+### Masons Bay
+
+Code: BSAKL002, Coordinates: 22.544, -73.878
+
+
+### Morant Bay
+
+Code: BSAKL009, Coordinates: 22.4, -74.033
+
+
+### Pinefield
+
+Code: BSAKL014, Coordinates: 22.65, -73.867
+
+
+### Pompey Bay
+
+Code: BSAKL013, Coordinates: 22.411, -73.994
+
+
+### Salina Point
+
+Code: BSAKL010, Coordinates: 22.205, -74.243
+
+
+### Snug Corner
+
+Code: BSAKL001, Coordinates: 22.533, -73.883
+
+
+### Spring Point
+
+Code: BSAKL008, Coordinates: 22.459, -73.961
+
+
+### True Blue
+
+Code: BSAKL016, Coordinates: 22.067, -74.067
+
+

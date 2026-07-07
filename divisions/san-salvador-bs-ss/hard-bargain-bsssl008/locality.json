@@ -1,0 +1,45 @@
+{
+  "id": "BSSSL008",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Hard Bargain",
+    "en": "Hard Bargain",
+    "slug": "hard-bargain-bsssl008"
+  },
+  "code": {
+    "id": "BSSSL008",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.SS",
+    "level": 1,
+    "name": {
+      "local": "San Salvador",
+      "en": "San Salvador",
+      "slug": "san-salvador-bs-ss"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.SS",
+      "level": 1,
+      "name": {
+        "local": "San Salvador",
+        "en": "San Salvador",
+        "slug": "san-salvador-bs-ss"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.067",
+    "lon": "-74.45"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,19 @@
+# Moore&#39;s Island — Bahamas Administrative Divisions
+
+> 2 localitys
+> Code: BS.MI
+> Coordinates: 26.306, -77.558
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Hard Bargain
+
+Code: BSMIL001, Coordinates: 26.305, -77.57
+
+
+### The Bight
+
+Code: BSMIL002, Coordinates: 26.3, -77.55
+
+

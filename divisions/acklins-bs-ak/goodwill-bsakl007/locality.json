@@ -1,0 +1,45 @@
+{
+  "id": "BSAKL007",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Goodwill",
+    "en": "Goodwill",
+    "slug": "goodwill-bsakl007"
+  },
+  "code": {
+    "id": "BSAKL007",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.AK",
+    "level": 1,
+    "name": {
+      "local": "Acklins",
+      "en": "Acklins",
+      "slug": "acklins-bs-ak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.537",
+    "lon": "-73.875"
+  },
+  "metadata": {},
+  "source": {}
+}

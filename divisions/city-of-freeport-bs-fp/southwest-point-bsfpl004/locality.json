@@ -1,0 +1,45 @@
+{
+  "id": "BSFPL004",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Southwest Point",
+    "en": "Southwest Point",
+    "slug": "southwest-point-bsfpl004"
+  },
+  "code": {
+    "id": "BSFPL004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.FP",
+    "level": 1,
+    "name": {
+      "local": "City of Freeport",
+      "en": "City of Freeport",
+      "slug": "city-of-freeport-bs-fp"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.FP",
+      "level": 1,
+      "name": {
+        "local": "City of Freeport",
+        "en": "City of Freeport",
+        "slug": "city-of-freeport-bs-fp"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.491",
+    "lon": "-78.75"
+  },
+  "metadata": {},
+  "source": {}
+}

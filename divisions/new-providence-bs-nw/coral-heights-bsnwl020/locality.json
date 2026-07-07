@@ -1,0 +1,45 @@
+{
+  "id": "BSNWL020",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Coral Heights",
+    "en": "Coral Heights",
+    "slug": "coral-heights-bsnwl020"
+  },
+  "code": {
+    "id": "BSNWL020",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NW",
+    "level": 1,
+    "name": {
+      "local": "New Providence",
+      "en": "New Providence",
+      "slug": "new-providence-bs-nw"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.998",
+    "lon": "-77.456"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BSSWL001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Little Bay Settlement",
+    "en": "Little Bay Settlement",
+    "slug": "little-bay-settlement-bsswl001"
+  },
+  "code": {
+    "id": "BSSWL001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.SW",
+    "level": 1,
+    "name": {
+      "local": "Spanish Wells",
+      "en": "Spanish Wells",
+      "slug": "spanish-wells-bs-sw"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.SW",
+      "level": 1,
+      "name": {
+        "local": "Spanish Wells",
+        "en": "Spanish Wells",
+        "slug": "spanish-wells-bs-sw"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.333",
+    "lon": "-76.833"
+  },
+  "metadata": {},
+  "source": {}
+}

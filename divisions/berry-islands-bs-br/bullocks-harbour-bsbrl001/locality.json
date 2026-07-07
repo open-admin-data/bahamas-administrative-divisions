@@ -1,0 +1,45 @@
+{
+  "id": "BSBRL001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Bullocks Harbour",
+    "en": "Bullocks Harbour",
+    "slug": "bullocks-harbour-bsbrl001"
+  },
+  "code": {
+    "id": "BSBRL001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.BR",
+    "level": 1,
+    "name": {
+      "local": "Berry Islands",
+      "en": "Berry Islands",
+      "slug": "berry-islands-bs-br"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.BR",
+      "level": 1,
+      "name": {
+        "local": "Berry Islands",
+        "en": "Berry Islands",
+        "slug": "berry-islands-bs-br"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.752",
+    "lon": "-77.869"
+  },
+  "metadata": {},
+  "source": {}
+}

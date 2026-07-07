@@ -1,0 +1,45 @@
+{
+  "id": "BSLIL029",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Doctor's Creek",
+    "en": "Doctor's Creek",
+    "slug": "doctor-s-creek-bslil029"
+  },
+  "code": {
+    "id": "BSLIL029",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.LI",
+    "level": 1,
+    "name": {
+      "local": "Long Island",
+      "en": "Long Island",
+      "slug": "long-island-bs-li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.467",
+    "lon": "-75.217"
+  },
+  "metadata": {},
+  "source": {}
+}

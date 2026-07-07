@@ -1,0 +1,19 @@
+# Berry Islands — Bahamas Administrative Divisions
+
+> 2 localitys
+> Code: BS.BR
+> Coordinates: 25.772, -77.868
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Bullocks Harbour
+
+Code: BSBRL001, Coordinates: 25.752, -77.869
+
+
+### Chub Cay
+
+Code: BSBRL002, Coordinates: 25.413, -77.903
+
+

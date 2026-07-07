@@ -1,0 +1,45 @@
+{
+  "id": "BSCBL001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Cherokee Sound",
+    "en": "Cherokee Sound",
+    "slug": "cherokee-sound-bscbl001"
+  },
+  "code": {
+    "id": "BSCBL001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.CB",
+    "level": 1,
+    "name": {
+      "local": "Central Abaco",
+      "en": "Central Abaco",
+      "slug": "central-abaco-bs-cb"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.CB",
+      "level": 1,
+      "name": {
+        "local": "Central Abaco",
+        "en": "Central Abaco",
+        "slug": "central-abaco-bs-cb"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.283",
+    "lon": "-77.033"
+  },
+  "metadata": {},
+  "source": {}
+}

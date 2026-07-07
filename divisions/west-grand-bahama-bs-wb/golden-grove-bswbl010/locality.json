@@ -1,0 +1,45 @@
+{
+  "id": "BSWBL010",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Golden Grove",
+    "en": "Golden Grove",
+    "slug": "golden-grove-bswbl010"
+  },
+  "code": {
+    "id": "BSWBL010",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.WB",
+    "level": 1,
+    "name": {
+      "local": "West Grand Bahama",
+      "en": "West Grand Bahama",
+      "slug": "west-grand-bahama-bs-wb"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.WB",
+      "level": 1,
+      "name": {
+        "local": "West Grand Bahama",
+        "en": "West Grand Bahama",
+        "slug": "west-grand-bahama-bs-wb"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.6",
+    "lon": "-78.333"
+  },
+  "metadata": {},
+  "source": {}
+}

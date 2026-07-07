@@ -1,0 +1,45 @@
+{
+  "id": "BSSNL007",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "The Bluff",
+    "en": "The Bluff",
+    "slug": "the-bluff-bssnl007"
+  },
+  "code": {
+    "id": "BSSNL007",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.SN",
+    "level": 1,
+    "name": {
+      "local": "South Andros",
+      "en": "South Andros",
+      "slug": "south-andros-bs-sn"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.SN",
+      "level": 1,
+      "name": {
+        "local": "South Andros",
+        "en": "South Andros",
+        "slug": "south-andros-bs-sn"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.117",
+    "lon": "-77.55"
+  },
+  "metadata": {},
+  "source": {}
+}

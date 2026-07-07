@@ -1,0 +1,59 @@
+# South Andros — Bahamas Administrative Divisions
+
+> 10 localitys
+> Code: BS.SN
+> Coordinates: 23.968, -77.667
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Black Point
+
+Code: BSSNL004, Coordinates: 23.983, -77.55
+
+
+### Congo Town
+
+Code: BSSNL006, Coordinates: 24.166, -77.584
+
+
+### Deep Creek
+
+Code: BSSNL008, Coordinates: 24, -77.55
+
+
+### High Rock
+
+Code: BSSNL005, Coordinates: 24.167, -77.583
+
+
+### Kemps Bay
+
+Code: BSSNL002, Coordinates: 24.027, -77.533
+
+
+### Little Creek
+
+Code: BSSNL003, Coordinates: 23.947, -77.522
+
+
+### Mars Bay
+
+Code: BSSNL009, Coordinates: 23.867, -77.516
+
+
+### Pure Gold
+
+Code: BSSNL010, Coordinates: 23.967, -77.533
+
+
+### Smith&#39;s Hill
+
+Code: BSSNL001, Coordinates: 24.05, -77.533
+
+
+### The Bluff
+
+Code: BSSNL007, Coordinates: 24.117, -77.55
+
+

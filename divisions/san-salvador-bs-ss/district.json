@@ -1,0 +1,33 @@
+{
+  "id": "BS.SS",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "San Salvador",
+    "en": "San Salvador",
+    "slug": "san-salvador-bs-ss"
+  },
+  "code": {
+    "id": "BS.SS",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.067",
+    "lon": "-74.482"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/san-salvador-bs-ss/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

@@ -1,0 +1,767 @@
+[
+  {
+    "id": "BSAKL017",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Abercorn",
+      "en": "Abercorn",
+      "slug": "abercorn-bsakl017"
+    },
+    "code": {
+      "id": "BSAKL017",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.AK",
+        "level": 1,
+        "name": {
+          "local": "Acklins",
+          "en": "Acklins",
+          "slug": "acklins-bs-ak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.367",
+      "lon": "-73.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSAKL015",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Anderson",
+      "en": "Anderson",
+      "slug": "anderson-bsakl015"
+    },
+    "code": {
+      "id": "BSAKL015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.AK",
+        "level": 1,
+        "name": {
+          "local": "Acklins",
+          "en": "Acklins",
+          "slug": "acklins-bs-ak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.617",
+      "lon": "-73.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSAKL006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Binnacle Hill",
+      "en": "Binnacle Hill",
+      "slug": "binnacle-hill-bsakl006"
+    },
+    "code": {
+      "id": "BSAKL006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.AK",
+        "level": 1,
+        "name": {
+          "local": "Acklins",
+          "en": "Acklins",
+          "slug": "acklins-bs-ak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.321",
+      "lon": "-74.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSAKL012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chesters",
+      "en": "Chesters",
+      "slug": "chesters-bsakl012"
+    },
+    "code": {
+      "id": "BSAKL012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.AK",
+        "level": 1,
+        "name": {
+          "local": "Acklins",
+          "en": "Acklins",
+          "slug": "acklins-bs-ak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.707",
+      "lon": "-73.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSAKL004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Delectable Point",
+      "en": "Delectable Point",
+      "slug": "delectable-point-bsakl004"
+    },
+    "code": {
+      "id": "BSAKL004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.AK",
+        "level": 1,
+        "name": {
+          "local": "Acklins",
+          "en": "Acklins",
+          "slug": "acklins-bs-ak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.42",
+      "lon": "-73.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSAKL005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Golden Grove",
+      "en": "Golden Grove",
+      "slug": "golden-grove-bsakl005"
+    },
+    "code": {
+      "id": "BSAKL005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.AK",
+        "level": 1,
+        "name": {
+          "local": "Acklins",
+          "en": "Acklins",
+          "slug": "acklins-bs-ak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.467",
+      "lon": "-73.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSAKL007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Goodwill",
+      "en": "Goodwill",
+      "slug": "goodwill-bsakl007"
+    },
+    "code": {
+      "id": "BSAKL007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.AK",
+        "level": 1,
+        "name": {
+          "local": "Acklins",
+          "en": "Acklins",
+          "slug": "acklins-bs-ak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.537",
+      "lon": "-73.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSAKL011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hard Hill",
+      "en": "Hard Hill",
+      "slug": "hard-hill-bsakl011"
+    },
+    "code": {
+      "id": "BSAKL011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.AK",
+        "level": 1,
+        "name": {
+          "local": "Acklins",
+          "en": "Acklins",
+          "slug": "acklins-bs-ak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.602",
+      "lon": "-73.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSAKL003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lovely Bay",
+      "en": "Lovely Bay",
+      "slug": "lovely-bay-bsakl003"
+    },
+    "code": {
+      "id": "BSAKL003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.AK",
+        "level": 1,
+        "name": {
+          "local": "Acklins",
+          "en": "Acklins",
+          "slug": "acklins-bs-ak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.691",
+      "lon": "-73.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSAKL002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Masons Bay",
+      "en": "Masons Bay",
+      "slug": "masons-bay-bsakl002"
+    },
+    "code": {
+      "id": "BSAKL002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.AK",
+        "level": 1,
+        "name": {
+          "local": "Acklins",
+          "en": "Acklins",
+          "slug": "acklins-bs-ak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.544",
+      "lon": "-73.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSAKL009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Morant Bay",
+      "en": "Morant Bay",
+      "slug": "morant-bay-bsakl009"
+    },
+    "code": {
+      "id": "BSAKL009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.AK",
+        "level": 1,
+        "name": {
+          "local": "Acklins",
+          "en": "Acklins",
+          "slug": "acklins-bs-ak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.4",
+      "lon": "-74.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSAKL014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pinefield",
+      "en": "Pinefield",
+      "slug": "pinefield-bsakl014"
+    },
+    "code": {
+      "id": "BSAKL014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.AK",
+        "level": 1,
+        "name": {
+          "local": "Acklins",
+          "en": "Acklins",
+          "slug": "acklins-bs-ak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.65",
+      "lon": "-73.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSAKL013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pompey Bay",
+      "en": "Pompey Bay",
+      "slug": "pompey-bay-bsakl013"
+    },
+    "code": {
+      "id": "BSAKL013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.AK",
+        "level": 1,
+        "name": {
+          "local": "Acklins",
+          "en": "Acklins",
+          "slug": "acklins-bs-ak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.411",
+      "lon": "-73.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSAKL010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Salina Point",
+      "en": "Salina Point",
+      "slug": "salina-point-bsakl010"
+    },
+    "code": {
+      "id": "BSAKL010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.AK",
+        "level": 1,
+        "name": {
+          "local": "Acklins",
+          "en": "Acklins",
+          "slug": "acklins-bs-ak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.205",
+      "lon": "-74.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSAKL001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Snug Corner",
+      "en": "Snug Corner",
+      "slug": "snug-corner-bsakl001"
+    },
+    "code": {
+      "id": "BSAKL001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.AK",
+        "level": 1,
+        "name": {
+          "local": "Acklins",
+          "en": "Acklins",
+          "slug": "acklins-bs-ak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.533",
+      "lon": "-73.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSAKL008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Spring Point",
+      "en": "Spring Point",
+      "slug": "spring-point-bsakl008"
+    },
+    "code": {
+      "id": "BSAKL008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.AK",
+        "level": 1,
+        "name": {
+          "local": "Acklins",
+          "en": "Acklins",
+          "slug": "acklins-bs-ak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.459",
+      "lon": "-73.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSAKL016",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "True Blue",
+      "en": "True Blue",
+      "slug": "true-blue-bsakl016"
+    },
+    "code": {
+      "id": "BSAKL016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.AK",
+        "level": 1,
+        "name": {
+          "local": "Acklins",
+          "en": "Acklins",
+          "slug": "acklins-bs-ak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.067",
+      "lon": "-74.067"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

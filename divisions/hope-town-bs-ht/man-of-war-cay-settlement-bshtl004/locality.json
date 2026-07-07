@@ -1,0 +1,45 @@
+{
+  "id": "BSHTL004",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Man of War Cay Settlement",
+    "en": "Man of War Cay Settlement",
+    "slug": "man-of-war-cay-settlement-bshtl004"
+  },
+  "code": {
+    "id": "BSHTL004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.HT",
+    "level": 1,
+    "name": {
+      "local": "Hope Town",
+      "en": "Hope Town",
+      "slug": "hope-town-bs-ht"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.HT",
+      "level": 1,
+      "name": {
+        "local": "Hope Town",
+        "en": "Hope Town",
+        "slug": "hope-town-bs-ht"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.595",
+    "lon": "-77.001"
+  },
+  "metadata": {},
+  "source": {}
+}

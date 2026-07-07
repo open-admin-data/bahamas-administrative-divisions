@@ -1,0 +1,33 @@
+{
+  "id": "BS.AK",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Acklins",
+    "en": "Acklins",
+    "slug": "acklins-bs-ak"
+  },
+  "code": {
+    "id": "BS.AK",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.637",
+    "lon": "-73.915"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/acklins-bs-ak/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

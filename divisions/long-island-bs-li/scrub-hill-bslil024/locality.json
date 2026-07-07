@@ -1,0 +1,45 @@
+{
+  "id": "BSLIL024",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Scrub Hill",
+    "en": "Scrub Hill",
+    "slug": "scrub-hill-bslil024"
+  },
+  "code": {
+    "id": "BSLIL024",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.LI",
+    "level": 1,
+    "name": {
+      "local": "Long Island",
+      "en": "Long Island",
+      "slug": "long-island-bs-li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.483",
+    "lon": "-75.233"
+  },
+  "metadata": {},
+  "source": {}
+}

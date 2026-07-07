@@ -1,0 +1,227 @@
+[
+  {
+    "id": "BSEBL005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bevans Town",
+      "en": "Bevans Town",
+      "slug": "bevans-town-bsebl005"
+    },
+    "code": {
+      "id": "BSEBL005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EB",
+      "level": 1,
+      "name": {
+        "local": "East Grand Bahama",
+        "en": "East Grand Bahama",
+        "slug": "east-grand-bahama-bs-eb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EB",
+        "level": 1,
+        "name": {
+          "local": "East Grand Bahama",
+          "en": "East Grand Bahama",
+          "slug": "east-grand-bahama-bs-eb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.6",
+      "lon": "-78.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEBL002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "High Rock",
+      "en": "High Rock",
+      "slug": "high-rock-bsebl002"
+    },
+    "code": {
+      "id": "BSEBL002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EB",
+      "level": 1,
+      "name": {
+        "local": "East Grand Bahama",
+        "en": "East Grand Bahama",
+        "slug": "east-grand-bahama-bs-eb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EB",
+        "level": 1,
+        "name": {
+          "local": "East Grand Bahama",
+          "en": "East Grand Bahama",
+          "slug": "east-grand-bahama-bs-eb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.61",
+      "lon": "-78.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEBL003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "McLeans Town",
+      "en": "McLeans Town",
+      "slug": "mcleans-town-bsebl003"
+    },
+    "code": {
+      "id": "BSEBL003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EB",
+      "level": 1,
+      "name": {
+        "local": "East Grand Bahama",
+        "en": "East Grand Bahama",
+        "slug": "east-grand-bahama-bs-eb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EB",
+        "level": 1,
+        "name": {
+          "local": "East Grand Bahama",
+          "en": "East Grand Bahama",
+          "slug": "east-grand-bahama-bs-eb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.658",
+      "lon": "-77.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEBL004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pelican Point",
+      "en": "Pelican Point",
+      "slug": "pelican-point-bsebl004"
+    },
+    "code": {
+      "id": "BSEBL004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EB",
+      "level": 1,
+      "name": {
+        "local": "East Grand Bahama",
+        "en": "East Grand Bahama",
+        "slug": "east-grand-bahama-bs-eb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EB",
+        "level": 1,
+        "name": {
+          "local": "East Grand Bahama",
+          "en": "East Grand Bahama",
+          "slug": "east-grand-bahama-bs-eb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.65",
+      "lon": "-78.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSEBL001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sweeting Cay",
+      "en": "Sweeting Cay",
+      "slug": "sweeting-cay-bsebl001"
+    },
+    "code": {
+      "id": "BSEBL001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.EB",
+      "level": 1,
+      "name": {
+        "local": "East Grand Bahama",
+        "en": "East Grand Bahama",
+        "slug": "east-grand-bahama-bs-eb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.EB",
+        "level": 1,
+        "name": {
+          "local": "East Grand Bahama",
+          "en": "East Grand Bahama",
+          "slug": "east-grand-bahama-bs-eb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.6",
+      "lon": "-77.883"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

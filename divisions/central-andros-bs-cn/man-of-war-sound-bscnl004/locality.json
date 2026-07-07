@@ -1,0 +1,45 @@
+{
+  "id": "BSCNL004",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Man of War Sound",
+    "en": "Man of War Sound",
+    "slug": "man-of-war-sound-bscnl004"
+  },
+  "code": {
+    "id": "BSCNL004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.CN",
+    "level": 1,
+    "name": {
+      "local": "Central Andros",
+      "en": "Central Andros",
+      "slug": "central-andros-bs-cn"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.CN",
+      "level": 1,
+      "name": {
+        "local": "Central Andros",
+        "en": "Central Andros",
+        "slug": "central-andros-bs-cn"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.55",
+    "lon": "-77.75"
+  },
+  "metadata": {},
+  "source": {}
+}

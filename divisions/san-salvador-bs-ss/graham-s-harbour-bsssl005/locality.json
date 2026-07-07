@@ -1,0 +1,45 @@
+{
+  "id": "BSSSL005",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Graham's Harbour",
+    "en": "Graham's Harbour",
+    "slug": "graham-s-harbour-bsssl005"
+  },
+  "code": {
+    "id": "BSSSL005",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.SS",
+    "level": 1,
+    "name": {
+      "local": "San Salvador",
+      "en": "San Salvador",
+      "slug": "san-salvador-bs-ss"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.SS",
+      "level": 1,
+      "name": {
+        "local": "San Salvador",
+        "en": "San Salvador",
+        "slug": "san-salvador-bs-ss"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.119",
+    "lon": "-74.464"
+  },
+  "metadata": {},
+  "source": {}
+}

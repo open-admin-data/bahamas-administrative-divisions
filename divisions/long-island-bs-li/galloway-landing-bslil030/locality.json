@@ -1,0 +1,45 @@
+{
+  "id": "BSLIL030",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Galloway Landing",
+    "en": "Galloway Landing",
+    "slug": "galloway-landing-bslil030"
+  },
+  "code": {
+    "id": "BSLIL030",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.LI",
+    "level": 1,
+    "name": {
+      "local": "Long Island",
+      "en": "Long Island",
+      "slug": "long-island-bs-li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.062",
+    "lon": "-74.971"
+  },
+  "metadata": {},
+  "source": {}
+}

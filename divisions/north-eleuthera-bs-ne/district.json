@@ -1,0 +1,33 @@
+{
+  "id": "BS.NE",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "North Eleuthera",
+    "en": "North Eleuthera",
+    "slug": "north-eleuthera-bs-ne"
+  },
+  "code": {
+    "id": "BS.NE",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.484",
+    "lon": "-76.716"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/north-eleuthera-bs-ne/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

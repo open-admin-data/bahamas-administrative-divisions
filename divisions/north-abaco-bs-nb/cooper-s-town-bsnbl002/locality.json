@@ -1,0 +1,45 @@
+{
+  "id": "BSNBL002",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Cooperâ€™s Town",
+    "en": "Cooperâ€™s Town",
+    "slug": "cooper-s-town-bsnbl002"
+  },
+  "code": {
+    "id": "BSNBL002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NB",
+    "level": 1,
+    "name": {
+      "local": "North Abaco",
+      "en": "North Abaco",
+      "slug": "north-abaco-bs-nb"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NB",
+      "level": 1,
+      "name": {
+        "local": "North Abaco",
+        "en": "North Abaco",
+        "slug": "north-abaco-bs-nb"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.867",
+    "lon": "-77.517"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BSWBL012",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Hope Estate",
+    "en": "Hope Estate",
+    "slug": "hope-estate-bswbl012"
+  },
+  "code": {
+    "id": "BSWBL012",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.WB",
+    "level": 1,
+    "name": {
+      "local": "West Grand Bahama",
+      "en": "West Grand Bahama",
+      "slug": "west-grand-bahama-bs-wb"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.WB",
+      "level": 1,
+      "name": {
+        "local": "West Grand Bahama",
+        "en": "West Grand Bahama",
+        "slug": "west-grand-bahama-bs-wb"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.667",
+    "lon": "-78.933"
+  },
+  "metadata": {},
+  "source": {}
+}

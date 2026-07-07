@@ -1,0 +1,45 @@
+{
+  "id": "BSEBL001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Sweeting Cay",
+    "en": "Sweeting Cay",
+    "slug": "sweeting-cay-bsebl001"
+  },
+  "code": {
+    "id": "BSEBL001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.EB",
+    "level": 1,
+    "name": {
+      "local": "East Grand Bahama",
+      "en": "East Grand Bahama",
+      "slug": "east-grand-bahama-bs-eb"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.EB",
+      "level": 1,
+      "name": {
+        "local": "East Grand Bahama",
+        "en": "East Grand Bahama",
+        "slug": "east-grand-bahama-bs-eb"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.6",
+    "lon": "-77.883"
+  },
+  "metadata": {},
+  "source": {}
+}

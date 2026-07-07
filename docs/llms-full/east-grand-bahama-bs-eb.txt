@@ -1,0 +1,34 @@
+# East Grand Bahama — Bahamas Administrative Divisions
+
+> 5 localitys
+> Code: BS.EB
+> Coordinates: 26.672, -78.162
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Bevans Town
+
+Code: BSEBL005, Coordinates: 26.6, -78.317
+
+
+### High Rock
+
+Code: BSEBL002, Coordinates: 26.61, -78.279
+
+
+### McLeans Town
+
+Code: BSEBL003, Coordinates: 26.658, -77.992
+
+
+### Pelican Point
+
+Code: BSEBL004, Coordinates: 26.65, -78.083
+
+
+### Sweeting Cay
+
+Code: BSEBL001, Coordinates: 26.6, -77.883
+
+

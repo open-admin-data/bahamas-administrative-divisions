@@ -1,0 +1,45 @@
+{
+  "id": "BSNWL001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Adelaide",
+    "en": "Adelaide",
+    "slug": "adelaide-bsnwl001"
+  },
+  "code": {
+    "id": "BSNWL001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NW",
+    "level": 1,
+    "name": {
+      "local": "New Providence",
+      "en": "New Providence",
+      "slug": "new-providence-bs-nw"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.003",
+    "lon": "-77.518"
+  },
+  "metadata": {},
+  "source": {}
+}

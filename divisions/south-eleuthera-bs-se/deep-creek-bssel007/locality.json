@@ -1,0 +1,45 @@
+{
+  "id": "BSSEL007",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Deep Creek",
+    "en": "Deep Creek",
+    "slug": "deep-creek-bssel007"
+  },
+  "code": {
+    "id": "BSSEL007",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.SE",
+    "level": 1,
+    "name": {
+      "local": "South Eleuthera",
+      "en": "South Eleuthera",
+      "slug": "south-eleuthera-bs-se"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.SE",
+      "level": 1,
+      "name": {
+        "local": "South Eleuthera",
+        "en": "South Eleuthera",
+        "slug": "south-eleuthera-bs-se"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.773",
+    "lon": "-76.27"
+  },
+  "metadata": {},
+  "source": {}
+}

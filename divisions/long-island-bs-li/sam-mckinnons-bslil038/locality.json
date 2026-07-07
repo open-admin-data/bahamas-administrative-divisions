@@ -1,0 +1,45 @@
+{
+  "id": "BSLIL038",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Sam McKinnons",
+    "en": "Sam McKinnons",
+    "slug": "sam-mckinnons-bslil038"
+  },
+  "code": {
+    "id": "BSLIL038",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.LI",
+    "level": 1,
+    "name": {
+      "local": "Long Island",
+      "en": "Long Island",
+      "slug": "long-island-bs-li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.4",
+    "lon": "-75.183"
+  },
+  "metadata": {},
+  "source": {}
+}

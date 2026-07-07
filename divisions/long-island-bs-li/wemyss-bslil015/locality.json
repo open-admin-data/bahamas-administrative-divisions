@@ -1,0 +1,45 @@
+{
+  "id": "BSLIL015",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Wemyss",
+    "en": "Wemyss",
+    "slug": "wemyss-bslil015"
+  },
+  "code": {
+    "id": "BSLIL015",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.LI",
+    "level": 1,
+    "name": {
+      "local": "Long Island",
+      "en": "Long Island",
+      "slug": "long-island-bs-li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.LI",
+      "level": 1,
+      "name": {
+        "local": "Long Island",
+        "en": "Long Island",
+        "slug": "long-island-bs-li"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.417",
+    "lon": "-75.183"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BSSNL006",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Congo Town",
+    "en": "Congo Town",
+    "slug": "congo-town-bssnl006"
+  },
+  "code": {
+    "id": "BSSNL006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.SN",
+    "level": 1,
+    "name": {
+      "local": "South Andros",
+      "en": "South Andros",
+      "slug": "south-andros-bs-sn"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.SN",
+      "level": 1,
+      "name": {
+        "local": "South Andros",
+        "en": "South Andros",
+        "slug": "south-andros-bs-sn"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.166",
+    "lon": "-77.584"
+  },
+  "metadata": {},
+  "source": {}
+}

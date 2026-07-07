@@ -1,0 +1,45 @@
+{
+  "id": "BSFPL010",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Sea Grape",
+    "en": "Sea Grape",
+    "slug": "sea-grape-bsfpl010"
+  },
+  "code": {
+    "id": "BSFPL010",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.FP",
+    "level": 1,
+    "name": {
+      "local": "City of Freeport",
+      "en": "City of Freeport",
+      "slug": "city-of-freeport-bs-fp"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.FP",
+      "level": 1,
+      "name": {
+        "local": "City of Freeport",
+        "en": "City of Freeport",
+        "slug": "city-of-freeport-bs-fp"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.533",
+    "lon": "-78.817"
+  },
+  "metadata": {},
+  "source": {}
+}

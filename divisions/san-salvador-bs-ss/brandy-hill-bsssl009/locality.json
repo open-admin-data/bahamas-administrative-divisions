@@ -1,0 +1,45 @@
+{
+  "id": "BSSSL009",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Brandy Hill",
+    "en": "Brandy Hill",
+    "slug": "brandy-hill-bsssl009"
+  },
+  "code": {
+    "id": "BSSSL009",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.SS",
+    "level": 1,
+    "name": {
+      "local": "San Salvador",
+      "en": "San Salvador",
+      "slug": "san-salvador-bs-ss"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.SS",
+      "level": 1,
+      "name": {
+        "local": "San Salvador",
+        "en": "San Salvador",
+        "slug": "san-salvador-bs-ss"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.083",
+    "lon": "-74.433"
+  },
+  "metadata": {},
+  "source": {}
+}

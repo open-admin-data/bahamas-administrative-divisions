@@ -1,0 +1,182 @@
+[
+  {
+    "id": "BSSBL004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Crossing Rocks",
+      "en": "Crossing Rocks",
+      "slug": "crossing-rocks-bssbl004"
+    },
+    "code": {
+      "id": "BSSBL004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SB",
+      "level": 1,
+      "name": {
+        "local": "South Abaco",
+        "en": "South Abaco",
+        "slug": "south-abaco-bs-sb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SB",
+        "level": 1,
+        "name": {
+          "local": "South Abaco",
+          "en": "South Abaco",
+          "slug": "south-abaco-bs-sb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.133",
+      "lon": "-77.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSBL003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Little Bay",
+      "en": "Little Bay",
+      "slug": "little-bay-bssbl003"
+    },
+    "code": {
+      "id": "BSSBL003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SB",
+      "level": 1,
+      "name": {
+        "local": "South Abaco",
+        "en": "South Abaco",
+        "slug": "south-abaco-bs-sb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SB",
+        "level": 1,
+        "name": {
+          "local": "South Abaco",
+          "en": "South Abaco",
+          "slug": "south-abaco-bs-sb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.833",
+      "lon": "-77.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSBL001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sandy Point",
+      "en": "Sandy Point",
+      "slug": "sandy-point-bssbl001"
+    },
+    "code": {
+      "id": "BSSBL001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SB",
+      "level": 1,
+      "name": {
+        "local": "South Abaco",
+        "en": "South Abaco",
+        "slug": "south-abaco-bs-sb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SB",
+        "level": 1,
+        "name": {
+          "local": "South Abaco",
+          "en": "South Abaco",
+          "slug": "south-abaco-bs-sb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.021",
+      "lon": "-77.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSSBL002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sweetings Village",
+      "en": "Sweetings Village",
+      "slug": "sweetings-village-bssbl002"
+    },
+    "code": {
+      "id": "BSSBL002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.SB",
+      "level": 1,
+      "name": {
+        "local": "South Abaco",
+        "en": "South Abaco",
+        "slug": "south-abaco-bs-sb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.SB",
+        "level": 1,
+        "name": {
+          "local": "South Abaco",
+          "en": "South Abaco",
+          "slug": "south-abaco-bs-sb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.35",
+      "lon": "-77.033"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

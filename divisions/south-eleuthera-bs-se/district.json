@@ -1,0 +1,33 @@
+{
+  "id": "BS.SE",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "South Eleuthera",
+    "en": "South Eleuthera",
+    "slug": "south-eleuthera-bs-se"
+  },
+  "code": {
+    "id": "BS.SE",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.779",
+    "lon": "-76.21"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/south-eleuthera-bs-se/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

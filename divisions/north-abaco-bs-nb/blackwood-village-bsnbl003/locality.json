@@ -1,0 +1,45 @@
+{
+  "id": "BSNBL003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Blackwood Village",
+    "en": "Blackwood Village",
+    "slug": "blackwood-village-bsnbl003"
+  },
+  "code": {
+    "id": "BSNBL003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NB",
+    "level": 1,
+    "name": {
+      "local": "North Abaco",
+      "en": "North Abaco",
+      "slug": "north-abaco-bs-nb"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NB",
+      "level": 1,
+      "name": {
+        "local": "North Abaco",
+        "en": "North Abaco",
+        "slug": "north-abaco-bs-nb"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.814",
+    "lon": "-77.439"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BSMIL001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Hard Bargain",
+    "en": "Hard Bargain",
+    "slug": "hard-bargain-bsmil001"
+  },
+  "code": {
+    "id": "BSMIL001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.MI",
+    "level": 1,
+    "name": {
+      "local": "Moore's Island",
+      "en": "Moore's Island",
+      "slug": "moore-s-island-bs-mi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.MI",
+      "level": 1,
+      "name": {
+        "local": "Moore's Island",
+        "en": "Moore's Island",
+        "slug": "moore-s-island-bs-mi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.305",
+    "lon": "-77.57"
+  },
+  "metadata": {},
+  "source": {}
+}

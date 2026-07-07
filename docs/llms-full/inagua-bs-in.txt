@@ -1,0 +1,14 @@
+# Inagua — Bahamas Administrative Divisions
+
+> 1 localitys
+> Code: BS.IN
+> Coordinates: 21.066, -73.431
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Matthew Town
+
+Code: BSINL001, Coordinates: 20.95, -73.667
+
+

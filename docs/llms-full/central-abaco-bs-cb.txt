@@ -1,0 +1,39 @@
+# Central Abaco — Bahamas Administrative Divisions
+
+> 6 localitys
+> Code: BS.CB
+> Coordinates: 26.407, -77.141
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Cherokee Sound
+
+Code: BSCBL001, Coordinates: 26.283, -77.033
+
+
+### Snake Cay
+
+Code: BSCBL006, Coordinates: 26.457, -77.048
+
+
+### Spring City Settlement
+
+Code: BSCBL004, Coordinates: 26.475, -77.089
+
+
+### The Bluff Settlement
+
+Code: BSCBL005, Coordinates: 26.633, -77.343
+
+
+### Treasure Cay
+
+Code: BSCBL003, Coordinates: 26.677, -77.286
+
+
+### Wilson City
+
+Code: BSCBL002, Coordinates: 26.367, -77.033
+
+

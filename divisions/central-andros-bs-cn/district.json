@@ -1,0 +1,33 @@
+{
+  "id": "BS.CN",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Central Andros",
+    "en": "Central Andros",
+    "slug": "central-andros-bs-cn"
+  },
+  "code": {
+    "id": "BS.CN",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.496",
+    "lon": "-77.971"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/central-andros-bs-cn/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

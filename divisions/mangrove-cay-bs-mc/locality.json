@@ -1,0 +1,227 @@
+[
+  {
+    "id": "BSMCL003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bastian Point",
+      "en": "Bastian Point",
+      "slug": "bastian-point-bsmcl003"
+    },
+    "code": {
+      "id": "BSMCL003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.MC",
+      "level": 1,
+      "name": {
+        "local": "Mangrove Cay",
+        "en": "Mangrove Cay",
+        "slug": "mangrove-cay-bs-mc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.MC",
+        "level": 1,
+        "name": {
+          "local": "Mangrove Cay",
+          "en": "Mangrove Cay",
+          "slug": "mangrove-cay-bs-mc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.235",
+      "lon": "-77.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSMCL002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Driggs Hill",
+      "en": "Driggs Hill",
+      "slug": "driggs-hill-bsmcl002"
+    },
+    "code": {
+      "id": "BSMCL002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.MC",
+      "level": 1,
+      "name": {
+        "local": "Mangrove Cay",
+        "en": "Mangrove Cay",
+        "slug": "mangrove-cay-bs-mc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.MC",
+        "level": 1,
+        "name": {
+          "local": "Mangrove Cay",
+          "en": "Mangrove Cay",
+          "slug": "mangrove-cay-bs-mc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.209",
+      "lon": "-77.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSMCL004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lisbon Creek",
+      "en": "Lisbon Creek",
+      "slug": "lisbon-creek-bsmcl004"
+    },
+    "code": {
+      "id": "BSMCL004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.MC",
+      "level": 1,
+      "name": {
+        "local": "Mangrove Cay",
+        "en": "Mangrove Cay",
+        "slug": "mangrove-cay-bs-mc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.MC",
+        "level": 1,
+        "name": {
+          "local": "Mangrove Cay",
+          "en": "Mangrove Cay",
+          "slug": "mangrove-cay-bs-mc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.214",
+      "lon": "-77.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSMCL005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mangrove Cay",
+      "en": "Mangrove Cay",
+      "slug": "mangrove-cay-bsmcl005"
+    },
+    "code": {
+      "id": "BSMCL005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.MC",
+      "level": 1,
+      "name": {
+        "local": "Mangrove Cay",
+        "en": "Mangrove Cay",
+        "slug": "mangrove-cay-bs-mc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.MC",
+        "level": 1,
+        "name": {
+          "local": "Mangrove Cay",
+          "en": "Mangrove Cay",
+          "slug": "mangrove-cay-bs-mc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.26",
+      "lon": "-77.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSMCL001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moxey Town",
+      "en": "Moxey Town",
+      "slug": "moxey-town-bsmcl001"
+    },
+    "code": {
+      "id": "BSMCL001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.MC",
+      "level": 1,
+      "name": {
+        "local": "Mangrove Cay",
+        "en": "Mangrove Cay",
+        "slug": "mangrove-cay-bs-mc"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.MC",
+        "level": 1,
+        "name": {
+          "local": "Mangrove Cay",
+          "en": "Mangrove Cay",
+          "slug": "mangrove-cay-bs-mc"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.295",
+      "lon": "-77.68"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

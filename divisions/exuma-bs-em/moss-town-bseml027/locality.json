@@ -1,0 +1,45 @@
+{
+  "id": "BSEML027",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Moss Town",
+    "en": "Moss Town",
+    "slug": "moss-town-bseml027"
+  },
+  "code": {
+    "id": "BSEML027",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.EM",
+    "level": 1,
+    "name": {
+      "local": "Exuma",
+      "en": "Exuma",
+      "slug": "exuma-bs-em"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.EM",
+      "level": 1,
+      "name": {
+        "local": "Exuma",
+        "en": "Exuma",
+        "slug": "exuma-bs-em"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.547",
+    "lon": "-75.856"
+  },
+  "metadata": {},
+  "source": {}
+}

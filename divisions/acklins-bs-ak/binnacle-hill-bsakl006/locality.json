@@ -1,0 +1,45 @@
+{
+  "id": "BSAKL006",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Binnacle Hill",
+    "en": "Binnacle Hill",
+    "slug": "binnacle-hill-bsakl006"
+  },
+  "code": {
+    "id": "BSAKL006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.AK",
+    "level": 1,
+    "name": {
+      "local": "Acklins",
+      "en": "Acklins",
+      "slug": "acklins-bs-ak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.AK",
+      "level": 1,
+      "name": {
+        "local": "Acklins",
+        "en": "Acklins",
+        "slug": "acklins-bs-ak"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.321",
+    "lon": "-74.138"
+  },
+  "metadata": {},
+  "source": {}
+}

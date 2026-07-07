@@ -1,0 +1,45 @@
+{
+  "id": "BSNWL028",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Sandilands Village",
+    "en": "Sandilands Village",
+    "slug": "sandilands-village-bsnwl028"
+  },
+  "code": {
+    "id": "BSNWL028",
+    "iso": null
+  },
+  "parent": {
+    "id": "BS.NW",
+    "level": 1,
+    "name": {
+      "local": "New Providence",
+      "en": "New Providence",
+      "slug": "new-providence-bs-nw"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BS.NW",
+      "level": 1,
+      "name": {
+        "local": "New Providence",
+        "en": "New Providence",
+        "slug": "new-providence-bs-nw"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.05",
+    "lon": "-77.317"
+  },
+  "metadata": {},
+  "source": {}
+}

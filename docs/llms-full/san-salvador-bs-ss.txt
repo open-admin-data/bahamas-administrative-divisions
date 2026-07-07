@@ -1,0 +1,129 @@
+# San Salvador — Bahamas Administrative Divisions
+
+> 24 localitys
+> Code: BS.SS
+> Coordinates: 24.067, -74.482
+> Last updated: 2026-07-07. License: CC-BY-4.0.
+
+## Localitys
+
+### Allen
+
+Code: BSSSL019, Coordinates: 23.95, -74.517
+
+
+### Brandy Hill
+
+Code: BSSSL009, Coordinates: 24.083, -74.433
+
+
+### Cockburn Town
+
+Code: BSSSL001, Coordinates: 24.07, -74.529
+
+
+### Cockburn Town
+
+Code: BSSSL002, Coordinates: 24.033, -74.517
+
+
+### Dixons
+
+Code: BSSSL017, Coordinates: 24.1, -74.45
+
+
+### Farquharson
+
+Code: BSSSL020, Coordinates: 24, -74.467
+
+
+### Fortune Hill
+
+Code: BSSSL016, Coordinates: 24.017, -74.45
+
+
+### Graham&#39;s Harbour
+
+Code: BSSSL005, Coordinates: 24.119, -74.464
+
+
+### Halls Landing
+
+Code: BSSSL004, Coordinates: 24, -74.517
+
+
+### Harbour Estate
+
+Code: BSSSL010, Coordinates: 24.1, -74.517
+
+
+### Hard Bargain
+
+Code: BSSSL008, Coordinates: 24.067, -74.45
+
+
+### Holdiday Track
+
+Code: BSSSL011, Coordinates: 24.017, -74.45
+
+
+### Long Bay
+
+Code: BSSSL006, Coordinates: 24.012, -74.525
+
+
+### Montreal
+
+Code: BSSSL012, Coordinates: 23.956, -74.494
+
+
+### Old Place
+
+Code: BSSSL013, Coordinates: 23.967, -74.483
+
+
+### Polly Hill
+
+Code: BSSSL021, Coordinates: 24.083, -74.433
+
+
+### Quarters
+
+Code: BSSSL022, Coordinates: 24.104, -74.519
+
+
+### Reckley Hill
+
+Code: BSSSL024, Coordinates: 24.1, -74.45
+
+
+### South Victoria Hill
+
+Code: BSSSL007, Coordinates: 24, -74.467
+
+
+### Sugar Loaf
+
+Code: BSSSL003, Coordinates: 24.002, -74.535
+
+
+### Trial Farm
+
+Code: BSSSL015, Coordinates: 23.967, -74.483
+
+
+### United Estates
+
+Code: BSSSL014, Coordinates: 24.1, -74.45
+
+
+### Victoria Hill
+
+Code: BSSSL018, Coordinates: 24.033, -74.467
+
+
+### Victoria Hill
+
+Code: BSSSL023, Coordinates: 24.094, -74.523
+
+

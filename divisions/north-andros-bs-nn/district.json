@@ -1,0 +1,33 @@
+{
+  "id": "BS.NN",
+  "level": 1,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "North Andros",
+    "en": "North Andros",
+    "slug": "north-andros-bs-nn"
+  },
+  "code": {
+    "id": "BS.NN",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.798",
+    "lon": "-78.049"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/bs/districts/north-andros-bs-nn/",
+    "api": "https://openadmindata.org/api/bs/"
+  }
+}

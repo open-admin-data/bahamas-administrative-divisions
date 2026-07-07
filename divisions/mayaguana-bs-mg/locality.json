@@ -1,0 +1,137 @@
+[
+  {
+    "id": "BSMGL003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Abraham's Bay",
+      "en": "Abraham's Bay",
+      "slug": "abraham-s-bay-bsmgl003"
+    },
+    "code": {
+      "id": "BSMGL003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.MG",
+      "level": 1,
+      "name": {
+        "local": "Mayaguana",
+        "en": "Mayaguana",
+        "slug": "mayaguana-bs-mg"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.MG",
+        "level": 1,
+        "name": {
+          "local": "Mayaguana",
+          "en": "Mayaguana",
+          "slug": "mayaguana-bs-mg"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.367",
+      "lon": "-72.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSMGL002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Betsy Bay",
+      "en": "Betsy Bay",
+      "slug": "betsy-bay-bsmgl002"
+    },
+    "code": {
+      "id": "BSMGL002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.MG",
+      "level": 1,
+      "name": {
+        "local": "Mayaguana",
+        "en": "Mayaguana",
+        "slug": "mayaguana-bs-mg"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.MG",
+        "level": 1,
+        "name": {
+          "local": "Mayaguana",
+          "en": "Mayaguana",
+          "slug": "mayaguana-bs-mg"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.419",
+      "lon": "-73.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BSMGL001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pirates Well",
+      "en": "Pirates Well",
+      "slug": "pirates-well-bsmgl001"
+    },
+    "code": {
+      "id": "BSMGL001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BS.MG",
+      "level": 1,
+      "name": {
+        "local": "Mayaguana",
+        "en": "Mayaguana",
+        "slug": "mayaguana-bs-mg"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BS.MG",
+        "level": 1,
+        "name": {
+          "local": "Mayaguana",
+          "en": "Mayaguana",
+          "slug": "mayaguana-bs-mg"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.433",
+      "lon": "-73.067"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
