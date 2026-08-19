@@ -3,7 +3,7 @@
 > 2 localitys
 > Code: BS.BP
 > Coordinates: 24.052, -76.365
-> Last updated: 2026-07-07. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Localitys
 

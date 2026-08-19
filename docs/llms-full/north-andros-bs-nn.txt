@@ -3,7 +3,7 @@
 > 22 localitys
 > Code: BS.NN
 > Coordinates: 24.798, -78.049
-> Last updated: 2026-07-07. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Localitys
 

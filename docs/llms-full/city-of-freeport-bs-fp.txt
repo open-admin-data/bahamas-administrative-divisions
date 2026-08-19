@@ -3,7 +3,7 @@
 > 14 localitys
 > Code: BS.FP
 > Coordinates: 26.531, -78.63
-> Last updated: 2026-07-07. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Localitys
 
