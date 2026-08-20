@@ -3,7 +3,7 @@
 > 27 localitys
 > Code: BS.EM
 > Coordinates: 23.62, -75.949
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Localitys
 

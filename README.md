@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/bs](https://openadmindata.org/bs/) |
 | API | [openadmindata.org/api/bs](https://openadmindata.org/api/bs/) |
+| Flag | [PNG](https://onlygames.me/flags-png/bs/) · [SVG](https://onlygames.me/flags-svg/bs/) · [PDF](https://onlygames.me/flags-pdf/bs/) |
 | National Anthem | [🎵 Listen & Download Bahamas National Anthem MP3](https://onlygames.me/national-anthems/bs/) |
 
 ## Browse by District

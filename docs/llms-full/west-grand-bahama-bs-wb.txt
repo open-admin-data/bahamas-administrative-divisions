@@ -3,7 +3,7 @@
 > 12 localitys
 > Code: BS.WB
 > Coordinates: 26.635, -78.511
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Localitys
 

@@ -3,7 +3,7 @@
 > 2 localitys
 > Code: BS.MI
 > Coordinates: 26.306, -77.558
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Localitys
 
